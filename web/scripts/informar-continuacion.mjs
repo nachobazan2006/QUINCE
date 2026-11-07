@@ -1,0 +1,64 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { createHash } from 'node:crypto';
+import assert from 'node:assert/strict';
+
+const web = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const docs = path.resolve(web, '../docs');
+const salida = path.join(docs, 'catalogo-continuacion');
+const leer = async ruta => JSON.parse(await fs.readFile(ruta, 'utf8'));
+const plan = await leer(path.join(salida, 'plan-importacion.json'));
+const resultado = await leer(path.join(salida, 'resultado-aplicado.json'));
+const repeticion = await leer(path.join(salida, 'resultado-repeticion.json'));
+const productos = (await leer(path.join(web, 'public/data/products.json'))).products;
+const categorias = (await leer(path.join(web, 'public/data/categories.json'))).categories;
+const manifiesto = await leer(path.join(docs, 'manifiesto-assets.json'));
+const inventario = await leer(path.join(docs, 'catalogo-importacion/inventario.json'));
+const base = await leer(path.join(salida, 'respaldo-inicial/products.json'));
+assert.equal(productos.length, resultado.productosTotales,
+  'Este informe es histórico: el catálogo avanzó a otra etapa y no debe reemplazar los pendientes actuales.');
+const hash = contenido => createHash('sha256').update(contenido).digest('hex');
+assert.deepEqual(productos.slice(0, 24), base.products);
+assert.equal(repeticion.webpGenerados, 0);
+assert.equal(repeticion.nuevos.length, 0);
+for (const v of plan.webpPrevios) assert.equal(hash(await fs.readFile(path.join(web, 'public', v.ruta))), v.sha256);
+const rutas = new Set(productos.flatMap(p => [p.image, ...p.gallery].map(f => f.src)));
+const hashesUsados = new Set(manifiesto.recursos.filter(r => r.variantes.some(v => rutas.has(v.rutaPublica))).map(r => r.original.sha256));
+const fotosSinUsar = inventario.flatMap(g => g.imagenes.filter(f => !hashesUsados.has(f.sha256)).map(f => ({ carpeta: g.carpeta, ...f })));
+const parciales = inventario.filter(g => g.imagenes.some(f => hashesUsados.has(f.sha256)) && g.imagenes.some(f => !hashesUsados.has(f.sha256)));
+const porCategoria = Object.fromEntries(categorias.filter(c => c.id !== 'sports').map(c => [c.name, productos.filter(p => p.categoryIds.includes(c.id)).length]));
+const porDuda = Object.fromEntries([...new Set(plan.pendientes.map(p => p.tipo))].map(t => [t, plan.pendientes.filter(p => p.tipo === t).length]));
+const resumen = { carpetasRevisadas: inventario.length, fotografiasOriginales: inventario.reduce((s, g) => s + g.imagenes.length, 0),
+  productosPreservados: base.products.length, productosNuevos: resultado.nuevos.length, productosTotales: productos.length,
+  porCategoria, carpetasSinFicha: plan.pendientes.length, porDuda, carpetasConTomasExcluidas: parciales.map(g => g.nombre),
+  archivosSinUsar: fotosSinUsar.length, originalesUnicosSinUsar: new Set(fotosSinUsar.map(f => f.sha256)).size,
+  webpPreservados: plan.webpPrevios.length, webpNuevos: resultado.webpGenerados, bytesNuevos: resultado.bytesAgregados,
+  fecha: new Date().toISOString() };
+await fs.writeFile(path.join(salida, 'resumen-final.json'), JSON.stringify(resumen, null, 2) + '\n');
+await fs.writeFile(path.join(salida, 'fotografias-no-publicadas.json'), JSON.stringify(fotosSinUsar, null, 2) + '\n');
+
+let pendientes = `# Catálogo pendiente de revisión — estado después de la continuación\n\nQuedaron **${plan.pendientes.length} carpetas sin ficha**. Esto no equivale a ${plan.pendientes.length} productos: hay dos pares de carpetas duplicadas, posibles modelos repetidos y grupos con variantes sin resolver. Las 81 carpetas y las 274 fotografías fueron revisadas; las exclusiones son deliberadas. El plan histórico del Prompt 13B se conserva en catalogo-importacion/.\n\n`;
+pendientes += '| Carpeta | Fotografías | Duda concreta y decisión necesaria |\n| --- | --- | --- |\n';
+for (const p of plan.pendientes) pendientes += `| ${p.nombre} | ${p.imagenes.length} | **${p.tipo}:** ${p.motivo} |\n`;
+pendientes += '\n## Tomas excluidas en carpetas con producto cargado\n\nEstas cuatro carpetas ya tienen ficha. No se cuentan otra vez entre las 28 anteriores.\n\n| Carpeta | Motivo |\n| --- | --- |\n';
+const motivosParciales = {
+  'CAMISETA DE HOCKEY DAMA COOL': 'Se cargaron solo las tres tomas rosa/azul. El dorso azul/blanco tiene otro diseño y quedó fuera.',
+  'CAMISETA RUGBY BODY': 'Se preservó la ficha verde. Tres tomas bordó pertenecen a otra personalización/posible variante sin regla comercial.',
+  'POLLERA CON CALZA WAVE': 'Se preservó la galería roja. Dos tomas negras con otra identidad no se agregaron.',
+  'SHORT RUGBY SHANE': 'Se preservó la imagen aprobada con escudo verde. La otra toma tiene marca TRC diferente.',
+};
+for (const p of parciales) { assert(motivosParciales[p.nombre]); pendientes += `| ${p.nombre} | ${motivosParciales[p.nombre]} |\n`; }
+pendientes += `\n## Archivos sin publicar\n\nQuedan **${fotosSinUsar.length} archivos originales sin usar**, equivalentes a **${resumen.originalesUnicosSinUsar} contenidos únicos**; ocho son copias exactas en los dos pares de carpetas duplicadas. Están repartidos entre las 28 carpetas sin ficha y las cuatro parcialmente utilizadas. No quedaron carpetas sin revisar. La lista con ruta y SHA-256 está en [fotografias-no-publicadas.json](catalogo-continuacion/fotografias-no-publicadas.json). No se optimizaron estas tomas para llenar el inventario.\n\nEl esquema actual no tiene variantes comerciales. No se crearon campos nuevos ni fichas separadas por color. Faltan decisiones sobre agrupación, identidad o categoría, no nombres ni descripciones fabricadas.\n`;
+await fs.writeFile(path.join(docs, 'catalogo-pendiente-revision.md'), pendientes);
+
+let reporte = `# Continuación de la carga del catálogo\n\nSe incorporaron **${resultado.nuevos.length} productos**, pasando de **24 a ${productos.length}**. Los 24 registros anteriores se conservaron íntegramente, incluidos ID, slug, nombre, categoría, imágenes, galerías y orden. Esta cifra es el catálogo seguro publicado; no se declara un total comercial definitivo para los grupos todavía ambiguos.\n\n`;
+reporte += '## Conteos comprobados\n\n| Concepto | Cantidad |\n| --- | ---: |\n';
+for (const [nombre, valor] of [['Carpetas revisadas', 81], ['Archivos JPEG contrastados por SHA-256', 274], ['Contenidos originales únicos', 266], ['Productos anteriores intactos', 24], ['Productos nuevos', 29], ['Total publicado', 53], ['Carpetas sin ficha por dudas', 28], ['Carpetas publicadas con algunas tomas excluidas', 4], ['Fotografías nuevas seleccionadas', 94], ['WebP anteriores conservados', 173], ['WebP nuevos', 188], ['WebP totales del sitio', 361], ['Archivos originales sin publicar', 104]]) reporte += `| ${nombre} | ${valor} |\n`;
+reporte += `\nPeso añadido: **${resultado.bytesAgregados.toLocaleString('es-AR')} bytes (${(resultado.bytesAgregados / 1024 / 1024).toFixed(2)} MiB)**. Cada fotografía nueva tiene dos anchos, 480 y 960 px como máximo, proporciones conservadas y WebP calidad 84. Se reutilizó el importador existente sin sobrescribir los 173 WebP previos ni los originales. Los 53 WebP de la primera optimización forman parte de esos 173.\n\n## Categorías\n\n| Categoría | Total actual | Nuevos |\n| --- | ---: | ---: |\n`;
+for (const c of categorias.filter(c => c.id !== 'sports')) reporte += `| ${c.name} | ${porCategoria[c.name]} | ${plan.aprobados.filter(p => p.categoria === c.id).length} |\n`;
+reporte += '\nDeportes es la categoría agrupadora; no se suma como otra colección ni duplica los subtotales.\n\n## Criterio aplicado\n\nTraining recibe prendas de entrenamiento por su tipo y corte, no por el escudo: calzas, térmica, pantalones deportivos, musculosas, shorts y prendas deportivas coherentes. Fitness no se creó como categoría ni se cambió la etiqueta pública Training. Urbano recibe básicos de calle, abrigos y la mochila Trial, consistente con la mochila urbana existente. Los nombres se conservaron tal como aparecen en las carpetas del cliente, incluso sus errores de escritura; no se agregaron colores, descripciones ni prestaciones. Las asignaciones por uso son decisiones de clasificación de esta carga, no una afirmación de un catálogo comercial previamente confirmado.\n\nNo se distribuyeron prendas entre deportes por reconocer un club. Básquet quedó pendiente porque esa categoría no existe. Los colores no se convirtieron en fichas independientes. En COOL se aisló un conjunto rosa/azul identificable y se dejó fuera un dorso incompatible; eso no crea una nueva variante comercial.\n\n## Incorporaciones\n\n| Producto / carpeta | Categoría | Fotos | Justificación |\n| --- | --- | ---: | --- |\n';
+for (const p of plan.aprobados) reporte += `| ${p.nombre} | ${categorias.find(c => c.id === p.categoria).name} | ${p.imagenes.length} | ${p.motivo} |\n`;
+reporte += '\n## Pendientes\n\nVer [catalogo-pendiente-revision.md](catalogo-pendiente-revision.md): detalla cada una de las 28 carpetas sin ficha y las cuatro con tomas excluidas. Los dos pares de duplicados binarios se evitaron; también se apartaron tres posibles alias de pantalones/chupines que requieren confirmación humana. Ninguna de esas dudas generó registros públicos. Los 104 archivos sin usar incluyen ocho duplicados; no son 104 productos.\n\n## Protección y repetición\n\n- Respaldo recuperable de products.json, categories.json y manifiesto-assets.json en catalogo-continuacion/respaldo-inicial/.\n- Plan previo validado y congelado en catalogo-continuacion/plan-importacion.json; contiene selección, exclusiones, razones y hashes.\n- La ejecución repetida agregó cero productos, cero imágenes y cero bytes.\n- Las 81 carpetas se contrastaron con el inventario real: 274 rutas y hashes coinciden.\n- No se alteraron categorías, componentes, CSS ni archivos originales. Se actualizó el manifiesto conservando su trazabilidad histórica.\n\n## Validación ejecutada\n\n- node scripts/verificar-catalogo.mjs: 53 registros válidos, ID/slug/foto principal únicos, categorías existentes, rutas válidas y 24 registros anteriores iguales al respaldo.\n- npm.cmd run build: correcto. npm.cmd evita la restricción de ejecución de npm.ps1 de PowerShell sin cambiar la política del sistema.\n- npm.cmd run assets:verify -- http://127.0.0.1:4173/: 361 WebP decodificados, dimensiones, proporciones, hashes public/dist, seis JSON y entrega HTTP correctos.\n- comprobar-importacion.cjs con el plan nuevo: las 29 fichas a 375 y 1440 px, nombres, miniaturas, siguiente/anterior, fotos cargadas, sin desborde ni errores JS.\n- comprobar-listados.cjs: desarrollo y compilación, Rugby en ocho anchos (375/393/600/768/900/1024/1200/1440), todas las colecciones, 53 fichas, navegación, destacados, errores de datos y 404 correctos. Training ahora contiene 16 productos; Instituciones permanece vacía.\n- Prueba temporal de nombre y orden en JSON reflejada en desarrollo y restaurada byte por byte.\n- Capturas guardadas fuera de producción en catalogo-continuacion/capturas/. Inspección visual de COOL desktop y Buzo Canguro Basic mobile, además de las hojas originales. No se declara aprobación visual del cliente ni auditoría general de diseño.\n\n## Archivos principales\n\nDatos: web/public/data/products.json y docs/manifiesto-assets.json. Nuevas imágenes: web/public/images/productos/catalogo-*.webp. Scripts nuevos: planificar-continuacion.mjs e informar-continuacion.mjs. Pruebas adaptadas: verificar-catalogo.mjs, comprobar-importacion.cjs y comprobar-listados.cjs. No se modificaron componentes visuales.\n\n## Cómo repetir o recuperar\n\nEl planificador se ejecuta una sola vez con `node scripts/planificar-continuacion.mjs --origen RUTA`; se niega a sobrescribir su plan y su respaldo. Para repetir la importación, desde web: `node scripts/optimizar-imagenes.mjs --plan ../docs/catalogo-continuacion/plan-importacion.json --origen RUTA`. La ruta puede cambiar de computadora, pero debe contener las mismas subcarpetas y archivos; los hashes deben coincidir. El importador conserva las rutas ya generadas. Para recuperar el catálogo anterior se dispone de los tres JSON del respaldo; las imágenes anteriores siguen intactas.\n\n## Aprendizaje\n\nLas carpetas no se muestran directamente: cada selección segura se transforma en un registro de products.json con categoría e imágenes. React reutiliza las tarjetas y fichas existentes para leerlo. SHA-256 permite comprobar el contenido de una foto aunque cambie su nombre o contenedor; los IDs/slugs y las rutas ya existentes evitan duplicaciones al repetir el proceso. Revisar products.json, planificar-continuacion.mjs e importar-catalogo.mjs. Ejercicio: elegí una carpeta pendiente y anotá qué dato concreto necesitarías del cliente para clasificarla, sin editar todavía el JSON público.\n';
+await fs.writeFile(path.join(docs, 'continuacion-catalogo-final.md'), reporte);
+console.log(resumen);

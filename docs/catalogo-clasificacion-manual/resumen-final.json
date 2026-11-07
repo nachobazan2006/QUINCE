@@ -1,0 +1,57 @@
+{
+  "productosTotales": 73,
+  "productosNuevos": 20,
+  "productosAnterioresIntactos": 53,
+  "porCategoria": [
+    {
+      "id": "rugby",
+      "nombre": "Rugby",
+      "cantidad": 11,
+      "nuevos": 3
+    },
+    {
+      "id": "training",
+      "nombre": "Training",
+      "cantidad": 23,
+      "nuevos": 7
+    },
+    {
+      "id": "urban",
+      "nombre": "Urbano",
+      "cantidad": 21,
+      "nuevos": 5
+    },
+    {
+      "id": "institutions",
+      "nombre": "Instituciones",
+      "cantidad": 3,
+      "nuevos": 3
+    },
+    {
+      "id": "hockey-femenino",
+      "nombre": "Hockey femenino",
+      "cantidad": 9,
+      "nuevos": 1
+    },
+    {
+      "id": "hockey-masculino",
+      "nombre": "Hockey masculino",
+      "cantidad": 2,
+      "nuevos": 0
+    },
+    {
+      "id": "futbol",
+      "nombre": "Fútbol",
+      "cantidad": 4,
+      "nuevos": 1
+    }
+  ],
+  "fotografiasNuevas": 52,
+  "webpNuevos": 104,
+  "webpAnterioresPreservados": 361,
+  "bytesNuevos": 4190144,
+  "carpetasSinFotosPublicadas": 8,
+  "carpetasConFotosExcluidas": 13,
+  "archivosNoPublicados": 49,
+  "contenidosUnicosNoPublicados": 44
+}

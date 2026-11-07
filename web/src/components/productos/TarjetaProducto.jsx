@@ -7,7 +7,7 @@ export default function TarjetaProducto({ producto, categoria, nivelTitulo = 3, 
   const Titulo = nivelTitulo === 2 ? 'h2' : 'h3';
   const contenido = <>
     {producto.image ? <ImagenAdaptable imagen={producto.image} prioritaria={prioritaria} sizes={sizes} />
-      : <p className="imagen-producto-pendiente">Imagen pendiente</p>}
+      : <p className="imagen-producto-pendiente">Imagen no disponible</p>}
     <Titulo title={producto.name}>{producto.name}</Titulo>
     <p>{categoria?.name}</p>
   </>;

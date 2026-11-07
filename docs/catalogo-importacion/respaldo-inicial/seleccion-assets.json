@@ -1,0 +1,305 @@
+[
+    {
+        "id":  "r017",
+        "archivoZip":  "pagina-web.quince.zip",
+        "rutaOriginal":  "PAGINA WEB QUINCE/PORTADAS QUINCE/DEPORTES.jpg",
+        "nombre":  "portadas/deportes",
+        "seccion":  "Home",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "r029",
+        "archivoZip":  "pagina-web.quince.zip",
+        "rutaOriginal":  "PAGINA WEB QUINCE/PORTADAS QUINCE/TRAINING.jpg",
+        "nombre":  "portadas/training",
+        "seccion":  "Home desktop",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "r031",
+        "archivoZip":  "pagina-web.quince.zip",
+        "rutaOriginal":  "PAGINA WEB QUINCE/PORTADAS QUINCE/URBANO.jpg",
+        "nombre":  "portadas/urbano",
+        "seccion":  "Home desktop",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "r023",
+        "archivoZip":  "pagina-web.quince.zip",
+        "rutaOriginal":  "PAGINA WEB QUINCE/PORTADAS QUINCE/INTITUCIONES.jpg",
+        "nombre":  "portadas/instituciones",
+        "seccion":  "Home desktop",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "r026",
+        "archivoZip":  "pagina-web.quince.zip",
+        "rutaOriginal":  "PAGINA WEB QUINCE/PORTADAS QUINCE/RUGBY.jpg",
+        "nombre":  "categorias/rugby",
+        "seccion":  "Deportes",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "r021",
+        "archivoZip":  "pagina-web.quince.zip",
+        "rutaOriginal":  "PAGINA WEB QUINCE/PORTADAS QUINCE/HOCKE FEM.jpg",
+        "nombre":  "categorias/hockey-femenino",
+        "seccion":  "Deportes desktop",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "r022",
+        "archivoZip":  "pagina-web.quince.zip",
+        "rutaOriginal":  "PAGINA WEB QUINCE/PORTADAS QUINCE/HOCKEY MASC.jpg",
+        "nombre":  "categorias/hockey-masculino",
+        "seccion":  "Deportes desktop",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "r019",
+        "archivoZip":  "pagina-web.quince.zip",
+        "rutaOriginal":  "PAGINA WEB QUINCE/PORTADAS QUINCE/FUTBOL.jpg",
+        "nombre":  "categorias/futbol",
+        "seccion":  "Deportes desktop",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "r028",
+        "archivoZip":  "pagina-web.quince.zip",
+        "rutaOriginal":  "PAGINA WEB QUINCE/PORTADAS QUINCE/Sportswear_product_macro_photograph_2K_20260914164545 1.jpg",
+        "nombre":  "institucional/chomba-macro",
+        "seccion":  "Home mobile",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p062",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA FUTBOL AIR FIT/Create_a_highly_photorealistic_professional_2K_20260911154014.jpeg",
+        "nombre":  "productos/camiseta-futbol-roja-frente",
+        "seccion":  "Destacados",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p002",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/BERMUDA C_ CORTE URBAN/Man_wearing_athletic_shorts_2K_20260914162017.jpeg",
+        "nombre":  "productos/bermuda-gris-frente",
+        "seccion":  "Destacados",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p098",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY OLDIES/Model_wearing_product_in_studio_2K_20260911153024.jpeg",
+        "nombre":  "productos/camiseta-celeste-frente",
+        "seccion":  "Detalle y Rugby",
+        "anchos":  [
+                       480,
+                       960,
+                       1600
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p092",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY BODY/Create_a_highly_photorealistic_professional_2K_20260911152842.jpeg",
+        "nombre":  "productos/camiseta-verde-frente",
+        "seccion":  "Rugby",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p276",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/SHORT RUGBY SHANE/Man_wearing_athletic_shorts_2K_20260911160012.jpeg",
+        "nombre":  "productos/short-blanco-frente",
+        "seccion":  "Rugby",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p272",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/SHORT RUGBY DURBAN/E-commerce_photography_of_athlet…_2K_20260914154413.jpeg",
+        "nombre":  "productos/short-negro-frente",
+        "seccion":  "Rugby",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p277",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/SHORT RUGBY WAVE/Man_modeling_athletic_shorts_2K_20260911155856.jpeg",
+        "nombre":  "productos/short-azul-frente",
+        "seccion":  "Rugby",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p163",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/MEDIAS LARGAS/Athlete_wearing_football_socks_2K_20260917102631.jpeg",
+        "nombre":  "productos/medias-negras",
+        "seccion":  "Rugby",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p097",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY OLDIES/Male_model_wearing_garment_back_2K_20260911153017.jpeg",
+        "nombre":  "productos/camiseta-celeste-dorso",
+        "seccion":  "Detalle desktop",
+        "anchos":  [
+                       480,
+                       960,
+                       1600
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p096",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY OLDIES/Garment_product_presentation_gen…_2K_20260911153029.jpeg",
+        "nombre":  "productos/camiseta-celeste-sin-modelo",
+        "seccion":  "Detalle desktop",
+        "anchos":  [
+                       480,
+                       960,
+                       1600
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p086",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA FORCE/Woman_wearing_sportswear_garment…_2K_20260911165831.jpeg",
+        "nombre":  "productos/camiseta-hockey-force-frente",
+        "seccion":  "Destacados Home y Deportes",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p198",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE/Modelo_levantando_pollera_y_most…_2K_20260911170912.jpeg",
+        "nombre":  "productos/pollera-roja-con-calza",
+        "seccion":  "Destacados Home y Deportes",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p058",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA DE RUGBY LONDON/Create_a_highly_photorealistic_professional_2K_20260911153325.jpeg",
+        "nombre":  "productos/camiseta-rugby-london-frente",
+        "seccion":  "Listado Rugby desktop y mobile",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p100",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY ULTRABOOKS/Male_model_wearing_rugby_jersey_2K_20260911153129.jpeg",
+        "nombre":  "productos/camiseta-rugby-ultrabooks-frente",
+        "seccion":  "Listado Rugby desktop y mobile",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p099",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY OLDIES/Model_wearing_rugby_jersey_2K_20260911153008.jpeg",
+        "nombre":  "productos/camiseta-celeste-listado",
+        "seccion":  "Toma exacta de tarjeta en Listado Rugby",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p273",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/SHORT RUGBY DURBAN/Man_wearing_athletic_shorts_2K_20260914154411.jpeg",
+        "nombre":  "productos/short-negro-listado",
+        "seccion":  "Toma exacta de tarjeta en Listado Rugby",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    }
+]

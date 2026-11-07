@@ -4,6 +4,10 @@
     {
       "id": "portada",
       "type": "categories",
+      "carousel": {
+        "categoryId": "sports",
+        "intervalMs": 5000
+      },
       "categoryIds": [
         "sports",
         "training",

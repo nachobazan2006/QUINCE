@@ -1,0 +1,38 @@
+{
+  "carpetasRevisadas": 81,
+  "fotografiasOriginales": 274,
+  "productosPreservados": 24,
+  "productosNuevos": 29,
+  "productosTotales": 53,
+  "porCategoria": {
+    "Rugby": 8,
+    "Training": 16,
+    "Urbano": 16,
+    "Instituciones": 0,
+    "Hockey femenino": 8,
+    "Hockey masculino": 2,
+    "Fútbol": 3
+  },
+  "carpetasSinFicha": 28,
+  "porDuda": {
+    "Clasificación": 9,
+    "Variantes": 6,
+    "Categoría inexistente": 3,
+    "Fotografías mezcladas": 2,
+    "Clasificación y variantes": 1,
+    "Posible producto repetido": 3,
+    "Duplicado y mezcla": 4
+  },
+  "carpetasConTomasExcluidas": [
+    "CAMISETA DE HOCKEY DAMA COOL",
+    "CAMISETA RUGBY BODY",
+    "POLLERA CON CALZA WAVE",
+    "SHORT RUGBY SHANE"
+  ],
+  "archivosSinUsar": 104,
+  "originalesUnicosSinUsar": 96,
+  "webpPreservados": 173,
+  "webpNuevos": 188,
+  "bytesNuevos": 7563280,
+  "fecha": "2026-11-07T06:39:21.649Z"
+}

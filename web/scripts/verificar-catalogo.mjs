@@ -30,14 +30,28 @@ for (const producto of productos) {
 assert(inicio.featuredProductIds.every(id => ids.has(id)));
 assert.equal(new Set(inicio.featuredProductIds).size, inicio.featuredProductIds.length);
 const rugby = obtenerProductosColeccion(productos, categorias, 'rugby');
-assert.equal(rugby.length, 8, 'La referencia Rugby tiene ocho prendas');
+assert(rugby.length >= 8, 'Se conservan las ocho prendas iniciales de Rugby');
 assert.equal(rugby[0].id, 'camiseta-rugby-oldies');
-assert.equal(rugby.at(-1).id, 'medias-largas');
-assert.equal(obtenerProductosColeccion(productos, categorias, 'futbol').length, 1);
-assert.equal(obtenerProductosColeccion(productos, categorias, 'hockey-femenino').length, 2);
-assert.equal(obtenerProductosColeccion(productos, categorias, 'urban').length, 1);
-assert.equal(obtenerProductosColeccion(productos, categorias, 'training').length, 0);
-assert.equal(obtenerProductosColeccion(productos, categorias, 'sports').length, 11);
+assert.equal(rugby[7].id, 'medias-largas');
+assert(obtenerProductosColeccion(productos, categorias, 'futbol').length >= 1);
+assert(obtenerProductosColeccion(productos, categorias, 'hockey-femenino').length >= 2);
+assert(obtenerProductosColeccion(productos, categorias, 'urban').length >= 1);
+assert(obtenerProductosColeccion(productos, categorias, 'training').length > 0);
+assert.equal(obtenerProductosColeccion(productos, categorias, 'sports').length,
+  productos.filter(p => p.categoryIds.some(id => categorias.some(c => c.id === id && c.parentId === 'sports'))).length);
+const base = JSON.parse(await fs.readFile(path.resolve(web, '../docs/catalogo-importacion/respaldo-inicial/products.json'), 'utf8'));
+for (const [indice, producto] of base.products.entries()) {
+  const { gallery, ...antes } = producto;
+  const { gallery: actual, ...despues } = productos[indice];
+  assert.deepEqual(despues, antes, 'No deben cambiar datos ni orden de los productos originales');
+  if (producto.id === 'camiseta-rugby-oldies') assert.deepEqual(productos[indice], producto);
+}
+const continuacion = JSON.parse(await fs.readFile(path.resolve(web, '../docs/catalogo-continuacion/respaldo-inicial/products.json'), 'utf8'));
+assert.deepEqual(productos.slice(0, continuacion.products.length), continuacion.products,
+  'Los 24 registros anteriores deben conservar todos sus datos, galerías y orden');
+const clasificacionManual = JSON.parse(await fs.readFile(path.resolve(web, '../docs/catalogo-clasificacion-manual/respaldo-inicial/products.json'), 'utf8'));
+assert.deepEqual(productos.slice(0, clasificacionManual.products.length), clasificacionManual.products,
+  'Los 53 registros anteriores deben conservar todos sus datos, galerías y orden');
 // invertimos una copia para comprobar que el filtro no impone un orden propio
-assert.equal(obtenerProductosColeccion([...productos].reverse(), categorias, 'rugby')[0].id, 'medias-largas');
+assert.equal(obtenerProductosColeccion([...productos].reverse(), categorias, 'rugby')[0].id, rugby.at(-1).id);
 console.log(`OK: ${productos.length} productos, IDs/slugs/fotos únicos, relaciones, destacados, orden y colecciones aisladas.`);

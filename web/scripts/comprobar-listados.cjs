@@ -7,7 +7,7 @@ async function comprobar() {
   const preview = process.env.URL_PREVIEW || 'http://127.0.0.1:4173';
   const depuracion = process.env.URL_DEPURACION || 'http://127.0.0.1:9333';
   const web = path.resolve(__dirname, '..');
-  const carpeta = path.resolve(web, '../docs/capturas-listados');
+  const carpeta = process.env.CARPETA_CAPTURAS || path.resolve(web, '../docs/capturas-listados');
   const rutaProductos = path.join(web, 'public/data/products.json');
   const original = await fs.readFile(rutaProductos);
   const catalogo = JSON.parse(original);
@@ -87,7 +87,7 @@ async function comprobar() {
     for (const origen of [desarrollo, preview]) {
       for (const medida of [375, 393, 600, 768, 900, 1024, 1200, 1440]) {
         await ancho(medida);
-        await visitar(origen + '/deportes/rugby', `document.querySelectorAll('.grilla-productos article').length === 8`);
+        await visitar(origen + '/deportes/rugby', `document.querySelectorAll('.grilla-productos article').length === ${rugby.length}`);
         assert.equal(await evaluar('document.documentElement.scrollWidth <= innerWidth'), true);
         assert.equal(await evaluar(`getComputedStyle(document.querySelector('.grilla-productos')).gridTemplateColumns.split(' ').length`), medida < 1024 ? 2 : 4);
         assert.deepEqual(await evaluar(`[...document.querySelectorAll('.grilla-productos article')].map(tarjeta => tarjeta.dataset.producto)`), rugby.map(producto => producto.id));
@@ -99,7 +99,12 @@ async function comprobar() {
         if (origen === preview && [375, 393, 768, 1024, 1440].includes(medida)) await capturar('rugby-' + medida);
       }
       for (const [ruta, cantidad, nombre] of [
-        ['/deportes/futbol', 1, 'Fútbol'], ['/deportes/hockey-femenino', 2, 'Hockey femenino'], ['/urbano', 1, 'Urbano'],
+        ['/deportes/futbol', catalogo.products.filter(p => p.categoryIds.includes('futbol')).length, 'Fútbol'],
+        ['/deportes/hockey-femenino', catalogo.products.filter(p => p.categoryIds.includes('hockey-femenino')).length, 'Hockey femenino'],
+        ['/deportes/hockey-masculino', catalogo.products.filter(p => p.categoryIds.includes('hockey-masculino')).length, 'Hockey masculino'],
+        ['/urbano', catalogo.products.filter(p => p.categoryIds.includes('urban')).length, 'Urbano'],
+        ['/training', catalogo.products.filter(p => p.categoryIds.includes('training')).length, 'Training'],
+        ['/instituciones', catalogo.products.filter(p => p.categoryIds.includes('institutions')).length, 'Instituciones'],
       ]) {
         await visitar(origen + ruta, `document.querySelectorAll('.grilla-productos article').length === ${cantidad}`);
         assert.equal(await evaluar('document.querySelector("main h1").textContent'), nombre);
@@ -108,16 +113,13 @@ async function comprobar() {
         const destinos = await evaluar(`[...document.querySelectorAll('.grilla-productos a')].map(enlace => enlace.getAttribute('href'))`);
         assert.deepEqual(destinos, ids.map(id => '/productos/' + catalogo.products.find(producto => producto.id === id).slug));
       }
-      for (const ruta of ['/training', '/instituciones', '/deportes/hockey-masculino']) {
-        await visitar(origen + ruta, `document.querySelector('.estado-coleccion')?.textContent.includes('Todavía no')`);
-      }
       for (const ruta of ['/deportes/no-existe', '/urbano/rugby', '/no-existe', '/productos/no-existe']) {
         await visitar(origen + ruta, `document.querySelector('main h1')?.textContent.includes('404')`);
         assert.equal(await evaluar('location.pathname'), ruta);
       }
       for (const producto of catalogo.products) {
         await visitar(origen + '/productos/' + producto.slug, `document.querySelector('main h1')?.textContent === ${JSON.stringify(producto.name)}`);
-        assert(await evaluar(`document.querySelector('main').textContent.includes('Detalle pendiente')`));
+        assert(await evaluar(`Boolean(document.querySelector('.detalle-producto'))`));
       }
       for (const ruta of ['/', '/deportes']) {
         await visitar(origen + ruta, `document.querySelectorAll('.tarjeta-destacado').length === 4`);
@@ -132,12 +134,12 @@ async function comprobar() {
         await evaluar(`document.querySelector('.cabecera-categoria a').click()`);
         await esperar(`location.pathname === '/deportes' && document.querySelectorAll('.categoria-portada').length === 4`);
       }
-      await visitar(origen + '/deportes/rugby', `document.querySelectorAll('.grilla-productos article').length === 8`);
+      await visitar(origen + '/deportes/rugby', `document.querySelectorAll('.grilla-productos article').length === ${rugby.length}`);
       await evaluar(`document.querySelector('.grilla-productos a').focus()`);
       await emitir('Input.dispatchKeyEvent', { type: 'keyDown', key: 'Enter', code: 'Enter', windowsVirtualKeyCode: 13, text: '\r' });
       await emitir('Input.dispatchKeyEvent', { type: 'keyUp', key: 'Enter', code: 'Enter', windowsVirtualKeyCode: 13 });
       await esperar(`location.pathname === '/productos/camiseta-rugby-oldies'`);
-      console.log(`OK ${origen}: ocho anchos, Rugby, colecciones aisladas/vacías, 404, doce detalles provisionales y destacados.`);
+      console.log(`OK ${origen}: ocho anchos, Rugby, colecciones aisladas/vacías, 404, ${catalogo.products.length} detalles y destacados.`);
     }
     // probamos una edición real y restauramos exactamente los bytes originales, incluso si falla la prueba
     const prueba = JSON.parse(original);
@@ -145,7 +147,7 @@ async function comprobar() {
     [prueba.products[0], prueba.products[1]] = [prueba.products[1], prueba.products[0]];
     modificado = Buffer.from(JSON.stringify(prueba, null, 2) + '\n');
     await fs.writeFile(rutaProductos, modificado);
-    await visitar(desarrollo + '/deportes/rugby', `document.querySelectorAll('.grilla-productos article').length === 8`);
+    await visitar(desarrollo + '/deportes/rugby', `document.querySelectorAll('.grilla-productos article').length === ${rugby.length}`);
     assert.deepEqual(await evaluar(`[...document.querySelectorAll('.grilla-productos h2')].slice(0, 2).map(titulo => titulo.textContent)`), ['Camiseta Rugby Body', 'Prueba temporal de nombre']);
     assert((await fs.readFile(rutaProductos)).equals(modificado), 'El archivo cambió durante la prueba; revisar antes de restaurar');
     await fs.writeFile(rutaProductos, original);
@@ -164,7 +166,7 @@ async function comprobar() {
     }
     interceptar = { estado: 200, cuerpo: original.toString(), demora: 1000 };
     await visitar(preview + '/deportes/rugby', `document.querySelector('main [role="status"]')?.textContent.includes('Cargando')`);
-    await esperar(`document.querySelectorAll('.grilla-productos article').length === 8`);
+    await esperar(`document.querySelectorAll('.grilla-productos article').length === ${rugby.length}`);
     await emitir('Fetch.disable');
     assert.equal(errores.length, 0, JSON.stringify(errores));
     console.log('OK carga, errores de lectura/sintaxis/esquema y ausencia de errores de consola de React.');

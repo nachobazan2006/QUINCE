@@ -1,0 +1,2424 @@
+{
+  "version": 1,
+  "productosBaseSha256": "5db5a88c9bfce074ccf1ee6e6a281bb7863840d24c17c94f2f2a8cfb88523efa",
+  "aprobados": [
+    {
+      "carpeta": "FOTOS FINALES QUINCE/BUZO CANGURO C_CORTE NEW LINE",
+      "nombre": "BUZO CANGURO C_CORTE NEW LINE",
+      "id": "buzo-canguro-c-corte-new-line",
+      "slug": "buzo-canguro-c-corte-new-line",
+      "categoria": "institutions",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO C_CORTE NEW LINE/E-commerce_apparel_studio_photog…_2K_20260911173826.jpeg",
+          "sha256": "b3ccde6a1b2d6d8632be9bc1ab59287f1e77eacd1b59bb1a96ce98b04637756c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2324666
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO C_CORTE NEW LINE/Generate_professional_product_photo_2K_20260911173834.jpeg",
+          "sha256": "05081b8af56f2b53aae585040dd45c4351f71257e1aea4b91900763d9cc06ace",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 3037676
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO C_CORTE NEW LINE/Male_model_wearing_garment_back_2K_20260911173830.jpeg",
+          "sha256": "f36b0fdfda04f55855380f286390e1300bf721bc90d9a4ff074d9aa1c2b6757d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2146731
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/BUZO CANGURO OVERSIZE",
+      "nombre": "BUZO CANGURO OVERSIZE",
+      "id": "buzo-canguro-oversize",
+      "slug": "buzo-canguro-oversize",
+      "categoria": "urban",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO OVERSIZE/Create_a_highly_photorealistic_professional_2K_20260911161627.jpeg",
+          "sha256": "febd4a4e2cbf8d9d1ec4b4b06b0e5643797c4e1ce6f4e303c621472eb12684c8",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2013509
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO OVERSIZE/Model_wearing_garment_back_view_2K_20260911161617.jpeg",
+          "sha256": "f98731bae10c69ea6755eb3f2fbac9b8ecfdd8f05dae8a1d5e6dc598c07f5203",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2157644
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/BUZO MEDIO CIERRE",
+      "nombre": "BUZO MEDIO CIERRE",
+      "id": "buzo-medio-cierre",
+      "slug": "buzo-medio-cierre",
+      "categoria": "rugby",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO MEDIO CIERRE/Create_a_highly_photorealistic_professional_2K_20260911162134.jpeg",
+          "sha256": "54fcba245d63fc1cb7e67b4826e0fe0f64670151d6c17e4d992419ec63f35c21",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1975379
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO MEDIO CIERRE/Garment_product_presentation_vis…_2K_20260911162141.jpeg",
+          "sha256": "718bcdca0c82225c1ac4777b0351f96453d4537583001364003b1c2319b23249",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1586169
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO MEDIO CIERRE/Model_wearing_garment_back_view_2K_20260911162138.jpeg",
+          "sha256": "436c33d87ce0ac82603ba86835c8d7f31c492862bb15dcfa6b18a2d1fd3681fc",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1979557
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA CORTA",
+      "nombre": "CAMISA OXFORD MANGA CORTA",
+      "id": "camisa-oxford-manga-corta",
+      "slug": "camisa-oxford-manga-corta",
+      "categoria": "urban",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA CORTA/Create_a_highly_photorealistic_professional_2K_20260914160041.jpeg",
+          "sha256": "5a30f43fb33c572afd499e00776427621666ae059631b780785abc3502b3ea55",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2092150
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA CORTA/Modelo_abrochando_camisa_2K_20260914160129.jpeg",
+          "sha256": "dbd34f1379761d3e12a5abed9b7545f60a547333ed8980a5614a807209abb3bf",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2047030
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA CORTA/Model_wearing_garment_back_view_2K_20260914160038.jpeg",
+          "sha256": "2af692f61e978fcb67e635ca0d31d73e5643bf5aae0d9c4875829d50502ce205",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2052578
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA LARGA",
+      "nombre": "CAMISA OXFORD MANGA LARGA",
+      "id": "camisa-oxford-manga-larga",
+      "slug": "camisa-oxford-manga-larga",
+      "categoria": "urban",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA LARGA/Camisa_gris_topo_clara_2K_20260914155809.jpeg",
+          "sha256": "4a2e6e63c3602e9b092bb509f76a044e12b16c0f2ff4b496974eeaffdbede92c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2258657
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA LARGA/Shirt_color_light_mole_grey_2K_20260914155812.jpeg",
+          "sha256": "7a336c141b082bf8d3d3932671ed41373155652e4a1e5d6505ddd1b546f6dcb6",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2234361
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA LARGA/Sportswear_product_detail_photog…_2K_20260914155817.jpeg",
+          "sha256": "bfc754591eadac5a440f0147b7a2e45d89f07d6973d0870d0eb9acf8c4bb57b7",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2781699
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA FUTBOL BOX",
+      "nombre": "CAMISETA FUTBOL BOX",
+      "id": "camiseta-futbol-box",
+      "slug": "camiseta-futbol-box",
+      "categoria": "futbol",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA FUTBOL BOX/Create_a_highly_photorealistic_professional_2K_20260911165100.jpeg",
+          "sha256": "ba9287c72eb2dda4f3f0a2dd69f6bde5ebf4db7628a30171cd87bf74f9386879",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2068859
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE RAGLAN AIR",
+      "nombre": "CAMPERA CANGURO C_CORTE RAGLAN AIR",
+      "id": "campera-canguro-c-corte-raglan-air",
+      "slug": "campera-canguro-c-corte-raglan-air",
+      "categoria": "training",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE RAGLAN AIR/Create_a_highly_photorealistic_professional_2K_20260914153856.jpeg",
+          "sha256": "c71941367b4e0dc2fb2104aaa12d41c9985de09275f3d403fbe24b4d292c483a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2355516
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE RAGLAN AIR/Man_wearing_garment_backwards_view_2K_20260914153859.jpeg",
+          "sha256": "8afa8de6be2e53074be7a59c0e3938e1ca0c7e54a5cdae49d22ae1b6958d4617",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2473391
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE REGLAN",
+      "nombre": "CAMPERA CANGURO C_CORTE REGLAN",
+      "id": "campera-canguro-c-corte-reglan-rugby",
+      "slug": "campera-canguro-c-corte-reglan-rugby",
+      "categoria": "rugby",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE REGLAN/Create_a_highly_photorealistic_professional_2K_20260911174610.jpeg",
+          "sha256": "990b9ab8ed557204814d27081141cf9ca302c92a1748353e78d0a271a6522867",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2154271
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE REGLAN",
+      "nombre": "CAMPERA CANGURO C_CORTE REGLAN",
+      "id": "campera-canguro-c-corte-reglan-training",
+      "slug": "campera-canguro-c-corte-reglan-training",
+      "categoria": "training",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE REGLAN/Create_a_highly_photorealistic_professional_2K_20260911174603.jpeg",
+          "sha256": "93f40717d6310eb7d9dec5b74198710cc1f336ba694c83038b4c9e885cc915c9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2019001
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE REGLAN/Man_modeling_garment_back_view_2K_20260911174608.jpeg",
+          "sha256": "3b6af99fa0373dd1e119e079fafd8d8fcadfb597ef70cb966f33e71ff7cba621",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2043293
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHOMBA BASICA DRY-FIT",
+      "nombre": "CHOMBA BASICA DRY-FIT",
+      "id": "chomba-basica-dry-fit",
+      "slug": "chomba-basica-dry-fit",
+      "categoria": "training",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA BASICA DRY-FIT/Create_a_highly_photorealistic_professional_2K_20260914165028.jpeg",
+          "sha256": "607cbdb04da9467d374fbb723f2a07224ddb31387e1cdfec07a40d0e21ab0a08",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2056325
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA BASICA DRY-FIT/Create_garment_product_presentation_2K_20260914165027.jpeg",
+          "sha256": "3fd515bc02268dfe9a030dfe262875a5d2c979e448ca2bb411eb51f461968c8c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1825947
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHOMBA BASICA JERSEY",
+      "nombre": "CHOMBA BASICA JERSEY",
+      "id": "chomba-basica-jersey",
+      "slug": "chomba-basica-jersey",
+      "categoria": "urban",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA BASICA JERSEY/Create_a_highly_photorealistic_professional_2K_20260914165121.jpeg",
+          "sha256": "60b02e0f310587885091a88d4f12e9e9c149e88ebd87e383633e331628019fda",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2159756
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA BASICA JERSEY/Modelo_abrochando_camisa_mirando…_2K_20260914165131.jpeg",
+          "sha256": "ce1d6e2a014207ceb5cb4fb9a975d137c6a4fd8250f5ff368f02d9fdf506bcb0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2208461
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA BASICA JERSEY/Model_wearing_garment_back_view_2K_20260914165125.jpeg",
+          "sha256": "c75961d2a5fc81104aaf532f97635566a90648a550102fd41260a117a4a65f2d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2231652
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHOMBA C_CORTE CUT",
+      "nombre": "CHOMBA C_CORTE CUT",
+      "id": "chomba-c-corte-cut",
+      "slug": "chomba-c-corte-cut",
+      "categoria": "urban",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE CUT/Create_a_highly_photorealistic_professional_2K_20260914164307.jpeg",
+          "sha256": "f8321e9f0415e5c04fd1dc103fdc752f2186ffe4d25f9df9035421090c4bf522",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2084626
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE CUT/Model_wearing_garment_back_view_2K_20260914164407.jpeg",
+          "sha256": "74e6fb7e55a2c9abef51cf8f22797ec0bc2647ed4262a2904db16e77b28977a0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2149403
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE CUT/Sportswear_product_detail_photog…_2K_20260914164316.jpeg",
+          "sha256": "659d887f3e98942016f8a368f953a0007a69e06b26b6e21570c6a7c86ea167d0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2392985
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PARTEX",
+      "nombre": "CHOMBA C_CORTE PARTEX",
+      "id": "chomba-c-corte-partex",
+      "slug": "chomba-c-corte-partex",
+      "categoria": "institutions",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PARTEX/Create_a_highly_photorealistic_professional_2K_20260914164853.jpeg",
+          "sha256": "29cb143ecc171863a636e83179d6ccc49342e1de7bc1b07755e6919fb4761dca",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2236913
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PARTEX/Male_model_wearing_garment_back_2K_20260914164856.jpeg",
+          "sha256": "34986e6a156afa8fcc21e4e14e1088f58d2f93d889a2846247737f6c960a7d9b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1986211
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PARTEX/Sportswear_product_detail_photog…_2K_20260914164901.jpeg",
+          "sha256": "ca2c27aca0b99ec2ed5e1c78586ae1d3f3cd686d0aa6e5b02e83e1332784c90f",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2875381
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHOMBA C_CORTE RAGLAN",
+      "nombre": "CHOMBA C_CORTE RAGLAN",
+      "id": "chomba-c-corte-raglan",
+      "slug": "chomba-c-corte-raglan",
+      "categoria": "institutions",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE RAGLAN/Modelo_con_camisa_desprendida_2K_20260914164150.jpeg",
+          "sha256": "472fc7be6b4da4a933289298f516c6507ece82d712f00b9d264f362e97f26a7a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1925240
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE RAGLAN/Model_wearing_garment_back_view_2K_20260914164157.jpeg",
+          "sha256": "6bea67017bb6f82937f9084e172cf0dbeb0b83880a4c8fddd626e20ef0c01359",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2133844
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE RAGLAN/Sportswear_product_detail_photog…_2K_20260914164205.jpeg",
+          "sha256": "cae85dcb688bd7e489a602978eeff602af50015e3b4f317e9e1b920971aae8a1",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2806840
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHUPIN BLACK",
+      "nombre": "CHUPIN BLACK",
+      "id": "chupin-black",
+      "slug": "chupin-black",
+      "categoria": "training",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN BLACK/Man_wearing_athletic_jogger_pants_20260911162926.jpeg",
+          "sha256": "d5ac56ef8878c300e4e965dc4ee20e4b3812aad010e9ee398faa60063d9c90d8",
+          "ancho": 896,
+          "alto": 1200,
+          "bytes": 393978
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN BLACK/Modelo_en_ángulo_3_4_2K_20260911162353.jpeg",
+          "sha256": "8bf0e50181fa6aa2db7acdf90d7230795edafd4fa848e8bbeafddce319bd6620",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1743889
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN BLACK/Model_wearing_athletic_jogger_pants_2K_20260911162351.jpeg",
+          "sha256": "16217658b879cf200eadf122ba6431271ef8b311a6ab7fadf2d6c84d0edfd9bd",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1935000
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/JOGGUER ESSENTIAL",
+      "nombre": "JOGGUER ESSENTIAL",
+      "id": "jogguer-essential",
+      "slug": "jogguer-essential",
+      "categoria": "training",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/JOGGUER ESSENTIAL/E-commerce_photo_of_jogger_pants_2K_20260911163812.jpeg",
+          "sha256": "0107894e38a9c16674906b27af7891b83144896b9f0f227f66a52241ba2b143d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1985563
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/JOGGUER ESSENTIAL/generar_una_vista_3_4_2K_20260911163806.jpeg",
+          "sha256": "df44b3675ca2e94efa7ef51eb0174e19252efe957cf8e74490258b638625da87",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1797218
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/JOGGUER ESSENTIAL/Model_wearing_athletic_jogger_pants_20260911163836.jpeg",
+          "sha256": "b8436ab47b887f98bff93fd4dfed889b8499ff18eae94eb634bb73198706704d",
+          "ancho": 896,
+          "alto": 1200,
+          "bytes": 401126
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA MUJER",
+      "nombre": "MUSCULOSA SUBLIMADA MUJER",
+      "id": "musculosa-sublimada-mujer",
+      "slug": "musculosa-sublimada-mujer",
+      "categoria": "hockey-femenino",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA MUJER/E-commerce_sportswear_catalog_ph…_2K_20260911155554.jpeg",
+          "sha256": "0fafec16233c4d6cbc1aaa89787f89062cbcaa851c81068c128c123e21fb9c3a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1940026
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA MUJER/Woman_wearing_sportswear_in_studio_2K_20260911155607.jpeg",
+          "sha256": "a923c086aae4a95b45e46de59245efb45c365a127c5b902e811192123b200439",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1914854
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA MUJER/Sportswear_product_photography_b…_2K_20260911155601.jpeg",
+          "sha256": "bd6fa108ac1bb72e49bd6e016c1ea01fb6dfcd7a903f99249d8f1b92174fe2a9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1973052
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/PANTALON CLASICC GABARDINA",
+      "nombre": "PANTALON CLASICC GABARDINA",
+      "id": "pantalon-clasicc-gabardina",
+      "slug": "pantalon-clasicc-gabardina",
+      "categoria": "training",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTALON CLASICC GABARDINA/Model_wearing_athletic_jogger_pants_2K_20260914161208.jpeg",
+          "sha256": "731e964261cf7fc01cc57483aa22eca48d5b826505024a6d33b79695262d6e67",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1745106
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTALON CLASICC GABARDINA/Model_wearing_athletic_jogger_pants_2K_20260914161212.jpeg",
+          "sha256": "d11e65c63476292bcea54a3a26f93542fcb9c320f398659cc95a6bc374aad56e",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1650528
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTALON CLASICC GABARDINA/Sportswear_product_detail_photog…_2K_20260914161214.jpeg",
+          "sha256": "ab0e08eba179b0a78f0e648e48cd5ebc733281973799214cfc645a743e9ad1dd",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2991026
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA CON CORTE RUNNING HOMBRE",
+      "nombre": "REMERA CON CORTE RUNNING HOMBRE",
+      "id": "remera-con-corte-running-hombre",
+      "slug": "remera-con-corte-running-hombre",
+      "categoria": "rugby",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA CON CORTE RUNNING HOMBRE/Model_wearing_garment_in_studio_2K_20260911161120.jpeg",
+          "sha256": "943a6ed7a0dafb168818d4d34df0c1f2113d297c11d4a66c85ee4dac6c39c348",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2171902
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA CON CORTE RUNNING HOMBRE/Garment_product_presentation_gen…_2K_20260911161127.jpeg",
+          "sha256": "45454a6444e598fba5b14d5af850a97f226fad6b17a740e61d072da5e1fa3e7a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2092929
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA CON CORTE RUNNING HOMBRE/Man_modeling_garment_back_view_2K_20260911161124.jpeg",
+          "sha256": "bb404ebc9f9b42c3d28f219187e985bbc22c847196a5a6bc969be2a0c7077d36",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2167713
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/ROMPEVIENTO RUNNING C_CAPUCHA",
+      "nombre": "ROMPEVIENTO RUNNING C_CAPUCHA",
+      "id": "rompeviento-running-c-capucha",
+      "slug": "rompeviento-running-c-capucha",
+      "categoria": "training",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Categoría indicada expresamente por el usuario; conjunto de tomas coherentes. Se conservan los nombres de origen.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/ROMPEVIENTO RUNNING C_CAPUCHA/E-commerce_garment_photography_p…_2K_20260911171714.jpeg",
+          "sha256": "ce3a24b83e458a4a35f453363113d1c9dacf015dfa9d61bbdeb7e9998330b9cb",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2222922
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/ROMPEVIENTO RUNNING C_CAPUCHA/Model_wearing_garment_in_studio_2K_20260911171730.jpeg",
+          "sha256": "033f7a5136c4be7260329e48b15f4dee10a3929e9a2909db0465a74be044ddff",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2214584
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/ROMPEVIENTO RUNNING C_CAPUCHA/Male_model_wearing_garment_back_2K_20260911171727.jpeg",
+          "sha256": "60012e2e669f3d0da9d9f0de9cada413d795860e058baf1b1722009165205217",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2020758
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA BASQUET BASIC",
+      "nombre": "CAMISETA BASQUET BASIC",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET BASIC/Create_a_highly_photorealistic_professional_2K_20260911154234.jpeg",
+          "sha256": "d5d72bff6232bfa160af39d7918d9fe2bcc0ec5cc8542fe8935ec203264c1f83",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2354530
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET BASIC/Garment_product_presentation_gen…_2K_20260911154243.jpeg",
+          "sha256": "de4415f3b31f3836ba17cde78c96a2543f7b9efc440b2c16c12194b59d89da64",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2227504
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET BASIC/Model_wearing_garment_back_view_2K_20260911154240.jpeg",
+          "sha256": "f61ada1bff970382f4b3d417bd0aa1cb55b5f3768c60793c136f582cb8dfffa2",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2226533
+        }
+      ],
+      "tipo": "Categoría inexistente",
+      "motivo": "El nombre identifica Básquet; esa disciplina no existe entre las categorías autorizadas.",
+      "decision": "Confirmar lo indicado; no se agregó al JSON público."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA BASQUET PHOENIX",
+      "nombre": "CAMISETA BASQUET PHOENIX",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET PHOENIX/Cambiar_color_remera_a_gris_2K_20260914154711.jpeg",
+          "sha256": "318c1c7d5e7f84b8c6ef4709032957a973afb638b08021dbe82e178bf6ea2143",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2235980
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET PHOENIX/Color_de_remera_gris_topo_2K_20260914154712.jpeg",
+          "sha256": "e5d7dad62f9e5c5b0c48df2acb604caecbe34e15a62a69ef7cfa5c60e65b1cd9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2363063
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET PHOENIX/Garment_product_presentation_gen…_2K_20260914154706.jpeg",
+          "sha256": "a9945aeeca76fec2770a36e9c8a03b5dd31d75e2b0247d9191a73df9fb9e5ff0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2185763
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET PHOENIX/Remera_color_gris_topo_2K_20260914154710.jpeg",
+          "sha256": "22d17d222e8e66bb7be1506f9392ab2c43cc52894f16a71fbd4eb718af68f8b3",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2334719
+        }
+      ],
+      "tipo": "Categoría inexistente",
+      "motivo": "El nombre identifica Básquet; no se publica como Training para forzar su ingreso.",
+      "decision": "Confirmar lo indicado; no se agregó al JSON público."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PUMA",
+      "nombre": "CHOMBA C_CORTE PUMA",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PUMA/Create_a_highly_photorealistic_professional_2K_20260914164603.jpeg",
+          "sha256": "07d607c079261830f9050c3b03bde2c8d84c2be75a0ad631348f46c413087729",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2124937
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PUMA/Model_wearing_garment_from_behind_2K_20260914164511.jpeg",
+          "sha256": "0fb0749095d00b0da537a96fb68717864d96991c0ac64a240ad783bec1465349",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2152046
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PUMA/Sportswear_product_macro_photograph_2K_20260914164545.jpeg",
+          "sha256": "49791b80d9fb4e0bd8e1515fe57765339b85bc34416d72468ef90bd2be95bd40",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 3099680
+        }
+      ],
+      "tipo": "Clasificación",
+      "motivo": "Chomba personalizada: el escudo no confirma la categoría comercial.",
+      "decision": "Confirmar lo indicado; no se agregó al JSON público."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/PANTORRILLERAS",
+      "nombre": "PANTORRILLERAS",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTORRILLERAS/Combinar_pantorrilleras_de_modelo_2K_20260914163856.jpeg",
+          "sha256": "464f454ad82f459bfbde4495171a4825f3325d631be19f9aba06df533f30fc14",
+          "ancho": 1536,
+          "alto": 2752,
+          "bytes": 2136900
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTORRILLERAS/Generate_professional_product_photo_2K_20260914163900.jpeg",
+          "sha256": "9e51e9d29c4bc6b57d3562fc7c392d258e65fb235d814e079ef67aef667c2a33",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2543364
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTORRILLERAS/Recreate_image_with_calf_stockings_2K_20260914164906.jpeg",
+          "sha256": "4ba6c676345b326d05180335d21d24e886bfec47cb864862f8a39b190365ad5d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2519573
+        }
+      ],
+      "tipo": "Clasificación",
+      "motivo": "Pantorrilleras deportivas sin disciplina comercial confirmada; no se asignan automáticamente a Rugby.",
+      "decision": "Confirmar lo indicado; no se agregó al JSON público."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA C_CORTE DRY-FIT",
+      "nombre": "REMERA C_CORTE DRY-FIT",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE DRY-FIT/Create_a_highly_photorealistic_professional_2K_20260911170427.jpeg",
+          "sha256": "060151246b3eb8f15bfb13b4972b2cdd5da5b0e85cf81a77ee2b72b62482f4ae",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2286784
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE DRY-FIT/Create_a_highly_photorealistic_professional_2K_20260911170457.jpeg",
+          "sha256": "19b38d1147ce449515ace22975377b598f18105023b47d629a44322d4971d0ac",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2377907
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE DRY-FIT/Garment_product_presentation_gen…_2K_20260911170433.jpeg",
+          "sha256": "9035b35b3c2f4cb51f386ae3aba7b531a8f3fff3b15f333295c4cf870d773193",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2088464
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE DRY-FIT/Model_wearing_garment_back_view_2K_20260911170430.jpeg",
+          "sha256": "92a5ebc32cfc812c39e2a3c943d97350b55d76ab0ecc24c90623b8eb975ab80b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2381723
+        }
+      ],
+      "tipo": "Duplicado y mezcla",
+      "motivo": "Mismos cuatro archivos que REMERA C_CORTE RUNNING DRY-FIT HOMBRE; mezcla diseños gris y verde/negro.",
+      "decision": "Confirmar lo indicado; no se agregó al JSON público."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA C_CORTE RUNNING DRY-FIT HOMBRE",
+      "nombre": "REMERA C_CORTE RUNNING DRY-FIT HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE RUNNING DRY-FIT HOMBRE/Create_a_highly_photorealistic_professional_2K_20260914155233.jpeg",
+          "sha256": "060151246b3eb8f15bfb13b4972b2cdd5da5b0e85cf81a77ee2b72b62482f4ae",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2286784
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE RUNNING DRY-FIT HOMBRE/Create_a_highly_photorealistic_professional_2K_20260914155256.jpeg",
+          "sha256": "19b38d1147ce449515ace22975377b598f18105023b47d629a44322d4971d0ac",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2377907
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE RUNNING DRY-FIT HOMBRE/Garment_product_presentation_gen…_2K_20260914155238.jpeg",
+          "sha256": "9035b35b3c2f4cb51f386ae3aba7b531a8f3fff3b15f333295c4cf870d773193",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2088464
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE RUNNING DRY-FIT HOMBRE/Model_wearing_garment_back_view_2K_20260914155236.jpeg",
+          "sha256": "92a5ebc32cfc812c39e2a3c943d97350b55d76ab0ecc24c90623b8eb975ab80b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2381723
+        }
+      ],
+      "tipo": "Duplicado y mezcla",
+      "motivo": "Duplica íntegramente REMERA C_CORTE DRY-FIT; resolver una sola agrupación comercial de ambos diseños.",
+      "decision": "Confirmar lo indicado; no se agregó al JSON público."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMRA C_CORTE RUNNING HOMBRE",
+      "nombre": "REMRA C_CORTE RUNNING HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMRA C_CORTE RUNNING HOMBRE/Create_a_highly_photorealistic_professional_2K_20260914155109.jpeg",
+          "sha256": "422f6a4abb6e80f153eb1a5ac88cf47293a33ec54a450e7ab2e2144e648aaa3c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2241150
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMRA C_CORTE RUNNING HOMBRE/Garment_product_presentation_gen…_2K_20260914155133.jpeg",
+          "sha256": "45454a6444e598fba5b14d5af850a97f226fad6b17a740e61d072da5e1fa3e7a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2092929
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMRA C_CORTE RUNNING HOMBRE/Man_modeling_garment_back_view_2K_20260914155128.jpeg",
+          "sha256": "bb404ebc9f9b42c3d28f219187e985bbc22c847196a5a6bc969be2a0c7077d36",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2167713
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMRA C_CORTE RUNNING HOMBRE/Model_wearing_garment_in_studio_2K_20260914155138.jpeg",
+          "sha256": "943a6ed7a0dafb168818d4d34df0c1f2113d297c11d4a66c85ee4dac6c39c348",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2171902
+        }
+      ],
+      "tipo": "Duplicado resuelto; toma pendiente",
+      "motivo": "Las tres tomas estampadas ya se cargaron desde REMERA CON CORTE RUNNING HOMBRE, por indicación del usuario, en Rugby. No crear otra ficha desde esta copia. La foto gris sigue sin identidad comercial confirmada.",
+      "decision": "Confirmar lo indicado; no se agregó al JSON público."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/SHORT BASQUET HOMBRE",
+      "nombre": "SHORT BASQUET HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT BASQUET HOMBRE/Man_wearing_athletic_shorts_2K_20260914154244.jpeg",
+          "sha256": "dfac21692d621f67d79ef44baf5a7606c5e58aa01e16ff4f0799a1d0372f235b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1880413
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT BASQUET HOMBRE/Man_wearing_athletic_shorts_2K_20260914154252.jpeg",
+          "sha256": "fb91aff2f3b122cbad35e20a1beac5e871ceef4f0ee9e066af0246fd5e0fdc91",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1900535
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT BASQUET HOMBRE/Man_wearing_athletic_shorts_2K_20260914154257.jpeg",
+          "sha256": "db245caa8ed8c49ce1fcacfc74bd41ff593d9f839d2ea4e8c16acfdce14a2ec9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2029874
+        }
+      ],
+      "tipo": "Categoría inexistente",
+      "motivo": "Short identificado como Básquet; no hay categoría existente para esa disciplina.",
+      "decision": "Confirmar lo indicado; no se agregó al JSON público."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)",
+      "nombre": "SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)/E-commerce_photo_of_athletic_shorts_2K_20260911160722.jpeg",
+          "sha256": "89fe1cbe128287433464b616a2f371f5f67875a0cf54bddd1f2d96a333b16b11",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2058144
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)/Man_modeling_athletic_shorts_2K_20260911160738.jpeg",
+          "sha256": "4a93cccdd94e23d2bf01c3395a078aa6eddd5018ce197250e190cb28c4e963e1",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2164579
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)/Man_wearing_athletic_shorts_2K_20260911160744.jpeg",
+          "sha256": "d9d1ab714c433add460fc8d8fd60611d427ad9802f3d6d3f8e8c200b2dda7a06",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2137802
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)/Man_wearing_athletic_shorts_2K_20260911160757.jpeg",
+          "sha256": "3abb9c6e40cbf632e2238a3ce4287e69d57b375b90af9475adbc5505d337ad08",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2150627
+        }
+      ],
+      "tipo": "Variantes",
+      "motivo": "Short verde/amarillo y short gris; confirmar agrupación y modelo antes de importar.",
+      "decision": "Confirmar lo indicado; no se agregó al JSON público."
+    }
+  ],
+  "notas": [
+    "Buzo canguro se interpreta como BUZO CANGURO C_CORTE NEW LINE de la carpeta pendiente. BUZO CANGURO BASIC existente no se modifica.",
+    "REGLAN queda en dos fichas con el mismo nombre de origen y slugs terminados en rugby/training. El usuario indicó archivos y categorías diferentes.",
+    "CHUPIN BLACK, JOGGUER ESSENTIAL y PANTALON CLASICC GABARDINA se incorporan con sus nombres distintos y la categoría Training indicada por el usuario. No hay duplicación binaria con las fichas anteriores; la anterior sospecha visual no era una identidad confirmada.",
+    "No se mezclan colores/diseños todavía dudosos: se cargan las tomas coherentes seleccionadas y las otras quedan detalladas en el reporte de pendientes."
+  ],
+  "intactos": [
+    "camiseta-rugby-oldies",
+    "camiseta-rugby-body",
+    "camiseta-rugby-ultrabooks",
+    "camiseta-rugby-london",
+    "short-rugby-shane",
+    "short-rugby-durban",
+    "short-rugby-wave",
+    "medias-largas",
+    "camiseta-futbol-air-fit",
+    "camiseta-hockey-force",
+    "pollera-hockey-con-calza",
+    "bermuda-c-corte-urban",
+    "camiseta-de-hockey-dama-olimpic",
+    "camiseta-hockey-dama-amsterdam",
+    "camiseta-hockey-dama-arquero",
+    "camiseta-hockey-dama-c-mangas-valen",
+    "camiseta-hockey-dama-c-mangas-wind",
+    "camiseta-hockey-masculino",
+    "chupin-urban",
+    "chupin-urban-mujer",
+    "mochila-urban",
+    "short-futbol-air-fit",
+    "short-futbol-box",
+    "short-hockey-masculino",
+    "bermuda-c-corte-new-line",
+    "bermunda-heat-rustica",
+    "buzo-canguro-basic",
+    "buzo-canguro-reglan-air",
+    "buzo-manga-ralgan-essential",
+    "calza-larga-ionex",
+    "camiseta-de-hockey-dama-cool",
+    "campera-c-capucha-softshell-hombre",
+    "campera-sofshell",
+    "chupin-fitness",
+    "chupin-gianlu-mujer",
+    "chupin-new-line-hombre",
+    "jogging-basic",
+    "mochila-trial",
+    "musculosa-jersey-hombre",
+    "musculosa-sublimada-hombre",
+    "pantalon-cargo-gabardina",
+    "pantalon-cozy-mujer",
+    "remera-basic",
+    "remera-basic-dry-fit",
+    "remera-c-corte-raglan-dry-fit",
+    "remera-c-cortte-jersey-hombre",
+    "remera-oslo",
+    "remera-oversize",
+    "remera-sin-manga",
+    "rompeviento-glasgow-c-capucha",
+    "short-c-corte-wave",
+    "short-fitness-c-calza-mujer",
+    "termica-hombre"
+  ],
+  "webpPrevios": [
+    {
+      "ruta": "images/portadas/deportes-480.webp",
+      "sha256": "b600c793b239f99197dc6bf269107e09a69dc56af09f4546c06c072e9b84d66d"
+    },
+    {
+      "ruta": "images/portadas/deportes-706.webp",
+      "sha256": "f82465eb3ea1bdbb081c72a86f7dd379286c5a90fdc8ca06929112f681ef48f7"
+    },
+    {
+      "ruta": "images/portadas/training-480.webp",
+      "sha256": "8e8b291cdb22975760eab057482998c29e968822ce22c0b491fa0378893c4d05"
+    },
+    {
+      "ruta": "images/portadas/training-703.webp",
+      "sha256": "5c21f74472ffb79bc79aa02ea23a4d8de21079faeec5e2878ab58979c74e06ed"
+    },
+    {
+      "ruta": "images/portadas/urbano-480.webp",
+      "sha256": "a63ca44642b880e44ef500622f5aab7d499f3be7b2155898e10f4e772ab118f6"
+    },
+    {
+      "ruta": "images/portadas/urbano-703.webp",
+      "sha256": "6ba2b9a64f4da578fda760716ef9433aee05cff80cae5b05ac03097638891fd9"
+    },
+    {
+      "ruta": "images/portadas/instituciones-480.webp",
+      "sha256": "4c940b22acd73621e115e69465c0d65af5b889814777230388685052f6276efc"
+    },
+    {
+      "ruta": "images/portadas/instituciones-705.webp",
+      "sha256": "e5aa0b3f452df10223d84c8a865d9e912c01d754ec9e0affe1df6412befac6e2"
+    },
+    {
+      "ruta": "images/categorias/rugby-480.webp",
+      "sha256": "a1d7a7ea3f14eb52d23f1374dff8cdd28134419e75699611be4c791258ab470e"
+    },
+    {
+      "ruta": "images/categorias/rugby-638.webp",
+      "sha256": "612f1c1b19b6d5be8c6fb2af8eedcf6631fde0a42f3a741b42d9b8c51f9362ce"
+    },
+    {
+      "ruta": "images/categorias/hockey-femenino-480.webp",
+      "sha256": "22204a67001d9942da7d33f986ef00c9fc797da025e345c2965ac2602df94b6d"
+    },
+    {
+      "ruta": "images/categorias/hockey-femenino-638.webp",
+      "sha256": "f0aacadc20ad57986fa53a5e5560ef0b9fedc92d2fdb88a27f157bbb852fe4bd"
+    },
+    {
+      "ruta": "images/categorias/hockey-masculino-480.webp",
+      "sha256": "57b1ae3ad5de13288f334debc51a3dd64a78ecab5b47ffe4e4d93fcb87d14af1"
+    },
+    {
+      "ruta": "images/categorias/hockey-masculino-638.webp",
+      "sha256": "ac50a327f0f27bac9dc65ec28b7e2d8e616ad2eb1c07015db5b1b2aa1b527c89"
+    },
+    {
+      "ruta": "images/categorias/futbol-480.webp",
+      "sha256": "172b7d8b9aec84e613ceec071ba1b6bb8275f979235607fc4f68ca6cd10dad7a"
+    },
+    {
+      "ruta": "images/categorias/futbol-636.webp",
+      "sha256": "755158d836a9f21898186c70bba2c7eca3ba1655ef4aef0aca7193f02f62e59a"
+    },
+    {
+      "ruta": "images/institucional/chomba-macro-480.webp",
+      "sha256": "a447023434c2baaab22e217528e58243c2f6b5a280da8fff5a8332b1b77df8d8"
+    },
+    {
+      "ruta": "images/institucional/chomba-macro-786.webp",
+      "sha256": "44c8f3dc2af36e87882cd822f11c019b9b8fae085555438d75560843e9fda9ab"
+    },
+    {
+      "ruta": "images/productos/camiseta-futbol-roja-frente-480.webp",
+      "sha256": "e69676dad367208a70dd554b96ff50007a624f3663b1309bae66ca9d219dedbd"
+    },
+    {
+      "ruta": "images/productos/camiseta-futbol-roja-frente-960.webp",
+      "sha256": "6f853e3ba74b3d7302fe6fe65ecfd3462b3fb03a17f3d4ae2030e8b38ab88c53"
+    },
+    {
+      "ruta": "images/productos/bermuda-gris-frente-480.webp",
+      "sha256": "4a70a07f6f70dc414284bd6dc6eec708aa3f8edd187e0a79bd81c5ca65e3c7d7"
+    },
+    {
+      "ruta": "images/productos/bermuda-gris-frente-960.webp",
+      "sha256": "9a614238920e39971fe7cea1ccc1ad8af215c09b301119f4cf526a94fb92853c"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-frente-480.webp",
+      "sha256": "7671373dcdaa4f41869b392413b767b7f72b8a387cf22acf35f9ca43b039b98a"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-frente-960.webp",
+      "sha256": "5ee2cf8e96bfd8111a32267621631376496feddc8cccb96746e725a1c114f408"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-frente-1600.webp",
+      "sha256": "2f7ac6f4cd72c8cc71ea9e93f8464e76764ba5c5d4a740645c977f2a79f55d29"
+    },
+    {
+      "ruta": "images/productos/camiseta-verde-frente-480.webp",
+      "sha256": "b3fec2d0b3003bbe09b7f619a8ac745bad9aa299b49df5ab50b51c2e1ee99bf5"
+    },
+    {
+      "ruta": "images/productos/camiseta-verde-frente-960.webp",
+      "sha256": "befef261dd3eda41c0196ade1057eea45e6d283d41e63552c301f2b22ec67b51"
+    },
+    {
+      "ruta": "images/productos/short-blanco-frente-480.webp",
+      "sha256": "4b19073f14c7f50914577f5a2ec65ae83389fa709ac73c99adbe10fadb184ceb"
+    },
+    {
+      "ruta": "images/productos/short-blanco-frente-960.webp",
+      "sha256": "51f7607313405b2c6d9472bd2dbe77e15344c6c846be29036eeb5f1febd52910"
+    },
+    {
+      "ruta": "images/productos/short-negro-frente-480.webp",
+      "sha256": "bfacfa23088423d1b8e82fe226cee54917f7e9e59ac41daa5ff4fa85ea84a5cc"
+    },
+    {
+      "ruta": "images/productos/short-negro-frente-960.webp",
+      "sha256": "cfe72790fc415ddbdaad914a23fd4a4e462c0f811a56a035692b979298a443b8"
+    },
+    {
+      "ruta": "images/productos/short-azul-frente-480.webp",
+      "sha256": "25a4dc2ceb3ae7e0fd2fc568328677c178c2b1ccf34b77c63f84f0ebf76b355f"
+    },
+    {
+      "ruta": "images/productos/short-azul-frente-960.webp",
+      "sha256": "a7edd21692dfb72029db6a8ad1e806bcab8975fd6178e53f24d6c6700b2c8fcf"
+    },
+    {
+      "ruta": "images/productos/medias-negras-480.webp",
+      "sha256": "cf80a011ece28e3a745bdd20913d15885aff4a0267bc8fe9919b0b6b721db2aa"
+    },
+    {
+      "ruta": "images/productos/medias-negras-960.webp",
+      "sha256": "1889aa1324f668c75892e13b99fdfcab7e100c83208dd09d75ad7bc3419fecc2"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-dorso-480.webp",
+      "sha256": "93405fef12832ed36fc2a8d1dfcb102ba60fb71acc6e8e0f0969f4a018bc0160"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-dorso-960.webp",
+      "sha256": "640faef0ca6276ce8cfa3d848b00ea5287b4c87844ce8a2be138cb32c1fcf2bf"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-dorso-1600.webp",
+      "sha256": "67d33368c5c54d7772bafd08c3e68928eba7587244ab6fdcddfd2990306dae72"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-sin-modelo-480.webp",
+      "sha256": "3ae983bbc09ecc56c36cb093024882fb604018bd35127a95df556c4174c4338c"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-sin-modelo-960.webp",
+      "sha256": "18c834191e1bd9abf580b6ef500f8fc44179a001bea8ed8420ab3ca315e436f3"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-sin-modelo-1600.webp",
+      "sha256": "823241a988c0f6388c207fa390203de3cf2293f86e6a3bd5bc2ab85f8c1f47e5"
+    },
+    {
+      "ruta": "images/productos/camiseta-hockey-force-frente-480.webp",
+      "sha256": "dcebb3407792218b467e05bf19201075fefaea24af98edafd96bd9a4ca6b8f0d"
+    },
+    {
+      "ruta": "images/productos/camiseta-hockey-force-frente-960.webp",
+      "sha256": "91deacf256fe364dc6273dadf703e99c7c0267536a6e6372a3ea4296d5bed199"
+    },
+    {
+      "ruta": "images/productos/pollera-roja-con-calza-480.webp",
+      "sha256": "1107d13fe91c1c62e6f1a8de9e79d0eecd7229828cfdf77a571ce92d333c5d2c"
+    },
+    {
+      "ruta": "images/productos/pollera-roja-con-calza-960.webp",
+      "sha256": "043581907addfea3dfac5275631eb21ca13e2ec0f107f877bf807c7074627b68"
+    },
+    {
+      "ruta": "images/productos/camiseta-rugby-london-frente-480.webp",
+      "sha256": "b347b3a72335178c14fad39569cc2232e2a47f919ae87262f3ca56388de0200d"
+    },
+    {
+      "ruta": "images/productos/camiseta-rugby-london-frente-960.webp",
+      "sha256": "0f56d56b114513341a4dcaa3fe7f6196f4c75f19d4c957b6fb6770eab0abcb27"
+    },
+    {
+      "ruta": "images/productos/camiseta-rugby-ultrabooks-frente-480.webp",
+      "sha256": "4d3b22ed17f4966e31fdb7267b648b5ab682317429c7f468b47c1c9ca2798014"
+    },
+    {
+      "ruta": "images/productos/camiseta-rugby-ultrabooks-frente-960.webp",
+      "sha256": "1b41c765b8afe3b06f8df0628140e6bd56ab3962a990934d365956485daba7c3"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-listado-480.webp",
+      "sha256": "2d374367a795cf6b5ddd096960b7524430255a963a83a63099762a73906d9755"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-listado-960.webp",
+      "sha256": "ea423a73c34d2ab1ae93ff35fe385a790efd2176263549b34463386054379c96"
+    },
+    {
+      "ruta": "images/productos/short-negro-listado-480.webp",
+      "sha256": "244377d720c3af003f314f84bf74980ef243eca12080f8d2d6594c3f05dfebda"
+    },
+    {
+      "ruta": "images/productos/short-negro-listado-960.webp",
+      "sha256": "865bd56203b3b035b842309ca5c33d31b1bcd66cd0ea022e4b8d201df830bf93"
+    },
+    {
+      "ruta": "images/productos/catalogo-f2b171a7b9647b66b7669dea-480.webp",
+      "sha256": "f28a40876b7b1741dcf1bc06a0722d86ef897008605564a79c8afc562b237343"
+    },
+    {
+      "ruta": "images/productos/catalogo-f2b171a7b9647b66b7669dea-896.webp",
+      "sha256": "f0b82c4f00ffd9ae73ae0dd4c8245aff70e1cb07c32bf80a468f800cc652f365"
+    },
+    {
+      "ruta": "images/productos/catalogo-4bfe8f337aa00bf36a52fefd-480.webp",
+      "sha256": "0db4a31a1f9b6d3bad161ae26e5ffc6cf79d4f79e15a6ec5569fce4a782a5056"
+    },
+    {
+      "ruta": "images/productos/catalogo-4bfe8f337aa00bf36a52fefd-960.webp",
+      "sha256": "3d2dab56a9609eb638fb8321c772afdef751ec81db64ee4bd075f4fdddb0263d"
+    },
+    {
+      "ruta": "images/productos/catalogo-2dd9b36e82c604c6c0706390-480.webp",
+      "sha256": "de2c370970ae5c607ca5c81a80ce001db5e0ea94c86003e16445023ecc286cb4"
+    },
+    {
+      "ruta": "images/productos/catalogo-2dd9b36e82c604c6c0706390-960.webp",
+      "sha256": "09ff032462f69b4e3d5c181b0a0d45d2d7705c7bdbb861ab70c46a2b5fd2f343"
+    },
+    {
+      "ruta": "images/productos/catalogo-b14a00e28ee36c3608f336f3-480.webp",
+      "sha256": "a7456ba3c3925ac6b337574d5473879d492c2e1b249d27bb3a4f4a787f499997"
+    },
+    {
+      "ruta": "images/productos/catalogo-b14a00e28ee36c3608f336f3-960.webp",
+      "sha256": "9ab6cd3c566611fbdd8ac1cdf982c67f3e5deb7d98ddca6485f737eacdf65687"
+    },
+    {
+      "ruta": "images/productos/catalogo-773f46861529f36643ba0546-480.webp",
+      "sha256": "6cff7e1722b2b25a74fbaedf01b886f686adfd7987bcc12ac89804c52cd91d42"
+    },
+    {
+      "ruta": "images/productos/catalogo-773f46861529f36643ba0546-960.webp",
+      "sha256": "89b1ed28696ca36584a7d042deeafb4ed883f6802739fd5382323162c93c18cd"
+    },
+    {
+      "ruta": "images/productos/catalogo-e49d58213f95dced3e4d5fcf-480.webp",
+      "sha256": "99862954716d6d53d16ddfc77cb1133ea80817694ae1bd35a7284361e2f6d5b2"
+    },
+    {
+      "ruta": "images/productos/catalogo-e49d58213f95dced3e4d5fcf-960.webp",
+      "sha256": "a4f0e21a304c718f7a9b0a437f1f5531c32b83d7e5d914a8cb530646f88bb5fa"
+    },
+    {
+      "ruta": "images/productos/catalogo-e9ba0df1ee162655c7e060f7-480.webp",
+      "sha256": "a9049f486562f7e8655f6bdae15a5a30ea66e00ac1ac9fd72e661bf125d964b2"
+    },
+    {
+      "ruta": "images/productos/catalogo-e9ba0df1ee162655c7e060f7-960.webp",
+      "sha256": "3f9eb17c893c99b870f1cec5a622565e034563d01825d72b041c8677f7f9cb6d"
+    },
+    {
+      "ruta": "images/productos/catalogo-2fe54d6f22f173d41ce58f16-480.webp",
+      "sha256": "b9cccaea938ee67eefe6169a9ade8e136791083ef4a87c6ea184f90bdec62bb8"
+    },
+    {
+      "ruta": "images/productos/catalogo-2fe54d6f22f173d41ce58f16-960.webp",
+      "sha256": "2c8187d04f94bb6a0b61782024e10105f72891c8bfee48bec65c7ea644b4d7f5"
+    },
+    {
+      "ruta": "images/productos/catalogo-6e3c74e8b4ab20b61f0ff3db-480.webp",
+      "sha256": "4c21bb65179bf0fd661f9815916c01607ce6715092acefe3afb676783ae3c555"
+    },
+    {
+      "ruta": "images/productos/catalogo-6e3c74e8b4ab20b61f0ff3db-960.webp",
+      "sha256": "6d72750fd654232828544010f88f87bb98c2ddaabe2160e391e93a364bb54872"
+    },
+    {
+      "ruta": "images/productos/catalogo-45a28ba3b7bb14a141e9709e-480.webp",
+      "sha256": "1ca55cab359973aeabdff9075dce5b93fae4b5be4aa846e87296c22fab847a98"
+    },
+    {
+      "ruta": "images/productos/catalogo-45a28ba3b7bb14a141e9709e-960.webp",
+      "sha256": "44153317c5e90663baa6d7caf9e0e49d82ae353d69b0f1b0bed94b08b53e0f3b"
+    },
+    {
+      "ruta": "images/productos/catalogo-7e374931690ad16576a2f858-480.webp",
+      "sha256": "0c14f6bafb60a7f838a2d7b84c992411fba7f6dfda8cc22c0cb07c46cd07e341"
+    },
+    {
+      "ruta": "images/productos/catalogo-7e374931690ad16576a2f858-960.webp",
+      "sha256": "817d8d0deb25ba3625b1a95e5aff4d1cbff0ee7e1698f2f2f30545e15f9fefb9"
+    },
+    {
+      "ruta": "images/productos/catalogo-66fda24dc3678c1695e3b663-480.webp",
+      "sha256": "8df52fae8a3cc7fa090722541daa5573bc3c2b6d619d1ff40304ec02e8bd8325"
+    },
+    {
+      "ruta": "images/productos/catalogo-66fda24dc3678c1695e3b663-960.webp",
+      "sha256": "78f5d265cd5e0d5f537e2cff3563f425985845ebb1628475ccd448541dcd0e84"
+    },
+    {
+      "ruta": "images/productos/catalogo-fa870b30c7a018f01aab13c4-480.webp",
+      "sha256": "7967fc6d5313671653c12971224dc6c4fecfaeea1d206f129e08705aec5d87e4"
+    },
+    {
+      "ruta": "images/productos/catalogo-fa870b30c7a018f01aab13c4-960.webp",
+      "sha256": "5d04d8dcd15272cb76bba80f1834047466459a4a9f58a557c3e8509041fa06c5"
+    },
+    {
+      "ruta": "images/productos/catalogo-4d9a35080866fa8fad4fc2cb-480.webp",
+      "sha256": "21b9eee622ebaedec28c4df848eaef1bc38a306a0887f6f2388210948f00fa23"
+    },
+    {
+      "ruta": "images/productos/catalogo-4d9a35080866fa8fad4fc2cb-960.webp",
+      "sha256": "4f3dcb9ba350b9b0c285ada7fd441b0a79f14cbf5ff4d9fabdc972e9cf56b7a8"
+    },
+    {
+      "ruta": "images/productos/catalogo-43dbc9c5438ddefb7fbb92e9-480.webp",
+      "sha256": "6e58e4c4f1418956bd97b9e604b1395b8755895294ce60c44dbdb75bd25bd381"
+    },
+    {
+      "ruta": "images/productos/catalogo-43dbc9c5438ddefb7fbb92e9-960.webp",
+      "sha256": "8dc927e247d0b2e5f8287e5459002de4c6e939d06b1b8ca21725be3365291a7b"
+    },
+    {
+      "ruta": "images/productos/catalogo-e334d1f0afc9ffc9483c5016-480.webp",
+      "sha256": "96089bfd8c0213e1ac74b19d42e0fc4d421f709a5f0a882f1439b7fae3b7fce6"
+    },
+    {
+      "ruta": "images/productos/catalogo-e334d1f0afc9ffc9483c5016-960.webp",
+      "sha256": "ff0282e65429d69eb4a951d05d7522f819e7852f195bf51e6511f0025f76b22a"
+    },
+    {
+      "ruta": "images/productos/catalogo-4eb590f9061859ba3cfe3c2f-480.webp",
+      "sha256": "3e3da6f237e71d4957b9259f63d4789f53255c9aa8740c95aeb4ea9341cc18fc"
+    },
+    {
+      "ruta": "images/productos/catalogo-4eb590f9061859ba3cfe3c2f-960.webp",
+      "sha256": "a373a856ce777770eaa70d1a1410e6e12c1672a5e3c93d986950a40cdf1df473"
+    },
+    {
+      "ruta": "images/productos/catalogo-dffe03871d50395c2328af3e-480.webp",
+      "sha256": "73227d30c4db3ea4a1d4d1a540ec05a2637396a284081877395a77a8a5da6215"
+    },
+    {
+      "ruta": "images/productos/catalogo-dffe03871d50395c2328af3e-960.webp",
+      "sha256": "a03cf3492f6e6d89e860a50eb8cd17deb407865cca18a63cf7e8fbfd52d85bb5"
+    },
+    {
+      "ruta": "images/productos/catalogo-b454e4f661b6a0a02d9995c6-480.webp",
+      "sha256": "36c0c0cb5d70267b9fe2e7971da87691735d8264f452ba0410c194879566a0fb"
+    },
+    {
+      "ruta": "images/productos/catalogo-b454e4f661b6a0a02d9995c6-960.webp",
+      "sha256": "6b463add97cc759c6b9b91aeb9c8fe2317ccacd67c0103bf2cbcd9ec438d3d1d"
+    },
+    {
+      "ruta": "images/productos/catalogo-11a76a964ab5c3cef1a7793b-480.webp",
+      "sha256": "71bdd1f041ceb6f9bfeb4a590b6673c20a3c232202a2260703ab631594649de3"
+    },
+    {
+      "ruta": "images/productos/catalogo-11a76a964ab5c3cef1a7793b-960.webp",
+      "sha256": "5c66f35f29063464524dc084e831882d18c61395c64c92b0cf5174c7dec04673"
+    },
+    {
+      "ruta": "images/productos/catalogo-8543d4ec05590847c3c7f254-480.webp",
+      "sha256": "7cd91be92d8890a1c9071604e29b8c27b7e0f2f4642361aecc317513cd49123d"
+    },
+    {
+      "ruta": "images/productos/catalogo-8543d4ec05590847c3c7f254-896.webp",
+      "sha256": "5428ec2ae82b447d4c609536f077b4e3abb3f2cc48aa363db62f879aaa7123d4"
+    },
+    {
+      "ruta": "images/productos/catalogo-692c0c6f0f11daa97ba8f821-480.webp",
+      "sha256": "c3bf50bba4daaee1b62c2c2401ff134d476be183294d1188d09ce5787279ed6f"
+    },
+    {
+      "ruta": "images/productos/catalogo-692c0c6f0f11daa97ba8f821-960.webp",
+      "sha256": "25d0c88e0ab77a076042bc6fb5bd35a2483d4ed5b6075f037aba3341cee1e54d"
+    },
+    {
+      "ruta": "images/productos/catalogo-e1e7568cb2b3dd926acf5cf0-480.webp",
+      "sha256": "70aecf6ed2a51ad2c4d3a8a70695c22d8a21956352259d292aa58424c76c8a3e"
+    },
+    {
+      "ruta": "images/productos/catalogo-e1e7568cb2b3dd926acf5cf0-960.webp",
+      "sha256": "b45e9c52477a23a8e47394bd95d837e8fb465e01a4c229531b4004195514819a"
+    },
+    {
+      "ruta": "images/productos/catalogo-66b06029f14f1812a8d2d92e-480.webp",
+      "sha256": "eb495a6a69d58826c2a4a8e4989f7c7347777b184e1abbc1bbf2c20ecd5d6531"
+    },
+    {
+      "ruta": "images/productos/catalogo-66b06029f14f1812a8d2d92e-960.webp",
+      "sha256": "4ff2c966675dd1918eafde08b36cb5c0bdca8142207b90e817d7b0639e8790bc"
+    },
+    {
+      "ruta": "images/productos/catalogo-a57729d785a3cdf1263b9a30-480.webp",
+      "sha256": "21239ac5327f6286f4802f45961e3099842507ae9e34c82c11ce4ee59d7a404f"
+    },
+    {
+      "ruta": "images/productos/catalogo-a57729d785a3cdf1263b9a30-960.webp",
+      "sha256": "5e5e7d201e14feee3207256ec564117569976d29517e50c1083d44a105952284"
+    },
+    {
+      "ruta": "images/productos/catalogo-a0ecdf1dc92d850c17438feb-480.webp",
+      "sha256": "4df4f405fb20dff5ef5cb59c09e2f01f048d17f2df8c46c90f8fd101a2cc0ad1"
+    },
+    {
+      "ruta": "images/productos/catalogo-a0ecdf1dc92d850c17438feb-960.webp",
+      "sha256": "1be82a8b93c7ee57a7b7dd67ff98c7af5f54c4c81a7dc094d8ea1a510d3e2659"
+    },
+    {
+      "ruta": "images/productos/catalogo-c454fd0eb749c65d39e20b31-480.webp",
+      "sha256": "99e9804ce399d45eefb5d304c37a5d5c437e9e88d05f72025937a5eef8f5df6e"
+    },
+    {
+      "ruta": "images/productos/catalogo-c454fd0eb749c65d39e20b31-960.webp",
+      "sha256": "0cd27f2a49fdfb5bcbf3d69f3c7f53ebc743282817a317f5e918a2b2d2db763c"
+    },
+    {
+      "ruta": "images/productos/catalogo-20f988b10f690f0a2f6bff07-480.webp",
+      "sha256": "a4f4068de3cf948316c49e2e04696c5c3940002384638e464092598cc0a0b972"
+    },
+    {
+      "ruta": "images/productos/catalogo-20f988b10f690f0a2f6bff07-960.webp",
+      "sha256": "53764c508b8dd3a3feac047471ed395e768d8701c132d32a400520f8508402ba"
+    },
+    {
+      "ruta": "images/productos/catalogo-61772d31f916a9e6eab23fdc-480.webp",
+      "sha256": "170555ac6a254567ba633fc813902d095ed2440815b2fb365478897f296a1a12"
+    },
+    {
+      "ruta": "images/productos/catalogo-61772d31f916a9e6eab23fdc-960.webp",
+      "sha256": "c407ceaa8424e827531bf2fcc77502b9bca24a77ac799daa680e77e808ffb2d9"
+    },
+    {
+      "ruta": "images/productos/catalogo-a146b0a2d302b2f91c486b75-480.webp",
+      "sha256": "2b5367c796185d609790f2a748a83bdef9f74a31d0d9971e34c6313b3a43c624"
+    },
+    {
+      "ruta": "images/productos/catalogo-a146b0a2d302b2f91c486b75-960.webp",
+      "sha256": "750543025728c42881ac3d991e8a905fde5763d0329327b6e80d2ed08e3e2709"
+    },
+    {
+      "ruta": "images/productos/catalogo-bbc8a7a050e23ff0d2feca16-480.webp",
+      "sha256": "4f96926edfef34f82396bab229641d92e8281ca93612199649bbe60b2865ab6a"
+    },
+    {
+      "ruta": "images/productos/catalogo-bbc8a7a050e23ff0d2feca16-960.webp",
+      "sha256": "47c10cfa4348d2ed20324227e294932652f5e478e1c87c38b12b390fbfac3420"
+    },
+    {
+      "ruta": "images/productos/catalogo-4ab75460ed1db0a88ff07ac3-480.webp",
+      "sha256": "b77da64118d5a62ac6cdec3a6b780079b21fc64c86d2e5cdd699c0ecf6dae045"
+    },
+    {
+      "ruta": "images/productos/catalogo-4ab75460ed1db0a88ff07ac3-960.webp",
+      "sha256": "0d4bdc2d9926b5cefde7ea5c06d47ec9c012e92bf41fc8da63d8bfa424c79713"
+    },
+    {
+      "ruta": "images/productos/catalogo-27be91353fe9972bb97dda0c-480.webp",
+      "sha256": "e4b08d13d115d6d45a40241fbb59d2e7eff7c001a20c49b2b1496a9219d1592c"
+    },
+    {
+      "ruta": "images/productos/catalogo-27be91353fe9972bb97dda0c-960.webp",
+      "sha256": "4468ec7d727b30175151e072490abe574bd037c985e5bc01dc625bdee31261d4"
+    },
+    {
+      "ruta": "images/productos/catalogo-015204ae2a33fab11fc172f6-480.webp",
+      "sha256": "a72eda4329ba0acf39cb5170ec01d9d960c512343351a72dcdcdab25856b4525"
+    },
+    {
+      "ruta": "images/productos/catalogo-015204ae2a33fab11fc172f6-960.webp",
+      "sha256": "087f5fb9cb04b5b38a5d939b7c3443bc94b46cfa5632b69adeaf6a73579319a6"
+    },
+    {
+      "ruta": "images/productos/catalogo-1c76ae7d40dcd1f6237d353c-480.webp",
+      "sha256": "33167adb11d64c5d5089e927ec653d319bdf523c68f523a86d60865b0443cb6d"
+    },
+    {
+      "ruta": "images/productos/catalogo-1c76ae7d40dcd1f6237d353c-960.webp",
+      "sha256": "f34966028126f961aefdc1da08f57dff46fa5aea673f6263f4625931f4de8589"
+    },
+    {
+      "ruta": "images/productos/catalogo-51138cbaea351ba2fa7d13a8-480.webp",
+      "sha256": "e46950c5226a6b29cc4b685b6b1eff074c96ed5bd5c79bd6b49804e11bcd60b7"
+    },
+    {
+      "ruta": "images/productos/catalogo-51138cbaea351ba2fa7d13a8-960.webp",
+      "sha256": "f6f6e96bfb14eba92dca24d31e9cef5bee28d8a2adc267bad0d6e68588087acc"
+    },
+    {
+      "ruta": "images/productos/catalogo-20688df05b767a0920e11f62-480.webp",
+      "sha256": "b1d66de26112f263aa6c5631fdc76d918f5fc87872baa9050d4b4da7174bd72b"
+    },
+    {
+      "ruta": "images/productos/catalogo-20688df05b767a0920e11f62-960.webp",
+      "sha256": "d10f1eea7d3132b1b3aa522a64ce79c56fdca841e45d9bbd3536b97ed67d7db3"
+    },
+    {
+      "ruta": "images/productos/catalogo-21a35c3c75e166565c1cd02a-480.webp",
+      "sha256": "fccd0c92d24cc1fd4ea063e79ce1297df4f4f8bbecd7b4ff515dfc1f4ef37851"
+    },
+    {
+      "ruta": "images/productos/catalogo-21a35c3c75e166565c1cd02a-960.webp",
+      "sha256": "0c4e0c809a3cd40571ee8ec056fe3758d164e577d720886131750d5fd1ff3f6b"
+    },
+    {
+      "ruta": "images/productos/catalogo-561b202a48d16a19792dae8a-480.webp",
+      "sha256": "d2ea5b24330be2f5fdbf2bf2f734b1db2ad29ee2df97442073376b97676ccece"
+    },
+    {
+      "ruta": "images/productos/catalogo-561b202a48d16a19792dae8a-960.webp",
+      "sha256": "8413558a33a5360c02e26a975de7c608710771bb7eeac17a28185ae7b317099a"
+    },
+    {
+      "ruta": "images/productos/catalogo-9d023dc4dd176759f6afd8c2-480.webp",
+      "sha256": "3044e46614b3dfc520941355ccb47b69ba6a7c17443a939bc03e5feb20dabdf7"
+    },
+    {
+      "ruta": "images/productos/catalogo-9d023dc4dd176759f6afd8c2-960.webp",
+      "sha256": "85fe164b5481331795b9729247a847db0a4c0f6179f754b048d97db724fe283a"
+    },
+    {
+      "ruta": "images/productos/catalogo-ca19cdafa1901f13cc97c5e3-480.webp",
+      "sha256": "c39474aac284d9c5b7edfce013cb14bd56bd971396bf1511ae4983e6e7bdd939"
+    },
+    {
+      "ruta": "images/productos/catalogo-ca19cdafa1901f13cc97c5e3-960.webp",
+      "sha256": "2f8367e8f86b2640af3ef9f90f266934e43aa52f2359a005c84cf764412a86c6"
+    },
+    {
+      "ruta": "images/productos/catalogo-02fa85d2c8ad98bc7eff4292-480.webp",
+      "sha256": "04b2ebb61ce22b079c712edaec819116d623a10c87f528d30502120c95a1f04e"
+    },
+    {
+      "ruta": "images/productos/catalogo-02fa85d2c8ad98bc7eff4292-960.webp",
+      "sha256": "37ca2a4c7a45a14042c7574a15978da5ceb59c761a8609562c5625851f80af91"
+    },
+    {
+      "ruta": "images/productos/catalogo-0610943e2e9b65feb3bc5fdf-480.webp",
+      "sha256": "60bfcf46c750f644169215926e9bb6e674c21cdb2b8ae8aa6331b274b204e6d3"
+    },
+    {
+      "ruta": "images/productos/catalogo-0610943e2e9b65feb3bc5fdf-896.webp",
+      "sha256": "62c20dc5922706fe5ae870f5fc06a710e43d9978bf576f12df2c856a9f24b16e"
+    },
+    {
+      "ruta": "images/productos/catalogo-4fb5caa3cfcf8e51d525adee-480.webp",
+      "sha256": "1d8ba5f4a1b9fe25090794e02b573fa4ab006ebf430f78a421eb4208c65d39ce"
+    },
+    {
+      "ruta": "images/productos/catalogo-4fb5caa3cfcf8e51d525adee-960.webp",
+      "sha256": "c62403914b640e92aa80a40e8f1af18f064b58abcc08f434c6aac9ee6b120295"
+    },
+    {
+      "ruta": "images/productos/catalogo-1aaf6b3d6a2709e0f8a20f90-480.webp",
+      "sha256": "18f46143ee3a8752ec4ceb5647d7b71f3d844983f49c98abab924288b418fd92"
+    },
+    {
+      "ruta": "images/productos/catalogo-1aaf6b3d6a2709e0f8a20f90-960.webp",
+      "sha256": "89af984273fc6da91a4207e7991d93d176c8b314df3eeed71cb7de49cb873bc5"
+    },
+    {
+      "ruta": "images/productos/catalogo-d55e7d5d62fa03c021b49c8a-480.webp",
+      "sha256": "edae7fdbd85c9aae4c27759f1f7d7f0ba8174f4ab036213cfbcf5eb06f3880c9"
+    },
+    {
+      "ruta": "images/productos/catalogo-d55e7d5d62fa03c021b49c8a-960.webp",
+      "sha256": "14b7e55f53a7d119eac26d1a8b4acd0937d5dfe26be9e6fec344981a1656e402"
+    },
+    {
+      "ruta": "images/productos/catalogo-a54c1510fbca553709e23e0d-480.webp",
+      "sha256": "80328db344898f9736a0a3f3eef4f1367d90900dae642ad84e233a425a9b0a97"
+    },
+    {
+      "ruta": "images/productos/catalogo-a54c1510fbca553709e23e0d-960.webp",
+      "sha256": "aca6e2714677793c20653e1a3b73445027772ccb7f5900d6b96d793b9cc97bec"
+    },
+    {
+      "ruta": "images/productos/catalogo-857539112784361f3b2bad8b-480.webp",
+      "sha256": "5860550ba00dbede5a8ac86f3baf1280c720bfb1146b198a889979da60110b66"
+    },
+    {
+      "ruta": "images/productos/catalogo-857539112784361f3b2bad8b-960.webp",
+      "sha256": "b8bc44af60864edd04c6e422bbb0dda1e6b5c274a06721b8f0306d146b93b95a"
+    },
+    {
+      "ruta": "images/productos/catalogo-7102945a2d0ace6c1b3dbd88-480.webp",
+      "sha256": "0299bc99851b0e6cf12a034eca892253943dc2fd6cc38f2daf55b403e0a18a77"
+    },
+    {
+      "ruta": "images/productos/catalogo-7102945a2d0ace6c1b3dbd88-960.webp",
+      "sha256": "90012eaaef49c18605d0abdbe0ce01c4aa9993e088c24a5fda04dc358b85ed3f"
+    },
+    {
+      "ruta": "images/productos/catalogo-78f3faf6731a43df669c87b9-480.webp",
+      "sha256": "75126eacabdc4d50bb24b018a67528b175b5041c0997c486c4f204bd892041cf"
+    },
+    {
+      "ruta": "images/productos/catalogo-78f3faf6731a43df669c87b9-960.webp",
+      "sha256": "410c40f9ce024d6cd883383d9a01ded6d73c404987910fb08c81e741d7f4a58a"
+    },
+    {
+      "ruta": "images/productos/catalogo-764cc406eed290089e749a70-480.webp",
+      "sha256": "1374ee75fe0b56a409d333da58e426e8c9c9a10fa549fba6803e9385ca32ed15"
+    },
+    {
+      "ruta": "images/productos/catalogo-764cc406eed290089e749a70-960.webp",
+      "sha256": "99a0140c0ce2c04a1cc3fc8b15b4eed70ef015c0e2f01fc33a936dd77559c559"
+    },
+    {
+      "ruta": "images/productos/catalogo-8805bcae78c4ccf95e29ce7b-480.webp",
+      "sha256": "1cd64783f31b5ca9b82e084f9f957d66b8ce43f5617f00750f79ace591208871"
+    },
+    {
+      "ruta": "images/productos/catalogo-8805bcae78c4ccf95e29ce7b-960.webp",
+      "sha256": "c9db74f5d22fe1662bd06f76f01f9e83bf36b4719ae9a66dce9b9ef38ad91f49"
+    },
+    {
+      "ruta": "images/productos/catalogo-be0d0bf9bd836fc874df0506-480.webp",
+      "sha256": "22c94e2d8060aa77c0ca2399384146fbef5567ac05810585bf5af97d17eebf20"
+    },
+    {
+      "ruta": "images/productos/catalogo-be0d0bf9bd836fc874df0506-960.webp",
+      "sha256": "72cac0bc0cd949311835dd148eb4e60474d6de480951322a054ef80cb1090e99"
+    },
+    {
+      "ruta": "images/productos/catalogo-9e9cea115ebf386f74852d80-480.webp",
+      "sha256": "fb1c4b569dc7a0fd197f6fbf824f13c32337bead62f3f8ca8c1d70e3379f0265"
+    },
+    {
+      "ruta": "images/productos/catalogo-9e9cea115ebf386f74852d80-960.webp",
+      "sha256": "8f63f312dfbd946a47f40f9281580c43d5390f48f96ad6ee532cde8d5ebee7d5"
+    },
+    {
+      "ruta": "images/productos/catalogo-cab3c2939bf3a3413c2d0397-480.webp",
+      "sha256": "98e8a3284eb603ad84aaaca2c00ac80bce8519aa59e6bbbea667fcd8380aed11"
+    },
+    {
+      "ruta": "images/productos/catalogo-cab3c2939bf3a3413c2d0397-960.webp",
+      "sha256": "b3557b370fd6bde56a18b22b2c2018ebdfa5a2e023e44f599e1d6d95d4c84c86"
+    },
+    {
+      "ruta": "images/productos/catalogo-a6296dfb346bd960bfc445f7-480.webp",
+      "sha256": "722e8d2fb7bd82204460b9244bbc840788cfafa090a98743e997657e57258ea0"
+    },
+    {
+      "ruta": "images/productos/catalogo-a6296dfb346bd960bfc445f7-960.webp",
+      "sha256": "c140c7106713ef13c07333d988c26f0b96c3a20d6e7d49751ae5b955c71fe1f7"
+    },
+    {
+      "ruta": "images/productos/catalogo-e050bd6d1aac7494b1ab19b7-480.webp",
+      "sha256": "6da3a688429242edeac95fefa16bdac8871c03796c1b34d2ad1c341c94e1b0f6"
+    },
+    {
+      "ruta": "images/productos/catalogo-e050bd6d1aac7494b1ab19b7-960.webp",
+      "sha256": "a310db24d29f86a4c9549d9a44375019677db078645873056c174192d47d16c9"
+    },
+    {
+      "ruta": "images/productos/catalogo-ccc61d39fa354b7d61802626-480.webp",
+      "sha256": "b548b5d470dc1b8c4c68a183a3bee9b9de67eed2729cda1c17afc5c6f24c610b"
+    },
+    {
+      "ruta": "images/productos/catalogo-ccc61d39fa354b7d61802626-960.webp",
+      "sha256": "16b8fd8c2778b5974cbb9b444171ad9a6858919a82b3219b0813424836f3da2d"
+    },
+    {
+      "ruta": "images/productos/catalogo-e51776c535978f66ae089804-480.webp",
+      "sha256": "81e5641d382a66678002eca10fa21ddecfa45788ed3ab0898c56d443d5e4aefb"
+    },
+    {
+      "ruta": "images/productos/catalogo-e51776c535978f66ae089804-960.webp",
+      "sha256": "5751a13588fbda62c23f25e87e2700ab842ac83a2f35eaead1101ae67924e92e"
+    },
+    {
+      "ruta": "images/productos/catalogo-508fbcfbab7a619db43c390a-480.webp",
+      "sha256": "d17ed5537fa34e9b80ec2ec45964b26772d54a26fcf5c99750685108aa533fab"
+    },
+    {
+      "ruta": "images/productos/catalogo-508fbcfbab7a619db43c390a-960.webp",
+      "sha256": "9bb5568f91e01f9e83ebe285646c5d4a8ccd0c5cc0f54b56b3fe01a153f16184"
+    },
+    {
+      "ruta": "images/productos/catalogo-1cce1dc1f6986020e2f2beec-480.webp",
+      "sha256": "883f756f3ac8291ecce17ad9cf8ccaf7ca4b5043a79b3eb4b1f982bbe8cf868b"
+    },
+    {
+      "ruta": "images/productos/catalogo-1cce1dc1f6986020e2f2beec-960.webp",
+      "sha256": "ec60fd107171db2d7ae7e06d23d56e6186e92014be728285f8b5ce66f4012424"
+    },
+    {
+      "ruta": "images/productos/catalogo-6acd9f7d426e8466b6210eb6-480.webp",
+      "sha256": "731397273373526ee0e4db8770e8aab089410beeed81a7c120d7a7bebb2d7abb"
+    },
+    {
+      "ruta": "images/productos/catalogo-6acd9f7d426e8466b6210eb6-960.webp",
+      "sha256": "1301316ce8462a43dfa063bf60fac0d0adcd1cce76c038ca9ddfadc7fc56cff9"
+    },
+    {
+      "ruta": "images/productos/catalogo-f0db8f559973da1ad3fab3f0-480.webp",
+      "sha256": "78fa494affc17f13cb14143c783294d393f1fb41d321d0676f244be382b7674b"
+    },
+    {
+      "ruta": "images/productos/catalogo-f0db8f559973da1ad3fab3f0-960.webp",
+      "sha256": "e4c95143990e3db0fbf08012c5069f11bf882a70624ec0608a641f73957728e8"
+    },
+    {
+      "ruta": "images/productos/catalogo-ca0b59d39942aa53f49bbd44-480.webp",
+      "sha256": "147791a46af8e4af5a47254bb978704376695c81ddba96b2b4bedf0aebd9cf46"
+    },
+    {
+      "ruta": "images/productos/catalogo-ca0b59d39942aa53f49bbd44-960.webp",
+      "sha256": "eb185ff3197f759a58faf3c21cee217fd585bb63f6ca59cf49551d495ca6ec67"
+    },
+    {
+      "ruta": "images/productos/catalogo-f33bb3d3d4d713e76a196111-480.webp",
+      "sha256": "e100e223acf5e5e0e60fa7504f5014a3ba52d53b19ea3b7aa25001ee9895c0e9"
+    },
+    {
+      "ruta": "images/productos/catalogo-f33bb3d3d4d713e76a196111-960.webp",
+      "sha256": "18c8be974a851ff54e0238861277a012eff9fa9e279c15e0a414cea4fa94552b"
+    },
+    {
+      "ruta": "images/productos/catalogo-8db01fde686293be53a7f072-480.webp",
+      "sha256": "21e10bbcb62d5712384b098cf4893a221354e0add6d901f5e360f68dd11ba58a"
+    },
+    {
+      "ruta": "images/productos/catalogo-8db01fde686293be53a7f072-960.webp",
+      "sha256": "d056025d89b10204dc170dd8e3367ae68bf41b52fd615aa95d12086b36d6ed04"
+    },
+    {
+      "ruta": "images/productos/catalogo-36a627749d90cb35bd8e22f8-480.webp",
+      "sha256": "7f98b6d0d07b938a938a663cd4a7b9c1fdc355cc80ad920ed97e0b3973d3bdae"
+    },
+    {
+      "ruta": "images/productos/catalogo-36a627749d90cb35bd8e22f8-960.webp",
+      "sha256": "7e9ce1b923253c0a896171f9fc9e9100274fc2ec7593ebbb6236d1d4c658895e"
+    },
+    {
+      "ruta": "images/productos/catalogo-31a711dd53feab22f13b76f6-480.webp",
+      "sha256": "5a973b85ba1e9dbecd58d6f60cc15a39dd85d465ec361c7f97278e2a12ba240f"
+    },
+    {
+      "ruta": "images/productos/catalogo-31a711dd53feab22f13b76f6-960.webp",
+      "sha256": "394e0bf3f0cd3f8ade189265d959faaf1cf5e13fd78cdf8667f07d2fa5aca85f"
+    },
+    {
+      "ruta": "images/productos/catalogo-56953530f6f4a4fad7acc765-480.webp",
+      "sha256": "ab39ee299e43f1697c1d6e15c05bebdecfa51ebe66af4751d83c1ff1f5f4f47b"
+    },
+    {
+      "ruta": "images/productos/catalogo-56953530f6f4a4fad7acc765-960.webp",
+      "sha256": "41b8069895a1309c850160de63281b85a08fc0ca0f0bbb2d93c578b1f16943da"
+    },
+    {
+      "ruta": "images/productos/catalogo-6ef41ce3b0ab582d1696cf98-480.webp",
+      "sha256": "b2805b1c5f231d15c101ccbfeb257c330160a8f5c0625a0642913908a6d79f2d"
+    },
+    {
+      "ruta": "images/productos/catalogo-6ef41ce3b0ab582d1696cf98-960.webp",
+      "sha256": "853861154e198aa6b5c3024c82083f947dc931da11116a19bd07ab0b44c432c6"
+    },
+    {
+      "ruta": "images/productos/catalogo-fd886e063689bb5bb452ee75-480.webp",
+      "sha256": "1d9839ee85d62082dc529b2dfb3581e5c117c2ea4431846363f8fca73a10fe59"
+    },
+    {
+      "ruta": "images/productos/catalogo-fd886e063689bb5bb452ee75-960.webp",
+      "sha256": "7179383ac0931d795c29ca860a2576900a78a8374d88061d0e9c195ff085237a"
+    },
+    {
+      "ruta": "images/productos/catalogo-4bc9791bdd7d3dd967d9b7eb-480.webp",
+      "sha256": "e48d466c4b2aa7cb92ea32ad7d4f26879b096740b8b7df21c2858eac441a273d"
+    },
+    {
+      "ruta": "images/productos/catalogo-4bc9791bdd7d3dd967d9b7eb-960.webp",
+      "sha256": "ae84ae61161db09672447e4361aacf4d7b66efaa79775457c788962100350f2d"
+    },
+    {
+      "ruta": "images/productos/catalogo-1a7f812a8c19c298c327de58-480.webp",
+      "sha256": "5fa70ef72df7dd28e639ef5022b6d4dca7f716d380092ed2481b32a4bc53b76f"
+    },
+    {
+      "ruta": "images/productos/catalogo-1a7f812a8c19c298c327de58-960.webp",
+      "sha256": "13cbbe092b6b7084286c8c4166ce3c0bc28441ebc9f0131f19cb857ce0913261"
+    },
+    {
+      "ruta": "images/productos/catalogo-281d0d5a96f72e348efc78dd-480.webp",
+      "sha256": "6c2080f15356003b839ee82f2c021aacde8d1da04184625f930ce937693629f2"
+    },
+    {
+      "ruta": "images/productos/catalogo-281d0d5a96f72e348efc78dd-960.webp",
+      "sha256": "1165e142516dfd6f5d741d3b09582b5c27fe5c9e310381b57e06c46dbd271a5b"
+    },
+    {
+      "ruta": "images/productos/catalogo-3c75fdddb0c8feaadb9f5384-480.webp",
+      "sha256": "22739979a59c5746ed7bcadf08da130f19414b17a142842e8489af32a661546c"
+    },
+    {
+      "ruta": "images/productos/catalogo-3c75fdddb0c8feaadb9f5384-960.webp",
+      "sha256": "398756e1c042743006302f5b9ad47b43f400a5c05c81395f63432af98a7503a8"
+    },
+    {
+      "ruta": "images/productos/catalogo-2292c21fe588863ed35e1dfa-480.webp",
+      "sha256": "70a8a761e7de15926ec322adcc48cde4a6759e57fa7f5c70399500c03eeb29c6"
+    },
+    {
+      "ruta": "images/productos/catalogo-2292c21fe588863ed35e1dfa-960.webp",
+      "sha256": "bff877de7d9d1cde869b854c4a8eb92b4ad3388555cb5cb20cfef7368c836c30"
+    },
+    {
+      "ruta": "images/productos/catalogo-f0c89c53215a0484b3face31-480.webp",
+      "sha256": "1cc33bcf3a53ed7a1bf223b6cac9df8cd0165743119186a58e2cbebfb94b902c"
+    },
+    {
+      "ruta": "images/productos/catalogo-f0c89c53215a0484b3face31-960.webp",
+      "sha256": "0731a32208ce166e94707e78db104b639404eb386642c985c0d49190e830f64f"
+    },
+    {
+      "ruta": "images/productos/catalogo-8db7112d9d5edb9633271446-480.webp",
+      "sha256": "41e03639d7d66ac810065dc4546546c960e9a209d6b4c5c25697b203fec1f221"
+    },
+    {
+      "ruta": "images/productos/catalogo-8db7112d9d5edb9633271446-960.webp",
+      "sha256": "7e634ee6cc1d1bced01b6aa7df44f248be4997a18ac4c732b73c27bf4ca73300"
+    },
+    {
+      "ruta": "images/productos/catalogo-9dd7db40dd760bf0cbee201e-480.webp",
+      "sha256": "0b76b3d970553d04b86ecbbf9d885af2c9e64cbba7181419a9ebb083264c8181"
+    },
+    {
+      "ruta": "images/productos/catalogo-9dd7db40dd760bf0cbee201e-960.webp",
+      "sha256": "190086e1191b697f8e077b3a73e5a973bff04a4747aa33f0543ca48e7b91fcdc"
+    },
+    {
+      "ruta": "images/productos/catalogo-9505a2d2c0032583c2e282fc-480.webp",
+      "sha256": "1625c8e25e816da3f4a02f35b4469c1460debc21440212409b8ead2b87c2d3b0"
+    },
+    {
+      "ruta": "images/productos/catalogo-9505a2d2c0032583c2e282fc-960.webp",
+      "sha256": "06c016f24aa0f43bbb8208c21ae5e504f13ede3ac738ae3e5c3f21b7a08bda73"
+    },
+    {
+      "ruta": "images/productos/catalogo-6e223a1028678062d18c035d-480.webp",
+      "sha256": "ce03b910e1f402e2186dcbebb315aeda4d6d4b8baae1dba47b43c5e071cbab3d"
+    },
+    {
+      "ruta": "images/productos/catalogo-6e223a1028678062d18c035d-960.webp",
+      "sha256": "17943eeb1b7736c9949c6097483d0fd3d3c2fa9f4aad608761c7bb22708708d8"
+    },
+    {
+      "ruta": "images/productos/catalogo-d85c13290d02370bd7b12c8a-480.webp",
+      "sha256": "6ba5af49ef646df660329cc584b4b76a9ed7fa1b86dd2479758a6403782c8300"
+    },
+    {
+      "ruta": "images/productos/catalogo-d85c13290d02370bd7b12c8a-960.webp",
+      "sha256": "debe1f3051eb4a8e50bf5c00c6671b9e3523b47780f4847db3f73615b6d94149"
+    },
+    {
+      "ruta": "images/productos/catalogo-b5a9bc7ff41a06a6e84e70ef-480.webp",
+      "sha256": "f10b65402c1572d10aaec35d9c2d0b8205d511792db8d487a4b83c0af55a3ab0"
+    },
+    {
+      "ruta": "images/productos/catalogo-b5a9bc7ff41a06a6e84e70ef-960.webp",
+      "sha256": "d76d51041230dd9cf9baec2d1231962a419fbab16b4c4ac71c92a75ac385b8e3"
+    },
+    {
+      "ruta": "images/productos/catalogo-a75f73d1cd1d44b4448ac71e-480.webp",
+      "sha256": "73a7f0c452cb66589755afbbca71239a145ceb9cf376657df1bd68d97eec21a8"
+    },
+    {
+      "ruta": "images/productos/catalogo-a75f73d1cd1d44b4448ac71e-960.webp",
+      "sha256": "cfcf07002c5648b903c696e7a19e3e07d54919a22ef3fe315b672631d80f2469"
+    },
+    {
+      "ruta": "images/productos/catalogo-bac53536a681dcc379c3f83a-480.webp",
+      "sha256": "92b8618ed77e8ab0e2a82bb63031f76ee4a9e88a9e63d7dee398819e747c0558"
+    },
+    {
+      "ruta": "images/productos/catalogo-bac53536a681dcc379c3f83a-960.webp",
+      "sha256": "972131c688ea51d20b3dd43e40b762522fa70389a948d6b72639bebce0495286"
+    },
+    {
+      "ruta": "images/productos/catalogo-13536fc6c5d2f6ee053a65fd-480.webp",
+      "sha256": "fbf055501826e4779bf8fb06a77b50c9ad60014c71a05f0f12c407e29827fedc"
+    },
+    {
+      "ruta": "images/productos/catalogo-13536fc6c5d2f6ee053a65fd-960.webp",
+      "sha256": "672284cd7d14b1d5cbf3f54948986b176edd69300bf67145ce2e6d6f80057e6b"
+    },
+    {
+      "ruta": "images/productos/catalogo-c8e0f60baaa54b159cfb79de-480.webp",
+      "sha256": "57200d555fb814ae74cb61ed254e6f2a41eec6f39084edf4a5bac0e2aa71c726"
+    },
+    {
+      "ruta": "images/productos/catalogo-c8e0f60baaa54b159cfb79de-960.webp",
+      "sha256": "2f13e6b1fc9b0d39cadb075a9d9860dda1968c70d2117a393824cd01c5b65d6d"
+    },
+    {
+      "ruta": "images/productos/catalogo-1c0d0b2cb35d3a7e10ad5213-480.webp",
+      "sha256": "b4e44310aab876dac97d4a1aa0433c3e4b180cfcf6970b062ee26da9d51f7751"
+    },
+    {
+      "ruta": "images/productos/catalogo-1c0d0b2cb35d3a7e10ad5213-960.webp",
+      "sha256": "997ef0b685e837aed46a1a5a057445e139080da3d11cda03cd66c9e137e89fd3"
+    },
+    {
+      "ruta": "images/productos/catalogo-c283a5ea18af2878f5ef59d4-480.webp",
+      "sha256": "0a9f23107d690eac349c88f567b18365304435ca58f3cca2836afaa6f1b30ed0"
+    },
+    {
+      "ruta": "images/productos/catalogo-c283a5ea18af2878f5ef59d4-960.webp",
+      "sha256": "e32b9f9c11fe41a08eb0541241851c6745920e3a126b2ba30e9b4f76aea0c112"
+    },
+    {
+      "ruta": "images/productos/catalogo-bce593162019b54656e72c38-480.webp",
+      "sha256": "b1696a76dd3fb2ab5d0da0f901d80f7cf57ffda8e93ecc620e0a6a8684fa230e"
+    },
+    {
+      "ruta": "images/productos/catalogo-bce593162019b54656e72c38-960.webp",
+      "sha256": "e68b50309b5ba4bc00f87b11a6bdd09185b56dcb234cc09b93656c675eda2db4"
+    },
+    {
+      "ruta": "images/productos/catalogo-c3da124f9f23ff3819c322b5-480.webp",
+      "sha256": "0807fe7cd34ff7f9c0b42afd4e7cfcfcacda1c49a3019a8c55b863138d259530"
+    },
+    {
+      "ruta": "images/productos/catalogo-c3da124f9f23ff3819c322b5-960.webp",
+      "sha256": "666b2dfc072a4a341a6495ced871e268357b5531985ab5c11bdf77adf5d3c721"
+    },
+    {
+      "ruta": "images/productos/catalogo-5b66255a14b534f00bbc29e4-480.webp",
+      "sha256": "5cfd6560bbef575a78ec54ad2f54d56005635b76ed9db6af5832f80a3a1670ac"
+    },
+    {
+      "ruta": "images/productos/catalogo-5b66255a14b534f00bbc29e4-960.webp",
+      "sha256": "74c976d23899d95b49694606d95f8e041c06902630af11e5542f10e6a098eb4b"
+    },
+    {
+      "ruta": "images/productos/catalogo-b5a24cddb6f8836dbdaae896-480.webp",
+      "sha256": "4f340448d72e1f02f87c0c72591178e3745db4b3e4718522dbd92431a0e3f30c"
+    },
+    {
+      "ruta": "images/productos/catalogo-b5a24cddb6f8836dbdaae896-960.webp",
+      "sha256": "426b978c986f950aeb38799cdb2bb4b3024faf99fde0a5c63028b8b67d9d7686"
+    },
+    {
+      "ruta": "images/productos/catalogo-f4b1da5105578691e6db1b21-480.webp",
+      "sha256": "5477a1a4d60368cb68ac028938f6b296716ae3151e5f7aa435b540421a7f3d0a"
+    },
+    {
+      "ruta": "images/productos/catalogo-f4b1da5105578691e6db1b21-960.webp",
+      "sha256": "f71b8dc9cfd3685d982955b177b049e081e65ad0dd2e8d6b04b0328af5b78222"
+    },
+    {
+      "ruta": "images/productos/catalogo-35956bc1facbfe52fcb17ab5-480.webp",
+      "sha256": "959350216b65f57223e6671a858ad9e2e6cff6da70872202d495e39e2994b582"
+    },
+    {
+      "ruta": "images/productos/catalogo-35956bc1facbfe52fcb17ab5-960.webp",
+      "sha256": "2e9e2e02208ae400e7d34aaac94ad6baaa2103abbb9270858e0712ef59733223"
+    },
+    {
+      "ruta": "images/productos/catalogo-786a328efadf0e443bd7f079-480.webp",
+      "sha256": "7b28b88e6422f08919c89a7a3dbd5379f236b030fb6f1edcc73ad0f3c9ce09cc"
+    },
+    {
+      "ruta": "images/productos/catalogo-786a328efadf0e443bd7f079-960.webp",
+      "sha256": "b04b2b1dba81d066c0ed730452778076e8a55c7e6935950d0d6ae6b53a6039bb"
+    },
+    {
+      "ruta": "images/productos/catalogo-bc0f77c7a471cede86148a29-480.webp",
+      "sha256": "5e97bde965e0686d58ec3a63dca446fdf5c238d3839c7103d082d9f1575c0ba0"
+    },
+    {
+      "ruta": "images/productos/catalogo-bc0f77c7a471cede86148a29-960.webp",
+      "sha256": "fe599da15c39df33b7d313bd33a549869135577622029b237cc39ddc9d54b672"
+    },
+    {
+      "ruta": "images/productos/catalogo-50064fe1a00f19d3444a08c4-480.webp",
+      "sha256": "f8f4a8323e99ad99f7de2a4e1028c5dec5bf688b2f7de25c69bfc43b08869da1"
+    },
+    {
+      "ruta": "images/productos/catalogo-50064fe1a00f19d3444a08c4-896.webp",
+      "sha256": "082071e9c7e4222129d38d107a8b0182bab1f11f26b60518359e6056af2289fd"
+    },
+    {
+      "ruta": "images/productos/catalogo-43ac94c8c754092507c0aa5a-480.webp",
+      "sha256": "bf1f7e607b86a62b9a89142d0b1d0d51aa6ea08df3d3537b059ccf2afc0ef5a3"
+    },
+    {
+      "ruta": "images/productos/catalogo-43ac94c8c754092507c0aa5a-960.webp",
+      "sha256": "5e8373c8a4e518cd3eea767154524d4eaf5c924ccd20a3df56f098d20ff561c7"
+    },
+    {
+      "ruta": "images/productos/catalogo-ef623037b1d3015ed6640fda-480.webp",
+      "sha256": "428305668fe3e5b8acf4f28b2d55ac0396b547736a18d8a58ea97b9a14500375"
+    },
+    {
+      "ruta": "images/productos/catalogo-ef623037b1d3015ed6640fda-960.webp",
+      "sha256": "cdec5507d10c2af2d50b7469216428ab6ecbde464099aea5fd544d145c1e37f4"
+    },
+    {
+      "ruta": "images/productos/catalogo-9b9985d90fd88cc6568a7990-480.webp",
+      "sha256": "772f2487e06906d31500f6e0121702d558b43b87bff52cc614a50b569de5a851"
+    },
+    {
+      "ruta": "images/productos/catalogo-9b9985d90fd88cc6568a7990-960.webp",
+      "sha256": "be8f692ee890e019fba9430f0fd6731322ec9430da22a869808fa3eeb7757610"
+    },
+    {
+      "ruta": "images/productos/catalogo-6ee1f41e70cdd6c367873a50-480.webp",
+      "sha256": "eb12113c1f8c4d207f8e9405fcfd8fb1e7fbdc8784b43d33e56ae7ede8ff09ba"
+    },
+    {
+      "ruta": "images/productos/catalogo-6ee1f41e70cdd6c367873a50-960.webp",
+      "sha256": "1861f64baf96b04f6370cccc8ae32ca74f6d69b450ac62e313f143effac3179c"
+    },
+    {
+      "ruta": "images/productos/catalogo-5c795ecb237ee31ef23a04c2-480.webp",
+      "sha256": "b9d754dd7ccb2f57850efe7190aa79712c21bc031d3a3dabcb6d710c1d694f3d"
+    },
+    {
+      "ruta": "images/productos/catalogo-5c795ecb237ee31ef23a04c2-960.webp",
+      "sha256": "36493aa009359679504558e1339be195b7d0c98dbbc328674f1c5bb5c96661b7"
+    },
+    {
+      "ruta": "images/productos/catalogo-a371fe352421cb42f52ca8cf-480.webp",
+      "sha256": "5f5a6c869cf02a566dd044d4fa596de7801b252653e5dd2c08ef70edb9ee2d00"
+    },
+    {
+      "ruta": "images/productos/catalogo-a371fe352421cb42f52ca8cf-960.webp",
+      "sha256": "692216a1dffed1dced2aef4b71e19c121ddf69a6b4912ff6e9220440df824400"
+    },
+    {
+      "ruta": "images/productos/catalogo-c49fbb571ea22646bfd3d74a-480.webp",
+      "sha256": "5c522e26dfeb0e6a005187d5fc1c8d41bd20ab898d01623f9a3827271a4793a6"
+    },
+    {
+      "ruta": "images/productos/catalogo-c49fbb571ea22646bfd3d74a-960.webp",
+      "sha256": "b7c199c6842177f32c8820de31e8dd03ae891d40b8e28e577a248e59eab268f9"
+    },
+    {
+      "ruta": "images/productos/catalogo-c77afb55a80dedaff5c18998-480.webp",
+      "sha256": "484a2b6f19c861d0e33470e2476f62890b448d2103c13eb0a1bc2b108d6cbf82"
+    },
+    {
+      "ruta": "images/productos/catalogo-c77afb55a80dedaff5c18998-960.webp",
+      "sha256": "25cc834098ddf99303e2c6d0ef99b110eee1d7fad45cea233afdf4ca9b530973"
+    },
+    {
+      "ruta": "images/productos/catalogo-d008e911d13b94f713a8cf78-480.webp",
+      "sha256": "d0d4d95908cee666ec1c59b49c301fbf13c751877a30f07fcdc0c9111b1edb83"
+    },
+    {
+      "ruta": "images/productos/catalogo-d008e911d13b94f713a8cf78-960.webp",
+      "sha256": "cd192009e156e7279c9b83fd0cc16d953fd13ff648dd43c3a52077e7ecceea6f"
+    },
+    {
+      "ruta": "images/productos/catalogo-6f631108433898c96c6ef2cc-480.webp",
+      "sha256": "6022db4570f90df7d19c366d9bc0620b41742b33bc1231a827c80eb4ef3b15c0"
+    },
+    {
+      "ruta": "images/productos/catalogo-6f631108433898c96c6ef2cc-960.webp",
+      "sha256": "d6583a82af1a171cde7547bf21ce7190f26340089cba924ebddedf6d6b8cf378"
+    },
+    {
+      "ruta": "images/productos/catalogo-4542548d985c37f7acf1c9d0-480.webp",
+      "sha256": "50cbe173f73c4d0656128289ef9c847d0d7a8b6ee7a3f7f0bce09dcfe9123b8b"
+    },
+    {
+      "ruta": "images/productos/catalogo-4542548d985c37f7acf1c9d0-960.webp",
+      "sha256": "86fade254a909ed24defc292ac37bcf3615bd6c6dfc538c2ab8252f7f962e480"
+    },
+    {
+      "ruta": "images/productos/catalogo-1212b0be16a80bbae0d2792a-480.webp",
+      "sha256": "332672934274f7bd6201c59857b19a785de1120fbef372b97c4a4f3dfb630137"
+    },
+    {
+      "ruta": "images/productos/catalogo-1212b0be16a80bbae0d2792a-960.webp",
+      "sha256": "6fb9df3ef9e05610002e2f251139e50e52391af702f3bde146ed1cfdbdacc7de"
+    },
+    {
+      "ruta": "images/productos/catalogo-f550d70167ceb89b371c2521-480.webp",
+      "sha256": "f2c2380a2f3d2b48843ebad84ea488222b2f23bb76e1424c75a7d6b3952c1be2"
+    },
+    {
+      "ruta": "images/productos/catalogo-f550d70167ceb89b371c2521-960.webp",
+      "sha256": "a239889cba22d4dd92a380c950642af29cdc0683d6188158b5ca391ad7fdfb84"
+    },
+    {
+      "ruta": "images/productos/catalogo-59a2dfd8189cc74c5792de47-480.webp",
+      "sha256": "55f44aa6b7d317cd6d7ddfcf699ba12829e71733cabb2cca30d8a24c0b394d0a"
+    },
+    {
+      "ruta": "images/productos/catalogo-59a2dfd8189cc74c5792de47-960.webp",
+      "sha256": "8ab3b18b479489b48ffb44c1b9cadcae78980e69cb0bdf125ef4062611422db2"
+    },
+    {
+      "ruta": "images/productos/catalogo-d720a4d4e418e391027d680f-480.webp",
+      "sha256": "c16445d9959f739c15eb9044998f60db57e89bacae5679f27ba48af5654bdee2"
+    },
+    {
+      "ruta": "images/productos/catalogo-d720a4d4e418e391027d680f-960.webp",
+      "sha256": "8929c1ef5980cb80522fea48e5e34f7ce300e492be3fa476edb96b75555af4ed"
+    },
+    {
+      "ruta": "images/productos/catalogo-3474c6dab209daa9b2927305-480.webp",
+      "sha256": "d033e79a10b41cb08429e671fba7377bb2f5539b45a91f0c4ac52fe2b4d4aead"
+    },
+    {
+      "ruta": "images/productos/catalogo-3474c6dab209daa9b2927305-960.webp",
+      "sha256": "f5c384e8ff6e034f88f614c85748bd0443f367e88b14d0aa35ae9c8450d73b04"
+    },
+    {
+      "ruta": "images/productos/catalogo-39d6c61fb1bbf98dfee5afe4-480.webp",
+      "sha256": "5fd24db9498cd93664028655d8fa79b80f4cc185f88104719eb46187442b197d"
+    },
+    {
+      "ruta": "images/productos/catalogo-39d6c61fb1bbf98dfee5afe4-960.webp",
+      "sha256": "1638e34936ef92138ada9883f1f707fd0c055ca8dade24177c3572a4a8643196"
+    },
+    {
+      "ruta": "images/productos/catalogo-212bb0c754ceb20549fa531a-480.webp",
+      "sha256": "12e9feaa4408c61d4eeb19579fc54ca5b2397d68833fdde35e32af9d46ee8aa7"
+    },
+    {
+      "ruta": "images/productos/catalogo-212bb0c754ceb20549fa531a-960.webp",
+      "sha256": "0bd2110fcceca0b895af92873dfde5f2506099f95996c7b56279f81ce9d9aa07"
+    },
+    {
+      "ruta": "images/productos/catalogo-445185f01246014046e06e32-480.webp",
+      "sha256": "22b9d180ac4a9580a2ee31268033fbef077d3d259f77b4cb6f9ecf6a2aecc18c"
+    },
+    {
+      "ruta": "images/productos/catalogo-445185f01246014046e06e32-960.webp",
+      "sha256": "c722a2f6a4d417980350d9603a53a2b76045a609dda450764170ec32f583eb03"
+    },
+    {
+      "ruta": "images/productos/catalogo-0d3ae5ef8b543aeb274ab7e9-480.webp",
+      "sha256": "ee1658be7d54506a9269e1fa3cdfeed4b4f9c1e54fc7d01d3d353d6f5d4fef38"
+    },
+    {
+      "ruta": "images/productos/catalogo-0d3ae5ef8b543aeb274ab7e9-960.webp",
+      "sha256": "edb9d02479a17c2b50bd5232a61d25c37011c78c0b31b134e0e1df90d822c880"
+    },
+    {
+      "ruta": "images/productos/catalogo-bfb7097afd9820dc2ad181fc-480.webp",
+      "sha256": "8c97feb7fc590182a224a3981b7c67bc096342ddb27b40394f7f091f5a64bd41"
+    },
+    {
+      "ruta": "images/productos/catalogo-bfb7097afd9820dc2ad181fc-960.webp",
+      "sha256": "379f60ea6d98815a9133d69351932b5a86fd167e587634c50ab0f2bce60603b2"
+    },
+    {
+      "ruta": "images/productos/catalogo-c6b4f5eec60073c584aee0a2-480.webp",
+      "sha256": "b44763acfec2fa08d7f2f0c2048046fd30af5395b83ff49e7bac004f94f60550"
+    },
+    {
+      "ruta": "images/productos/catalogo-c6b4f5eec60073c584aee0a2-960.webp",
+      "sha256": "fb1d5551f7f943584b090f8c390562f1d7ed93d3ba56509ae05f7cdd47355300"
+    },
+    {
+      "ruta": "images/productos/catalogo-09bb8e69a700d5f9ebe99ddb-480.webp",
+      "sha256": "0bd8a56fd5ab69a258210284476fc404b07669126cd79ba02247a11b66ef4481"
+    },
+    {
+      "ruta": "images/productos/catalogo-09bb8e69a700d5f9ebe99ddb-960.webp",
+      "sha256": "2fc513c51a514ad651dfd77e255ae10d8825ca2b22f865abdbb9cf40fbbaffad"
+    },
+    {
+      "ruta": "images/productos/catalogo-1df7d9f411bbe4e67ea9a2c5-480.webp",
+      "sha256": "08085d9d8e324c1ca55d655139d5224b943cb65962a3c7215d74fd4cd6db53ea"
+    },
+    {
+      "ruta": "images/productos/catalogo-1df7d9f411bbe4e67ea9a2c5-960.webp",
+      "sha256": "8590ba738aa31405fd4602798258ace5256e136e5967a2510c75801c3ca6040d"
+    },
+    {
+      "ruta": "images/productos/catalogo-74c3fca8ec6f89ede45c2980-480.webp",
+      "sha256": "d65e5def186993f4b1c114d6a682c144e78a695980a52214ab398816b00eefa9"
+    },
+    {
+      "ruta": "images/productos/catalogo-74c3fca8ec6f89ede45c2980-960.webp",
+      "sha256": "cd9eb0d7a5afe769569089fec25c584733a4bf3de72c189075365ed801014beb"
+    },
+    {
+      "ruta": "images/productos/catalogo-57ae3bf7c870f3f4671d45d5-480.webp",
+      "sha256": "cac9d2a084a0a964b4252e68677ced04383a146bf67120e4c59865317805ebff"
+    },
+    {
+      "ruta": "images/productos/catalogo-57ae3bf7c870f3f4671d45d5-960.webp",
+      "sha256": "e68a11d5bf5565e60f74f1e7163be95734bf180b0316cf0bf9528a6e93bec1bd"
+    },
+    {
+      "ruta": "images/productos/catalogo-3d8bb1f9fe648288d70813d1-480.webp",
+      "sha256": "928bd712d3413dec90a156a45b3c0f51ce07b0e31fe13e7cf67f42fa986dc0b4"
+    },
+    {
+      "ruta": "images/productos/catalogo-3d8bb1f9fe648288d70813d1-960.webp",
+      "sha256": "0b93be40760991c2e8016c173db32524e63818d6ada6c913215ca57d169e300e"
+    },
+    {
+      "ruta": "images/productos/catalogo-8831dbbae6d417ca66275742-480.webp",
+      "sha256": "4b550774a33e695ee13aff7b6f200eef97a09b9cb0740e6857d8e2ce8d00e254"
+    },
+    {
+      "ruta": "images/productos/catalogo-8831dbbae6d417ca66275742-960.webp",
+      "sha256": "e0977f6d070f4c60d04f9bf49283097d97d5851bd58bb26429fb307f08d7bd9e"
+    },
+    {
+      "ruta": "images/productos/catalogo-e5c99a054a11a41bc01af4f2-480.webp",
+      "sha256": "bba32de4ce86d63704281c7264a95c5fa2143317a2da718bed91689cb2b7cfe2"
+    },
+    {
+      "ruta": "images/productos/catalogo-e5c99a054a11a41bc01af4f2-960.webp",
+      "sha256": "02a17f834c3725d42df2e031f05292ae60fcedbf15d58dabd7ccd76e25dc5736"
+    },
+    {
+      "ruta": "images/productos/catalogo-eb37c10669860719a89118b4-480.webp",
+      "sha256": "fce47ccab80daa4502833a2d82c0618b46273f41473ae2326f12b1bf257a3a0e"
+    },
+    {
+      "ruta": "images/productos/catalogo-eb37c10669860719a89118b4-960.webp",
+      "sha256": "4e29ad4f29ae016e679ca81d06725a064b881d9d0adf654f762f5fabe5284ff4"
+    },
+    {
+      "ruta": "images/productos/catalogo-db0c88505ff17a335956afef-480.webp",
+      "sha256": "c9a64bbbc91559f7998412887d7942344a2bfb50b2eab795e0e0f5f92fe47c7f"
+    },
+    {
+      "ruta": "images/productos/catalogo-db0c88505ff17a335956afef-960.webp",
+      "sha256": "940921a958dc40526bd64abed77f261a2665f7dadd8aa73f6ff6e1f32df292ef"
+    },
+    {
+      "ruta": "images/productos/catalogo-a3b73e92c8d303f53c8026f4-480.webp",
+      "sha256": "724a7a7971aac8d1e9d2730aa0bdfcee21345284f6c00dd912fd28b5ba5df5fa"
+    },
+    {
+      "ruta": "images/productos/catalogo-a3b73e92c8d303f53c8026f4-960.webp",
+      "sha256": "1792e99b8105048ab55ed44077b759d1a8cc53945f07d49baaa32604dc99129e"
+    },
+    {
+      "ruta": "images/productos/catalogo-50d653aadeb4e25667f6e084-480.webp",
+      "sha256": "315183b4a5b9fe6c9c4f31e8d380d91e8f94c34e3d557422f5843d132e35a743"
+    },
+    {
+      "ruta": "images/productos/catalogo-50d653aadeb4e25667f6e084-960.webp",
+      "sha256": "38ecaa4d856ee4b7d66ca8ca2a09b347a99ecebf01f74d11d9ed4ab936af2603"
+    },
+    {
+      "ruta": "images/productos/catalogo-aed2f5c53b1d4e93202d7940-480.webp",
+      "sha256": "942d2190b042fb65997fab61c11c63646aaf9d5f839d7eb192022fb14f65b3aa"
+    },
+    {
+      "ruta": "images/productos/catalogo-aed2f5c53b1d4e93202d7940-960.webp",
+      "sha256": "c9a94b451ce7cd5e00b9c50e3cb4462e319d3fe95eee4fb04aa8b8b2dce8cae7"
+    },
+    {
+      "ruta": "images/productos/catalogo-5158dd927a1299f70397f687-480.webp",
+      "sha256": "7ce90eb2259febe2f4ec11e6512930c0535d9700b63cdb96f866cc3cd8762bd5"
+    },
+    {
+      "ruta": "images/productos/catalogo-5158dd927a1299f70397f687-960.webp",
+      "sha256": "ce9395a43d59e24d86fc991f4d8bf7c5fb7646ac7b80c86dc730c371776f4699"
+    },
+    {
+      "ruta": "images/productos/catalogo-26dad78210d8919077d81f43-480.webp",
+      "sha256": "3129aadf105c00f96b4e967edb421f411ca682095ee08c84ef5d813fc3049dba"
+    },
+    {
+      "ruta": "images/productos/catalogo-26dad78210d8919077d81f43-960.webp",
+      "sha256": "d1c788fdf35390dc8cc00b4cf58fb8bac8cb16f1ad52b8346c43805709243a7d"
+    },
+    {
+      "ruta": "images/productos/catalogo-bbb13810dd671b4321863dd6-480.webp",
+      "sha256": "477a671d4d0f1969d500d4297a1b377be7edf9e76a209c6cb8e338cdcb7737de"
+    },
+    {
+      "ruta": "images/productos/catalogo-bbb13810dd671b4321863dd6-960.webp",
+      "sha256": "2afc6f98b6be12b359a93b7e378ca93d7c2a01bd2cc357f16b056cf2d07399a9"
+    },
+    {
+      "ruta": "images/productos/catalogo-74293e72d169e9257616b400-480.webp",
+      "sha256": "5ee0293032864215b0441c2b0ca9fc41dfae9997f4b08e3064ba1d66ac933d95"
+    },
+    {
+      "ruta": "images/productos/catalogo-74293e72d169e9257616b400-960.webp",
+      "sha256": "247bfcd9fff3cc6091b424704ba1530e4fbbfb891daebd0efc206ad616900baf"
+    },
+    {
+      "ruta": "images/productos/catalogo-eec8c6aff9196c62e180f7c7-480.webp",
+      "sha256": "49dffe3c8bd45adb5b8d083179d330691b50c23a49c8f5d178cf4f5e69817e6e"
+    },
+    {
+      "ruta": "images/productos/catalogo-eec8c6aff9196c62e180f7c7-960.webp",
+      "sha256": "1754cd563b3b4b1ca3b40edef651ba80864d73593e1fe78606ac49b871cfd4fa"
+    },
+    {
+      "ruta": "images/productos/catalogo-43730fec557bfc3310c1ce86-480.webp",
+      "sha256": "29c6eaccd1645f50728b1b8dac5b9c5128155d08983731e790bccb5a6331030f"
+    },
+    {
+      "ruta": "images/productos/catalogo-43730fec557bfc3310c1ce86-960.webp",
+      "sha256": "1051088c77a2cc5ba66c500aef6689d197ac88ea5f677704200925a9a1fc1fe6"
+    },
+    {
+      "ruta": "images/productos/catalogo-ddd0762b88d121fefa270d91-480.webp",
+      "sha256": "7937422ad644016268dfa977f016153548f893c27682282cba866b0527b30f22"
+    },
+    {
+      "ruta": "images/productos/catalogo-ddd0762b88d121fefa270d91-960.webp",
+      "sha256": "93bcad2924f3e69bf212fad0e345d4d36015982cd2d6f39d3cd076cb45a52935"
+    },
+    {
+      "ruta": "images/productos/catalogo-4e7e7d26417dcab9175a900f-480.webp",
+      "sha256": "89c935935a8d29684fbf6e920cfec9e1ce55373dae5f7693176aae4a8cf3a376"
+    },
+    {
+      "ruta": "images/productos/catalogo-4e7e7d26417dcab9175a900f-960.webp",
+      "sha256": "13b022e9e48a811bbbb5b5496fbc9bea8b2479c32cb7b179a02451c0d057ce8a"
+    },
+    {
+      "ruta": "images/productos/catalogo-d53a0bd3a685fac0b292cb51-480.webp",
+      "sha256": "b76f507f36562704169894af97f249be7cf6e88fac620f145734c02a0805fca5"
+    },
+    {
+      "ruta": "images/productos/catalogo-d53a0bd3a685fac0b292cb51-960.webp",
+      "sha256": "030f8b2356ec2fe081d9f5cb49fb11bd50471ec813c5d0e74194e907f604e360"
+    },
+    {
+      "ruta": "images/productos/catalogo-d95fd6deab33453c9e90cb18-480.webp",
+      "sha256": "9be9ef2742dd3f87f628e6cc969eaa8915c5626016b1210108511f7f46a02b98"
+    },
+    {
+      "ruta": "images/productos/catalogo-d95fd6deab33453c9e90cb18-960.webp",
+      "sha256": "39a2cc2856b7b02ed97d1afd69c08dc01e94a9710f3aba3fdb8826db2bd236d6"
+    },
+    {
+      "ruta": "images/productos/catalogo-c706a6fa6ca61e55070b3337-480.webp",
+      "sha256": "da1fec51e4c22d87ea87562601551b08092f0f9ba75e986a29fa8863bdd57eca"
+    },
+    {
+      "ruta": "images/productos/catalogo-c706a6fa6ca61e55070b3337-960.webp",
+      "sha256": "83923b2c265abb6c703efba5d947881b2549c88ccb2fd7d6ce8c52bc4fcd3dd4"
+    },
+    {
+      "ruta": "images/productos/catalogo-e3bd19ef0eb5b1af2dc88b48-480.webp",
+      "sha256": "527fe614f69a9b938ea1bb7158f361f557ce664a98769bd986094f8f801fab90"
+    },
+    {
+      "ruta": "images/productos/catalogo-e3bd19ef0eb5b1af2dc88b48-960.webp",
+      "sha256": "575b10dac5983e98ffa36f83032b7c609f8dbcc32d8d97a23e5b458e1778e75f"
+    },
+    {
+      "ruta": "images/productos/catalogo-a32dc5deb11f58bcc3efd296-480.webp",
+      "sha256": "93d30e228fb7bdb04537993fb68137c1db84b1a86b7d5ca9e26db5ccafe5e194"
+    },
+    {
+      "ruta": "images/productos/catalogo-a32dc5deb11f58bcc3efd296-960.webp",
+      "sha256": "1d49222a0b4f1ef36ed7a2c934cc9d758da7271a74e434e4d78b3437c788f4f1"
+    },
+    {
+      "ruta": "images/productos/catalogo-2a9933a966f99f4effb5e697-480.webp",
+      "sha256": "742c44063951ecc556c8f3004dd17c6f75cff1fac493ce84a39b73f9db715b58"
+    },
+    {
+      "ruta": "images/productos/catalogo-2a9933a966f99f4effb5e697-960.webp",
+      "sha256": "b111a5d5763947a43af68cea1dfd3d12c0e73231bce1ed55da3be965ccd2819f"
+    },
+    {
+      "ruta": "images/productos/catalogo-d2a93cd41fe1c579f15b0677-480.webp",
+      "sha256": "bd775700e02bc6f11e62f72a9a59147a515df003d1714f20df4d830042dcf785"
+    },
+    {
+      "ruta": "images/productos/catalogo-d2a93cd41fe1c579f15b0677-960.webp",
+      "sha256": "d9daf6b6f54a7e4d0c4e1c390db715db13a7c6dd9e36cb6eae56ae97e83bed45"
+    },
+    {
+      "ruta": "images/productos/catalogo-7146fa802af17c499bb8895c-480.webp",
+      "sha256": "503703b47272ad77e5e3fa9f677feb82fbec2ed260276120a85de55cf5617b80"
+    },
+    {
+      "ruta": "images/productos/catalogo-7146fa802af17c499bb8895c-960.webp",
+      "sha256": "3e5e09a25e7d6cc0cae63165ac13d4cf66794b6de7fc781fbeca8255e999ba0b"
+    },
+    {
+      "ruta": "images/productos/catalogo-f66c0850564d139e856a0401-480.webp",
+      "sha256": "38294388c8b2bb43a7ca32870047281de1be8006387013c90d31c511c31cb1c2"
+    },
+    {
+      "ruta": "images/productos/catalogo-f66c0850564d139e856a0401-960.webp",
+      "sha256": "ab33cce19a6dac8f69058c9f4df3682229ec6fab45294444349d02fb0afb3de7"
+    },
+    {
+      "ruta": "images/productos/catalogo-57bc78108dc9d00bca1b26ca-480.webp",
+      "sha256": "f3869439ce81e500f21d1e42a25c8e9439baea41148233b986907f671711588d"
+    },
+    {
+      "ruta": "images/productos/catalogo-57bc78108dc9d00bca1b26ca-960.webp",
+      "sha256": "27fd7dfb45e80868332a02b8b67a519e3a868e6a29981ad6e8074903eb0bed86"
+    },
+    {
+      "ruta": "images/productos/catalogo-60bd15f97cbd6eec90e76ad0-480.webp",
+      "sha256": "e08157b221b5d62f69384a6f44026d84bbd26153334b8e4d7ca328b0650bf190"
+    },
+    {
+      "ruta": "images/productos/catalogo-60bd15f97cbd6eec90e76ad0-960.webp",
+      "sha256": "b2da02d9238368c71d028999ef6d8eee6a5ecb653c4f25643298d19f3ddca231"
+    },
+    {
+      "ruta": "images/productos/catalogo-c5c2a626a61bcaccadc53fdf-480.webp",
+      "sha256": "082ba3c6087c04b05ae4847f904e113c5a5b41b5b1e40463a43093eb7189999f"
+    },
+    {
+      "ruta": "images/productos/catalogo-c5c2a626a61bcaccadc53fdf-960.webp",
+      "sha256": "ac1958cdaed41c24b0df5d542de37060df6920253b9e8331f7a494c291b7e5d9"
+    },
+    {
+      "ruta": "images/productos/catalogo-f97e875f1a80598899e54ea7-480.webp",
+      "sha256": "bc941483e14f946437812124cec3d1a88b7f274373715f09e87bc658dc17400f"
+    },
+    {
+      "ruta": "images/productos/catalogo-f97e875f1a80598899e54ea7-960.webp",
+      "sha256": "e31ee176ab75eb8271c10672d25393e9acd6054c8a85fd2b3725b41c3d2724cc"
+    },
+    {
+      "ruta": "images/productos/catalogo-84195ae298f8a4987c1d2920-480.webp",
+      "sha256": "9023b80736041d002ceb8a310b40aed5bcbc415026cef3f9902e7af222ea9180"
+    },
+    {
+      "ruta": "images/productos/catalogo-84195ae298f8a4987c1d2920-960.webp",
+      "sha256": "109870bb7ff91465969549735466d771d195bd20515ce5321414dbdac6cef0e8"
+    }
+  ]
+}

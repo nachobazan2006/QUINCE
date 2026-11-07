@@ -54,6 +54,7 @@
   .columnas-pie > .marca { margin-bottom: 4px; }
   .columnas-pie li { margin-bottom: 4px; }
   .columnas-pie a { display: inline-flex; min-height: 24px; align-items: center; }
-  .columnas-pie .redes-sociales a { min-width: 44px; min-height: 44px; }
+  .columnas-pie .redes-sociales { gap: 0; }
+  .columnas-pie .redes-sociales a { min-width: 44px; min-height: 44px; justify-content: flex-start; }
   .copyright { padding-block: 20px 64px; }
 }

@@ -7,6 +7,12 @@ import { createHash } from 'node:crypto';
 import { execFileSync } from 'node:child_process';
 import sharp from 'sharp';
 
+// el plan incremental permite una carpeta de entrada configurable y conserva los recursos históricos
+if (process.argv.includes('--plan')) {
+  await import('./importar-catalogo.mjs');
+  process.exit(0);
+}
+
 const web = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const raiz = path.resolve(web, '..');
 const rutaManifiesto = path.join(raiz, 'docs/manifiesto-assets.json');

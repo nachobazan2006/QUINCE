@@ -1,8 +1,10 @@
 import { useId, useRef, useState } from 'react';
 import ImagenAdaptable from '../common/ImagenAdaptable.jsx';
 import EnlaceAccion from '../common/EnlaceAccion.jsx';
+import PortadaDeportes from './PortadaDeportes.jsx';
 
-export default function PortadaInicio({ categorias, etiqueta = 'Colecciones', principal = false, indicadoresEnTodas = false }) {
+export default function PortadaInicio({ categorias, etiqueta = 'Colecciones', principal = false, indicadoresEnTodas = false,
+  rotacion, catalogo = [] }) {
   const [activa, setActiva] = useState(0);
   const tira = useRef(null);
   const id = useId();
@@ -27,7 +29,11 @@ export default function PortadaInicio({ categorias, etiqueta = 'Colecciones', pr
         irA(event.key === 'Home' ? 0 : event.key === 'End' ? categorias.length - 1
           : Math.max(0, Math.min(categorias.length - 1, activa + (event.key === 'ArrowRight' ? 1 : -1))));
       }}>
-      {categorias.map((categoria, indice) => <article className="categoria-portada" key={categoria.id}>
+      {categorias.map((categoria, indice) => rotacion?.categoryId === categoria.id
+        ? <PortadaDeportes key={categoria.id} categoria={categoria}
+          disciplinas={(categoria.childIds || []).map(id => catalogo.find(item => item.id === id)).filter(item => item?.image)}
+          intervalo={Number.isFinite(rotacion.intervalMs) && rotacion.intervalMs >= 5000 ? rotacion.intervalMs : 5000} />
+        : <article className="categoria-portada" key={categoria.id}>
         <ImagenAdaptable imagen={categoria.image} prioritaria={principal && indice === 0}
           sizes="(min-width: 1024px) 25vw, (min-width: 600px) 50vw, 90vw" />
         <div className="texto-portada">
@@ -40,10 +46,10 @@ export default function PortadaInicio({ categorias, etiqueta = 'Colecciones', pr
         </div>}
       </article>)}
     </div>
-    <div className="indicadores-portada" role="group" aria-label="Cambiar categoría">
+    {!rotacion && <div className="indicadores-portada" role="group" aria-label="Cambiar categoría">
       {categorias.map((categoria, indice) => <button key={categoria.id} type="button"
         aria-label={`Ver ${categoria.name}`} aria-current={activa === indice ? 'true' : undefined}
         aria-controls={id} onClick={() => irA(indice)}><span /></button>)}
-    </div>
+    </div>}
   </section>;
 }

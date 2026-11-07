@@ -1,0 +1,245 @@
+{
+  "categories": [
+    {
+      "id": "sports",
+      "slug": "deportes",
+      "name": "Deportes",
+      "parentId": null,
+      "image": {
+        "src": "images/portadas/deportes-706.webp",
+        "alt": "Tres modelos con indumentaria deportiva QUINCE",
+        "width": 706,
+        "height": 1136,
+        "variants": [
+          {
+            "src": "images/portadas/deportes-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/portadas/deportes-706.webp",
+            "width": 706
+          }
+        ]
+      },
+      "subtitle": "Rendí al máximo",
+      "action": {
+        "label": "Ver deportes",
+        "href": "/deportes"
+      },
+      "designStatus": "ready",
+      "childIds": [
+        "rugby",
+        "hockey-femenino",
+        "hockey-masculino",
+        "futbol"
+      ],
+      "featuredSectionId": "destacados"
+    },
+    {
+      "id": "rugby",
+      "slug": "rugby",
+      "name": "Rugby",
+      "parentId": "sports",
+      "image": {
+        "src": "images/categorias/rugby-638.webp",
+        "alt": "Modelo con camiseta verde y pelota de rugby",
+        "width": 638,
+        "height": 1028,
+        "variants": [
+          {
+            "src": "images/categorias/rugby-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/categorias/rugby-638.webp",
+            "width": 638
+          }
+        ]
+      },
+      "action": {
+        "label": "Ver colección",
+        "href": "/deportes/rugby"
+      },
+      "pendingMessage": "Listado de Rugby pendiente de implementación en la siguiente etapa.",
+      "view": "collection",
+      "designStatus": "ready"
+    },
+    {
+      "id": "training",
+      "slug": "training",
+      "name": "Training",
+      "parentId": null,
+      "image": {
+        "src": "images/portadas/training-703.webp",
+        "alt": "Modelo con remera negra sobre fondo oscuro",
+        "width": 703,
+        "height": 1136,
+        "variants": [
+          {
+            "src": "images/portadas/training-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/portadas/training-703.webp",
+            "width": 703
+          }
+        ]
+      },
+      "subtitle": "Entrená todos los días",
+      "action": {
+        "label": "Ver colección",
+        "href": "/training"
+      },
+      "designStatus": "pending",
+      "pendingMessage": "Diseño interior pendiente: se entregó la portada, pero falta una referencia de esta página.",
+      "view": "collection"
+    },
+    {
+      "id": "urban",
+      "slug": "urbano",
+      "name": "Urbano",
+      "parentId": null,
+      "image": {
+        "src": "images/portadas/urbano-703.webp",
+        "alt": "Modelo con campera negra",
+        "width": 703,
+        "height": 1136,
+        "variants": [
+          {
+            "src": "images/portadas/urbano-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/portadas/urbano-703.webp",
+            "width": 703
+          }
+        ]
+      },
+      "subtitle": "Del entrenamiento a la calle",
+      "action": {
+        "label": "Ver colección",
+        "href": "/urbano"
+      },
+      "designStatus": "pending",
+      "pendingMessage": "Diseño interior pendiente: se entregó la portada, pero falta una referencia de esta página.",
+      "view": "collection"
+    },
+    {
+      "id": "institutions",
+      "slug": "instituciones",
+      "name": "Instituciones",
+      "parentId": null,
+      "image": {
+        "src": "images/portadas/instituciones-705.webp",
+        "alt": "Modelo con remera negra y escudo",
+        "width": 705,
+        "height": 1136,
+        "variants": [
+          {
+            "src": "images/portadas/instituciones-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/portadas/instituciones-705.webp",
+            "width": 705
+          }
+        ]
+      },
+      "subtitle": "Tu equipo. Tu identidad.",
+      "action": {
+        "label": "Personalizar equipo",
+        "href": "/instituciones"
+      },
+      "designStatus": "pending",
+      "pendingMessage": "Diseño interior pendiente: se entregó la portada, pero falta una referencia de esta página.",
+      "view": "collection"
+    },
+    {
+      "id": "hockey-femenino",
+      "slug": "hockey-femenino",
+      "name": "Hockey femenino",
+      "parentId": "sports",
+      "image": {
+        "src": "images/categorias/hockey-femenino-638.webp",
+        "alt": "Modelo con camiseta azul y fucsia y palo de hockey",
+        "width": 638,
+        "height": 1028,
+        "variants": [
+          {
+            "src": "images/categorias/hockey-femenino-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/categorias/hockey-femenino-638.webp",
+            "width": 638
+          }
+        ]
+      },
+      "action": {
+        "label": "Ver colección",
+        "href": "/deportes/hockey-femenino"
+      },
+      "designStatus": "pending",
+      "pendingMessage": "Listado de esta disciplina pendiente de implementación.",
+      "view": "collection"
+    },
+    {
+      "id": "hockey-masculino",
+      "slug": "hockey-masculino",
+      "name": "Hockey masculino",
+      "parentId": "sports",
+      "image": {
+        "src": "images/categorias/hockey-masculino-638.webp",
+        "alt": "Modelo con camiseta roja y negra y palo de hockey",
+        "width": 638,
+        "height": 1028,
+        "variants": [
+          {
+            "src": "images/categorias/hockey-masculino-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/categorias/hockey-masculino-638.webp",
+            "width": 638
+          }
+        ]
+      },
+      "action": {
+        "label": "Ver colección",
+        "href": "/deportes/hockey-masculino"
+      },
+      "designStatus": "pending",
+      "pendingMessage": "Listado de esta disciplina pendiente de implementación.",
+      "view": "collection"
+    },
+    {
+      "id": "futbol",
+      "slug": "futbol",
+      "name": "Fútbol",
+      "parentId": "sports",
+      "image": {
+        "src": "images/categorias/futbol-636.webp",
+        "alt": "Modelo con camiseta roja de fútbol y pelota",
+        "width": 636,
+        "height": 1028,
+        "variants": [
+          {
+            "src": "images/categorias/futbol-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/categorias/futbol-636.webp",
+            "width": 636
+          }
+        ]
+      },
+      "action": {
+        "label": "Ver colección",
+        "href": "/deportes/futbol"
+      },
+      "designStatus": "pending",
+      "pendingMessage": "Listado de esta disciplina pendiente de implementación.",
+      "view": "collection"
+    }
+  ]
+}

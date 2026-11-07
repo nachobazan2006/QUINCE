@@ -1,0 +1,53 @@
+QUINCE — Inconsistencias y recursos pendientes
+Actualizado: 7 de noviembre de 2026 — Prompt 11
+
+1. Trayectoria y fecha de fundación
+El mockup Nosotros original dice "10 AÑOS DE TRAYECTORIA", mientras el párrafo
+indica que Indumentaria Quince S.R.L. nació en 2009. Necesita validación del
+cliente antes de publicar. Por instrucción expresa del usuario se muestra
+provisoriamente "+10 AÑOS DE TRAYECTORIA" en about.json. Se conserva 2009 y el
+resto del párrafo original; no se calculó ni publicó otra cantidad de años.
+El cambio provisorio no acredita una verificación independiente de la fecha.
+
+2. Cantidad de clubes y afirmaciones institucionales
+Validar "¡VESTIMOS A MÁS DE 100 CLUBES!" antes de publicar. El párrafo de
+referencia "Somos líderes... materiales de primera calidad" se transcribió
+sin reescribir; también requiere aprobación comercial. No hay validación
+adicional del cliente registrada en docs/.
+
+3. Contacto y cotización
+Falta destino real para Contacto en footer.json y Hablemos/Cotizar mi equipo
+en home.json. Permanecen con href null, sin navegación simulada. No se entregó
+diseño de página Contacto ni se creó /contacto, formulario o WhatsApp.
+
+4. Training / Fitness
+El menú dice Training y el footer Fitness. Confirmar equivalencia o separación.
+No se cambió Fitness ni se inventó un destino; sigue con href null.
+
+5. Productos (pendientes del Prompt 9)
+Confirmar denominación Peak / Rugby Body / Oldies de la camiseta celeste.
+Validar descripciones: el texto de yoga/campera del mockup no describe la prenda.
+Falta guía de talles real y verificar/incorporar más vistas de otras prendas.
+En la interfaz pública se oculta la guía si falta el recurso; el rótulo
+"(pendiente)" se retiró durante la auditoría visual. No se inventó una guía.
+
+6. Fidelidad visual
+No se entregaron tipografías originales ni diseño desktop de Nosotros.
+Se incorporó Poppins Regular 400 solo al CTA Conocé Quince tras contrastarla
+con Medium 500. Es una candidata provisional; falta confirmar la familia
+original. No se aplicó a los demás botones ni a los estilos generales.
+Se conserva el logo provisional aprobado y las fuentes de respaldo existentes.
+Desktop adapta los dos bloques en una columna legible, sin secciones nuevas.
+
+Redes resueltas por el usuario en esta etapa (no pendientes):
+Instagram: https://www.instagram.com/quinceindumentaria/?hl=es
+Facebook: https://www.facebook.com/quincesrl
+Ambas URLs se configuran una sola vez en footer.json y se comparten con header.
+
+Carrusel de Deportes resuelto por el usuario durante el Prompt 11:
+La foto dentro de la tarjeta Deportes de Home rota cada 5 segundos, sin mover
+las tarjetas Training/Urbano/Instituciones. La portada actual es la primera,
+seguida por las cuatro disciplinas existentes. Cinco imágenes requieren cinco
+indicadores. Incluye selección manual y respeta movimiento reducido.
+Por pedido posterior del usuario no muestra ningún botón de pausa.
+La rotación fue autorizada expresamente, no inferida solo desde el mockup.

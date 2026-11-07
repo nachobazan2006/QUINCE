@@ -1,0 +1,3053 @@
+{
+  "version": 1,
+  "productosBaseSha256": "1d270b1c0d8760e8b2039163e723e2e8f1ef9e106d1c7071b837afb3339eb659",
+  "aprobados": [
+    {
+      "carpeta": "FOTOS FINALES QUINCE/BERMUDA C_ CORTE URBAN",
+      "nombre": "Bermuda c/corte Urban",
+      "id": "bermuda-c-corte-urban",
+      "slug": "bermuda-c-corte-urban",
+      "categoria": "urban",
+      "existente": true,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/BERMUDA C_ CORTE URBAN/Man_wearing_athletic_shorts_20260914162034.jpeg",
+          "sha256": "f2b171a7b9647b66b7669dea208684c6d421799d3ce1e657d590a8ddf5c8324f",
+          "ancho": 896,
+          "alto": 1200,
+          "bytes": 409778
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BERMUDA C_ CORTE URBAN/Man_wearing_athletic_shorts_2K_20260914162017.jpeg",
+          "sha256": "6b98f4020ff080f68ad6ae4aafd3d3dfafc39d0526b560f8b1a59052a39ef63e",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2139384
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BERMUDA C_ CORTE URBAN/Sportswear_macro_product_photograph_2K_20260914162019.jpeg",
+          "sha256": "4bfe8f337aa00bf36a52fefd7deb21350e11e07c20275f9febb523b9ca2a6d10",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 3076051
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA DE HOCKEY DAMA OLIMPIC",
+      "nombre": "CAMISETA DE HOCKEY DAMA OLIMPIC",
+      "id": "camiseta-de-hockey-dama-olimpic",
+      "slug": "camiseta-de-hockey-dama-olimpic",
+      "categoria": "hockey-femenino",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA DE HOCKEY DAMA OLIMPIC/Woman_wearing_sportswear_garment_2K_20260911153447.jpeg",
+          "sha256": "2dd9b36e82c604c6c0706390a3021addfb0f6afa94134ea4243826e57116869a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1980501
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA DE HOCKEY DAMA OLIMPIC/Create_garment_product_presentation_2K_20260911153500.jpeg",
+          "sha256": "b14a00e28ee36c3608f336f3aa5b5a7333e33c807b8b05642b9ebb3065ae800b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2025516
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA DE HOCKEY DAMA OLIMPIC/Sportswear_e-commerce_product_ph…_2K_20260911153509.jpeg",
+          "sha256": "773f46861529f36643ba054688c36b6653d330a8cdbac5abfe51b3f240405f4a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2046185
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA DE HOCKEY DAMA OLIMPIC/Woman_wearing_sportswear_garment…_2K_20260911153503.jpeg",
+          "sha256": "e49d58213f95dced3e4d5fcf0bd45e99c2c8e0148437c4a8bb1443d7230b7cd8",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1702079
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA DE RUGBY LONDON",
+      "nombre": "Camiseta Rugby London",
+      "id": "camiseta-rugby-london",
+      "slug": "camiseta-rugby-london",
+      "categoria": "rugby",
+      "existente": true,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA DE RUGBY LONDON/Create_a_highly_photorealistic_professional_2K_20260911153325.jpeg",
+          "sha256": "4fb318f86f4859f97bb6adb7d4124622136a63d977e185884ef55f169257e057",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2137406
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA DE RUGBY LONDON/Create_garment_product_presentation_2K_20260911153326.jpeg",
+          "sha256": "e9ba0df1ee162655c7e060f77049f5e83e947d5b24716489af9634f3bb09f463",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2028245
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA DE RUGBY LONDON/Model_wearing_garment_back_view_2K_20260911153331.jpeg",
+          "sha256": "2fe54d6f22f173d41ce58f1601152aea250e811cf92f4005fe11e7c4c0a6bdad",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2200135
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA DE RUGBY LONDON/Model_wearing_product_in_studio_2K_20260911153316.jpeg",
+          "sha256": "6e3c74e8b4ab20b61f0ff3dba21466075486abf23e33056572115646602f5b76",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2170738
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA FUTBOL AIR FIT",
+      "nombre": "Camiseta Fútbol Air Fit",
+      "id": "camiseta-futbol-air-fit",
+      "slug": "camiseta-futbol-air-fit",
+      "categoria": "futbol",
+      "existente": true,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA FUTBOL AIR FIT/Create_a_highly_photorealistic_professional_2K_20260911154014.jpeg",
+          "sha256": "0a73aac92899ddab5305b18c925bc144e4c40617257127347491c008eed1c734",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2206023
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA FUTBOL AIR FIT/Garment_product_presentation_gen…_2K_20260911154020.jpeg",
+          "sha256": "45a28ba3b7bb14a141e9709e32f47317d555ae59fb564a8cd04c2715f2ee9a3b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2090371
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA FUTBOL AIR FIT/Man_modeling_garment_back_view_2K_20260911154017.jpeg",
+          "sha256": "7e374931690ad16576a2f8589e65d86dfbc3b3ce62e01289a85803b25d2d714f",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2236897
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA AMSTERDAM",
+      "nombre": "CAMISETA HOCKEY DAMA AMSTERDAM",
+      "id": "camiseta-hockey-dama-amsterdam",
+      "slug": "camiseta-hockey-dama-amsterdam",
+      "categoria": "hockey-femenino",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA AMSTERDAM/Woman_wearing_sportswear_in_studio_2K_20260911153841.jpeg",
+          "sha256": "66fda24dc3678c1695e3b663184b9aee62fa01f176cb31975269aabad245f17d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1794869
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA AMSTERDAM/E-commerce_sportswear_back_photo…_2K_20260911153815.jpeg",
+          "sha256": "fa870b30c7a018f01aab13c4fe6da869313b5706058ba9055e768b9dae676be4",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1980386
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA AMSTERDAM/Garment_product_presentation_gen…_2K_20260917112601.jpeg",
+          "sha256": "4d9a35080866fa8fad4fc2cbea4b0e99c17c0b2ab212f77dc56e5335c449f068",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1947664
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA AMSTERDAM/Woman_wearing_sportswear_garment…_2K_20260911153809.jpeg",
+          "sha256": "43dbc9c5438ddefb7fbb92e9039a1f7875b2fe8d5f3b3c5fab1fa6147b36a7cb",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1644472
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA ARQUERO",
+      "nombre": "CAMISETA HOCKEY DAMA ARQUERO",
+      "id": "camiseta-hockey-dama-arquero",
+      "slug": "camiseta-hockey-dama-arquero",
+      "categoria": "hockey-femenino",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA ARQUERO/Woman_wearing_sportswear_product_2K_20260914155002.jpeg",
+          "sha256": "e334d1f0afc9ffc9483c501625d53964d77b38eeda19942f206b2653f918f244",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1888047
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA ARQUERO/Sportswear_e-commerce_product_ph…_2K_20260914155006.jpeg",
+          "sha256": "4eb590f9061859ba3cfe3c2f78f98d76347cc244abf19e43ab9d8cdd26f21390",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1666137
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA ARQUERO/Sportswear_e-commerce_product_ph…_2K_20260914155009.jpeg",
+          "sha256": "dffe03871d50395c2328af3e4cb72fb1ba09ec3670dd06044ac9520805a6f226",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2032656
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA ARQUERO/Woman_wearing_sportswear_garment_2K_20260914155011.jpeg",
+          "sha256": "b454e4f661b6a0a02d9995c65b15cd6dff4c266f247d915bc11d1290fa3c52ee",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1589215
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA C_MANGAS VALEN",
+      "nombre": "CAMISETA HOCKEY DAMA C_MANGAS VALEN",
+      "id": "camiseta-hockey-dama-c-mangas-valen",
+      "slug": "camiseta-hockey-dama-c-mangas-valen",
+      "categoria": "hockey-femenino",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA C_MANGAS VALEN/Woman_wearing_sportswear_garment…_2K_20260914154833.jpeg",
+          "sha256": "11a76a964ab5c3cef1a7793bf4d2fee2766f955c8240c6f9fcc99333cb3d5e89",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1834119
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA C_MANGAS VALEN/Create_3D_product_presentation_20260914154854.jpeg",
+          "sha256": "8543d4ec05590847c3c7f2547cf01c546098a6c902598fd6958e9353cba44429",
+          "ancho": 896,
+          "alto": 1200,
+          "bytes": 393069
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA C_MANGAS VALEN/Sportswear_e-commerce_studio_pho…_2K_20260914154835.jpeg",
+          "sha256": "692c0c6f0f11daa97ba8f821f3f72538b6a7e7ed407a57b60ffac73495bcce77",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1904732
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA C_MANGAS VALEN/Woman_modeling_sportswear_in_studio_2K_20260914154827.jpeg",
+          "sha256": "e1e7568cb2b3dd926acf5cf054377cf858f121f830fbb5a8ff13be5427451a8c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1788194
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA C_MANGAS WIND",
+      "nombre": "CAMISETA HOCKEY DAMA C_MANGAS WIND",
+      "id": "camiseta-hockey-dama-c-mangas-wind",
+      "slug": "camiseta-hockey-dama-c-mangas-wind",
+      "categoria": "hockey-femenino",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA C_MANGAS WIND/Woman_wearing_sportswear_garment…_2K_20260911165315.jpeg",
+          "sha256": "66b06029f14f1812a8d2d92e2153511c4f8f5738a6a893e616b11296da60f09c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1980089
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA C_MANGAS WIND/Sportswear_e-commerce_studio_pho…_2K_20260911165645.jpeg",
+          "sha256": "a57729d785a3cdf1263b9a30920762eb14b886c44163cb13626c62719c0167cf",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1875932
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA FORCE",
+      "nombre": "Camiseta Hockey Force",
+      "id": "camiseta-hockey-force",
+      "slug": "camiseta-hockey-force",
+      "categoria": "hockey-femenino",
+      "existente": true,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA FORCE/Modelo_girada_tres_cuartos_2K_20260911165824.jpeg",
+          "sha256": "a0ecdf1dc92d850c17438feb7f20752a3773c179161ff2fccfe823b736f8ddd9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1662246
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA FORCE/Sportswear_e-commerce_product_ph…_2K_20260911165810.jpeg",
+          "sha256": "c454fd0eb749c65d39e20b315d71d8beb8c6c19303239f02e77c987500ed40ce",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1938038
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA FORCE/Woman_wearing_sportswear_garment_2K_20260911165818.jpeg",
+          "sha256": "20f988b10f690f0a2f6bff0728dc80bd32ee5fbe86d957fef47823021b658c81",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1910203
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA FORCE/Woman_wearing_sportswear_garment…_2K_20260911165831.jpeg",
+          "sha256": "3c9aaaf341567499b2eb7ecf8d094dad20e137b08494320d4331d05938750da1",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1914577
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA FORCE/Woman_wearing_sportswear_in_studio_2K_20260911165815.jpeg",
+          "sha256": "61772d31f916a9e6eab23fdc92c51bfdeb847342d4250339c1c2f4801f323977",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1750722
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA HOCKEY MASCULINO",
+      "nombre": "CAMISETA HOCKEY MASCULINO",
+      "id": "camiseta-hockey-masculino",
+      "slug": "camiseta-hockey-masculino",
+      "categoria": "hockey-masculino",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY MASCULINO/Create_a_highly_photorealistic_professional_2K_20260911170209.jpeg",
+          "sha256": "a146b0a2d302b2f91c486b7537b705cd3ea20048e301b0a04f274ea3a76c745a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2093935
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY MASCULINO/Garment_product_presentation_gen…_2K_20260911170259.jpeg",
+          "sha256": "bbc8a7a050e23ff0d2feca16a50a4ad1fb463105c2856e687f801bbdc1563a85",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1853155
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA HOCKEY MASCULINO/Man_wearing_garment_back_view_2K_20260911170217.jpeg",
+          "sha256": "4ab75460ed1db0a88ff07ac3a205863f6f578046fb8b86f11b6d41942e282217",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2174146
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA RUGBY ULTRABOOKS",
+      "nombre": "Camiseta Rugby Ultrabooks",
+      "id": "camiseta-rugby-ultrabooks",
+      "slug": "camiseta-rugby-ultrabooks",
+      "categoria": "rugby",
+      "existente": true,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA RUGBY ULTRABOOKS/Male_model_wearing_rugby_jersey_2K_20260911153129.jpeg",
+          "sha256": "14ff2ce9ecf07069c1853ac31c34cf11e7e6188f1e22e2658cfa7dbeac8318a6",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2483374
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA RUGBY ULTRABOOKS/Model_wearing_rugby_jersey_2K_20260911153127.jpeg",
+          "sha256": "27be91353fe9972bb97dda0cba84e85886415f172889590fe715b0ba7646380c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2465739
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA RUGBY ULTRABOOKS/Rugby_jersey_studio_product_phot…_2K_20260911153138.jpeg",
+          "sha256": "015204ae2a33fab11fc172f6c29808e40b8c04ba262a781eebc3f3de0c5ec08c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2380812
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHUPIN URBAN",
+      "nombre": "CHUPIN URBAN",
+      "id": "chupin-urban",
+      "slug": "chupin-urban",
+      "categoria": "urban",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN URBAN/Man_wearing_athletic_jogger_pants_2K_20260911163423.jpeg",
+          "sha256": "1c76ae7d40dcd1f6237d353c978e6dac1846776ee03d3eec71a2fd7045181205",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2088131
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN URBAN/Modelo_con_manos_en_bolsillos_2K_20260911163443.jpeg",
+          "sha256": "51138cbaea351ba2fa7d13a8f2fc019c7d5ac2218aee7f794e7f0d4c393ad46b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1994586
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN URBAN/Model_wearing_athletic_jogger_pants_2K_20260911163427.jpeg",
+          "sha256": "20688df05b767a0920e11f62599ece7848d6afe3f5bc9e06597bbc26d689e59d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1794273
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHUPIN URBAN MUJER",
+      "nombre": "CHUPIN URBAN MUJER",
+      "id": "chupin-urban-mujer",
+      "slug": "chupin-urban-mujer",
+      "categoria": "urban",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN URBAN MUJER/Generar_una_imagen_3_4_2K_20260914161108.jpeg",
+          "sha256": "21a35c3c75e166565c1cd02a6c173d00a78d862c6d35917b95b385dd87d481e4",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1733843
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN URBAN MUJER/Model_wearing_athletic_jogger_pants_2K_20260914161112.jpeg",
+          "sha256": "561b202a48d16a19792dae8ae86fc5006ff933272303ede724db6ec1083760f0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1824235
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN URBAN MUJER/Sportswear_macro_product_detail_…_2K_20260914161115.jpeg",
+          "sha256": "9d023dc4dd176759f6afd8c2822eeac7073a8ba7182558ba74cc6596855aa10e",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2698399
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN URBAN MUJER/Woman_wearing_athletic_pants_2K_20260914161106.jpeg",
+          "sha256": "ca19cdafa1901f13cc97c5e3f8c6b17cb3a61a30205cf3c4b2f0f7ba5b85dc22",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1800951
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/MEDIAS LARGAS",
+      "nombre": "Medias Largas",
+      "id": "medias-largas",
+      "slug": "medias-largas",
+      "categoria": "rugby",
+      "existente": true,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/MEDIAS LARGAS/Athlete_wearing_football_socks_2K_20260917102631.jpeg",
+          "sha256": "f25ea13945d94fda2dab3ef60add124c55f915fcda14e880860b4013b5c0e132",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2405821
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MEDIAS LARGAS/Football_socks_product_photograp…_2K_20260917102530.jpeg",
+          "sha256": "02fa85d2c8ad98bc7eff429214e13d82da616b2a05756d1d66c002e5d61e382d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2025675
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MEDIAS LARGAS/Generate_professional_product_photo_20260914164011.jpeg",
+          "sha256": "0610943e2e9b65feb3bc5fdff1ef7b3274bbc03f81b81391ff6910c52266748f",
+          "ancho": 896,
+          "alto": 1200,
+          "bytes": 357406
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/MOCHILA URBAN",
+      "nombre": "MOCHILA URBAN",
+      "id": "mochila-urban",
+      "slug": "mochila-urban",
+      "categoria": "urban",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/MOCHILA URBAN/generar_una_vista_frontal_2K_20260914161900.jpeg",
+          "sha256": "4fb5caa3cfcf8e51d525adee9788c9df86efd3a82ecda60a5f358378c5869dad",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2760467
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MOCHILA URBAN/Generate_professional_product_photo_2K_20260914161904.jpeg",
+          "sha256": "1aaf6b3d6a2709e0f8a20f904b12fef091c82b019b445516c9b0c0b9e7a8809f",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2740257
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MOCHILA URBAN/Generate_professional_product_photo_2K_20260914161907.jpeg",
+          "sha256": "d55e7d5d62fa03c021b49c8a013b97110e2b5f37c355f49af0191e0ea7bf0ea8",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2484731
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE",
+      "nombre": "Pollera Hockey con Calza",
+      "id": "pollera-hockey-con-calza",
+      "slug": "pollera-hockey-con-calza",
+      "categoria": "hockey-femenino",
+      "existente": true,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE/Modelo_levantando_pollera_y_most…_2K_20260911170912.jpeg",
+          "sha256": "f76851dcfb6838403b2232b393ab2a12a88c2899ed8f966188e595be72a76faf",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2219455
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE/generar_una_vista_3_4_2K_20260911170910.jpeg",
+          "sha256": "a54c1510fbca553709e23e0dda5e8ea4f0e403f6b1ffcbe79cd52e3a94970db9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2121842
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE/Swap_character_in_reference_images_2K_20260911170912.jpeg",
+          "sha256": "857539112784361f3b2bad8bd4e92eb281a1753e60c6abd5a283a7f0818aabda",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2450111
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/SHORT FUTBOL AIR-FIT",
+      "nombre": "SHORT FUTBOL AIR-FIT",
+      "id": "short-futbol-air-fit",
+      "slug": "short-futbol-air-fit",
+      "categoria": "futbol",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FUTBOL AIR-FIT/Ecommerce_photography_of_athleti…_2K_20260911171403.jpeg",
+          "sha256": "7102945a2d0ace6c1b3dbd888d327b748899522c19ced99bd6e0e7a93f8cf663",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2087289
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FUTBOL AIR-FIT/Male_model_wearing_athletic_shorts_2K_20260911171408.jpeg",
+          "sha256": "78f3faf6731a43df669c87b9c7c890a5443303075a336cb943ad74e5a471c705",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2022729
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FUTBOL AIR-FIT/Man_wearing_athletic_shorts_2K_20260911171357.jpeg",
+          "sha256": "764cc406eed290089e749a7002d9aeee66e34477f0604f4a7a56757b026a8ae6",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2109341
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/SHORT FUTBOL BOX",
+      "nombre": "SHORT FUTBOL BOX",
+      "id": "short-futbol-box",
+      "slug": "short-futbol-box",
+      "categoria": "futbol",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FUTBOL BOX/Man_wearing_athletic_shorts_2K_20260911164916.jpeg",
+          "sha256": "8805bcae78c4ccf95e29ce7b413c67463c1b555397eff0af759a1b139367469e",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2107170
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FUTBOL BOX/Man_wearing_athletic_shorts_2K_20260911164919.jpeg",
+          "sha256": "be0d0bf9bd836fc874df05067354e90fe1117ee7659e070bcfc785fc12c1f345",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2095043
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FUTBOL BOX/Man_wearing_athletic_shorts_back_2K_20260911164921.jpeg",
+          "sha256": "9e9cea115ebf386f74852d8047b31a5f9a26cfca33ead98dd2c5ea009743cd0e",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2157994
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/SHORT HOCKEY MASCULINO",
+      "nombre": "SHORT HOCKEY MASCULINO",
+      "id": "short-hockey-masculino",
+      "slug": "short-hockey-masculino",
+      "categoria": "hockey-masculino",
+      "existente": false,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT HOCKEY MASCULINO/E-commerce_photo_of_athletic_shorts_2K_20260911170743.jpeg",
+          "sha256": "cab3c2939bf3a3413c2d0397e5da2ffd1f878b59f138b943eca2f0935255c519",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2149446
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT HOCKEY MASCULINO/Man_wearing_athletic_shorts_2K_20260911170740.jpeg",
+          "sha256": "a6296dfb346bd960bfc445f7351f412a9245fae6d005efcbe06239d19e0016fb",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2114203
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT HOCKEY MASCULINO/Man_wearing_athletic_shorts_2K_20260911170745.jpeg",
+          "sha256": "e050bd6d1aac7494b1ab19b78b249ee80a625ceffc4e1e0cf19fd8d3f7faeadf",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2182425
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/SHORT RUGBY DURBAN",
+      "nombre": "Short Rugby Durban",
+      "id": "short-rugby-durban",
+      "slug": "short-rugby-durban",
+      "categoria": "rugby",
+      "existente": true,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT RUGBY DURBAN/E-commerce_photography_of_athlet…_2K_20260914154413.jpeg",
+          "sha256": "00c0dd86a3440990dbb0c1e666a7c8163bfc156686a07c6f37f11f2e285614e8",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1888824
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT RUGBY DURBAN/Man_wearing_athletic_shorts_2K_20260914154411.jpeg",
+          "sha256": "84ba07209fd3c2df22b6e1a44305655a6286c579dd3db9451a9554a0145c0519",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1941557
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT RUGBY DURBAN/Model_wearing_athletic_shorts_ba…_2K_20260914154421.jpeg",
+          "sha256": "ccc61d39fa354b7d6180262643277d616d54ed8f1ce7e7f7a777989bb6cf2df4",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1855985
+        }
+      ]
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/SHORT RUGBY WAVE",
+      "nombre": "Short Rugby Wave",
+      "id": "short-rugby-wave",
+      "slug": "short-rugby-wave",
+      "categoria": "rugby",
+      "existente": true,
+      "confianza": "alta",
+      "motivo": "Nombre explícito o registro previamente verificado; tomas inspeccionadas con diseño coherente.",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT RUGBY WAVE/Man_modeling_athletic_shorts_2K_20260911155856.jpeg",
+          "sha256": "66d89c7cc8f31993bb11e587e94399fc283fa8cd7c8352dde40c1694c47f23b3",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2085533
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT RUGBY WAVE/Man_wearing_athletic_shorts_2K_20260911155903.jpeg",
+          "sha256": "e51776c535978f66ae089804512adfe366b1fbb8433d2ce878d1678d1288cfc0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2100615
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT RUGBY WAVE/Man_wearing_athletic_shorts_2K_20260911155909.jpeg",
+          "sha256": "508fbcfbab7a619db43c390abce96d39e573fc0de3e8b58ff1119f4d5849c283",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2132780
+        }
+      ]
+    }
+  ],
+  "pendientes": [
+    {
+      "carpeta": "FOTOS FINALES QUINCE/BERMUDA C_CORTE NEW LINE",
+      "nombre": "BERMUDA C_CORTE NEW LINE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/BERMUDA C_CORTE NEW LINE/Male_model_wearing_athletic_shorts_2K_20260914162207.jpeg",
+          "sha256": "6acd9f7d426e8466b6210eb605f568ac8b9ecc7672db5d5b6b2e847b3d950452",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1975614
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BERMUDA C_CORTE NEW LINE/Male_model_wearing_athletic_shorts_2K_20260914163405.jpeg",
+          "sha256": "1cce1dc1f6986020e2f2beece9d02fdc0f7265ba5f582ae1a2b7a0c2e2d0794e",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2069400
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BERMUDA C_CORTE NEW LINE/Man_wearing_athletic_shorts_2K_20260914162215.jpeg",
+          "sha256": "f0db8f559973da1ad3fab3f09a053994ebf880dae318c02ec853025c2f7a46eb",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1962734
+        }
+      ],
+      "productoPropuesto": "BERMUDA C_CORTE NEW LINE",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/BERMUNDA HEAT RUSTICA",
+      "nombre": "BERMUNDA HEAT RUSTICA",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/BERMUNDA HEAT RUSTICA/Athletic_shorts_back_view_photog…_2K_20260911164600.jpeg",
+          "sha256": "ca0b59d39942aa53f49bbd4418b9a203a1a75bf483f8dcffcfe0bc31b5a2f10d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2297935
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BERMUNDA HEAT RUSTICA/E-commerce_photo_of_athletic_shorts_2K_20260911164609.jpeg",
+          "sha256": "f33bb3d3d4d713e76a1961116cabd7b1d216a71118aa24015a3fe724b8198d47",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2350292
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BERMUNDA HEAT RUSTICA/Man_wearing_athletic_shorts_2K_20260911164604.jpeg",
+          "sha256": "8db01fde686293be53a7f0723cbd9f9aca276798ad9473d165f3e40f8c50e9db",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2349068
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BERMUNDA HEAT RUSTICA/Modelo_con_manos_en_bolsillos_2K_20260911164614.jpeg",
+          "sha256": "36a627749d90cb35bd8e22f8a8857044417a33c735d889d6706d1e8c2330ebf6",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2085982
+        }
+      ],
+      "productoPropuesto": "BERMUNDA HEAT RUSTICA",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/BUZO CANGURO BASIC",
+      "nombre": "BUZO CANGURO BASIC",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO BASIC/Generate_professional_product_photo_2K_20260911171245.jpeg",
+          "sha256": "56953530f6f4a4fad7acc765fa3a0076509a1588db1b9423469615f262381977",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 3123670
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO BASIC/Man_wearing_garment_in_studio_2K_20260911171245.jpeg",
+          "sha256": "31a711dd53feab22f13b76f6d6341863750d85b72983f41568988fa1180c6b7c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2174167
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO BASIC/Model_wearing_garment_back_view_2K_20260911171248.jpeg",
+          "sha256": "6ef41ce3b0ab582d1696cf988c6446ba5207eda2d63ba71bebc5c2ac2d9330ef",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2179121
+        }
+      ],
+      "productoPropuesto": "BUZO CANGURO BASIC",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/BUZO CANGURO C_CORTE NEW LINE",
+      "nombre": "BUZO CANGURO C_CORTE NEW LINE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO C_CORTE NEW LINE/E-commerce_apparel_studio_photog…_2K_20260911173826.jpeg",
+          "sha256": "b3ccde6a1b2d6d8632be9bc1ab59287f1e77eacd1b59bb1a96ce98b04637756c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2324666
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO C_CORTE NEW LINE/Generate_professional_product_photo_2K_20260911173834.jpeg",
+          "sha256": "05081b8af56f2b53aae585040dd45c4351f71257e1aea4b91900763d9cc06ace",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 3037676
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO C_CORTE NEW LINE/Male_model_wearing_garment_back_2K_20260911173830.jpeg",
+          "sha256": "f36b0fdfda04f55855380f286390e1300bf721bc90d9a4ff074d9aa1c2b6757d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2146731
+        }
+      ],
+      "productoPropuesto": "BUZO CANGURO C_CORTE NEW LINE",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/BUZO CANGURO OVERSIZE",
+      "nombre": "BUZO CANGURO OVERSIZE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO OVERSIZE/Create_a_highly_photorealistic_professional_2K_20260911161627.jpeg",
+          "sha256": "febd4a4e2cbf8d9d1ec4b4b06b0e5643797c4e1ce6f4e303c621472eb12684c8",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2013509
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO OVERSIZE/Model_wearing_garment_back_view_2K_20260911161617.jpeg",
+          "sha256": "f98731bae10c69ea6755eb3f2fbac9b8ecfdd8f05dae8a1d5e6dc598c07f5203",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2157644
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO OVERSIZE/Model_wearing_garment_back_view_2K_20260911161623.jpeg",
+          "sha256": "be08c3bfdbcf1679aeda1c7d97be27e0b31bd551fadd2a8502efd91117a0da8e",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2164089
+        }
+      ],
+      "productoPropuesto": "BUZO CANGURO OVERSIZE",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/BUZO CANGURO REGLAN AIR",
+      "nombre": "BUZO CANGURO REGLAN AIR",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO REGLAN AIR/Create_a_highly_photorealistic_professional_2K_20260911161729.jpeg",
+          "sha256": "fd886e063689bb5bb452ee75f8156c60f0747028543ace299d7d721c55bd39d9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2005492
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO REGLAN AIR/Generate_professional_product_photo_2K_20260911161735.jpeg",
+          "sha256": "4bc9791bdd7d3dd967d9b7eb7f4b4170ff3c0837cf67cd6037958efeb3b87295",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2743016
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO CANGURO REGLAN AIR/Man_wearing_garment_back_view_2K_20260911161732.jpeg",
+          "sha256": "1a7f812a8c19c298c327de582a493360664594cc29eb103ceb39ec100ea3d16a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2145132
+        }
+      ],
+      "productoPropuesto": "BUZO CANGURO REGLAN AIR",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/BUZO MANGA RALGAN ESSENTIAL",
+      "nombre": "BUZO MANGA RALGAN ESSENTIAL",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO MANGA RALGAN ESSENTIAL/Create_a_highly_photorealistic_professional_2K_20260911161925.jpeg",
+          "sha256": "281d0d5a96f72e348efc78dd9ce715acc38fe9323bccc3d45a92abb4d2558746",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2237522
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO MANGA RALGAN ESSENTIAL/Garment_product_presentation_gen…_2K_20260911161944.jpeg",
+          "sha256": "3c75fdddb0c8feaadb9f53846ecb1dd525288550c088a95f59b6d4e582dbcbe4",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2354518
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO MANGA RALGAN ESSENTIAL/Man_modeling_garment_back_view_2K_20260911161937.jpeg",
+          "sha256": "2292c21fe588863ed35e1dfaf3defc0d42693829c287d893a2b9b73a92d08de7",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2300086
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO MANGA RALGAN ESSENTIAL/Product_photo_macro_shot_2K_20260911161959.jpeg",
+          "sha256": "f0c89c53215a0484b3face3162bad3c6ecec380ee9901efb249b09b1e3375c33",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 3357675
+        }
+      ],
+      "productoPropuesto": "BUZO MANGA RALGAN ESSENTIAL",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/BUZO MEDIO CIERRE",
+      "nombre": "BUZO MEDIO CIERRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO MEDIO CIERRE/Create_a_highly_photorealistic_professional_2K_20260911162134.jpeg",
+          "sha256": "54fcba245d63fc1cb7e67b4826e0fe0f64670151d6c17e4d992419ec63f35c21",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1975379
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO MEDIO CIERRE/Create_a_highly_photorealistic_professional_2K_20260917162113.jpeg",
+          "sha256": "6661f8740579e1f4bd043b50bbec6944ede88b483847dcb612bf9e12bd3b9bfb",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2283990
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO MEDIO CIERRE/Garment_product_presentation_vis…_2K_20260911162141.jpeg",
+          "sha256": "718bcdca0c82225c1ac4777b0351f96453d4537583001364003b1c2319b23249",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1586169
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO MEDIO CIERRE/Man_wearing_garment_back_view_2K_20260911162156.jpeg",
+          "sha256": "43e123f5fd24b55c1380b9c4789227d8515d8f2aa289489465f1cd687824dae9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2456300
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/BUZO MEDIO CIERRE/Model_wearing_garment_back_view_2K_20260911162138.jpeg",
+          "sha256": "436c33d87ce0ac82603ba86835c8d7f31c492862bb15dcfa6b18a2d1fd3681fc",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1979557
+        }
+      ],
+      "productoPropuesto": "BUZO MEDIO CIERRE",
+      "categoriaPosible": null,
+      "tipo": "Variantes o fotografías inconsistentes",
+      "motivo": "Combina buzo azul con buzo gris/negro.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CALZA LARGA IONEX",
+      "nombre": "CALZA LARGA IONEX",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CALZA LARGA IONEX/Man_wearing_athletic_jogger_pants_2K_20260914161423.jpeg",
+          "sha256": "8db7112d9d5edb96332714464bccbae1764c234d9d0bec0d304766bcb8ec5ff2",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1813944
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CALZA LARGA IONEX/Man_wearing_athletic_jogger_pants_2K_20260914161632.jpeg",
+          "sha256": "9dd7db40dd760bf0cbee201eecf1267ecaff4fb80cb789e6657aabf3b0e05eb7",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1807528
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CALZA LARGA IONEX/Model_wearing_athletic_jogger_pants_2K_20260914161428.jpeg",
+          "sha256": "9505a2d2c0032583c2e282fce7814333f2af8a8b76feab000e9a4a702269bef5",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1901847
+        }
+      ],
+      "productoPropuesto": "CALZA LARGA IONEX",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA CORTA",
+      "nombre": "CAMISA OXFORD MANGA CORTA",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA CORTA/Create_a_highly_photorealistic_professional_2K_20260914160041.jpeg",
+          "sha256": "5a30f43fb33c572afd499e00776427621666ae059631b780785abc3502b3ea55",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2092150
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA CORTA/Modelo_abrochando_camisa_2K_20260914160129.jpeg",
+          "sha256": "dbd34f1379761d3e12a5abed9b7545f60a547333ed8980a5614a807209abb3bf",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2047030
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA CORTA/Model_wearing_garment_back_view_2K_20260914160038.jpeg",
+          "sha256": "2af692f61e978fcb67e635ca0d31d73e5643bf5aae0d9c4875829d50502ce205",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2052578
+        }
+      ],
+      "productoPropuesto": "CAMISA OXFORD MANGA CORTA",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA LARGA",
+      "nombre": "CAMISA OXFORD MANGA LARGA",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA LARGA/Camisa_gris_topo_clara_2K_20260914155809.jpeg",
+          "sha256": "4a2e6e63c3602e9b092bb509f76a044e12b16c0f2ff4b496974eeaffdbede92c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2258657
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA LARGA/Shirt_color_light_mole_grey_2K_20260914155812.jpeg",
+          "sha256": "7a336c141b082bf8d3d3932671ed41373155652e4a1e5d6505ddd1b546f6dcb6",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2234361
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISA OXFORD MANGA LARGA/Sportswear_product_detail_photog…_2K_20260914155817.jpeg",
+          "sha256": "bfc754591eadac5a440f0147b7a2e45d89f07d6973d0870d0eb9acf8c4bb57b7",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2781699
+        }
+      ],
+      "productoPropuesto": "CAMISA OXFORD MANGA LARGA",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA BASQUET BASIC",
+      "nombre": "CAMISETA BASQUET BASIC",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET BASIC/Create_a_highly_photorealistic_professional_2K_20260911154234.jpeg",
+          "sha256": "d5d72bff6232bfa160af39d7918d9fe2bcc0ec5cc8542fe8935ec203264c1f83",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2354530
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET BASIC/Garment_product_presentation_gen…_2K_20260911154243.jpeg",
+          "sha256": "de4415f3b31f3836ba17cde78c96a2543f7b9efc440b2c16c12194b59d89da64",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2227504
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET BASIC/Model_wearing_garment_back_view_2K_20260911154240.jpeg",
+          "sha256": "f61ada1bff970382f4b3d417bd0aa1cb55b5f3768c60793c136f582cb8dfffa2",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2226533
+        }
+      ],
+      "productoPropuesto": "CAMISETA BASQUET BASIC",
+      "categoriaPosible": null,
+      "tipo": "Incompatibles con categorías actuales",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA BASQUET PHOENIX",
+      "nombre": "CAMISETA BASQUET PHOENIX",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET PHOENIX/Cambiar_color_remera_a_gris_2K_20260914154711.jpeg",
+          "sha256": "318c1c7d5e7f84b8c6ef4709032957a973afb638b08021dbe82e178bf6ea2143",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2235980
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET PHOENIX/Color_de_remera_gris_topo_2K_20260914154712.jpeg",
+          "sha256": "e5d7dad62f9e5c5b0c48df2acb604caecbe34e15a62a69ef7cfa5c60e65b1cd9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2363063
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET PHOENIX/Garment_product_presentation_gen…_2K_20260914154706.jpeg",
+          "sha256": "a9945aeeca76fec2770a36e9c8a03b5dd31d75e2b0247d9191a73df9fb9e5ff0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2185763
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA BASQUET PHOENIX/Remera_color_gris_topo_2K_20260914154710.jpeg",
+          "sha256": "22d17d222e8e66bb7be1506f9392ab2c43cc52894f16a71fbd4eb718af68f8b3",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2334719
+        }
+      ],
+      "productoPropuesto": "CAMISETA BASQUET PHOENIX",
+      "categoriaPosible": null,
+      "tipo": "Incompatibles con categorías actuales",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA DE HOCKEY DAMA COOL",
+      "nombre": "CAMISETA DE HOCKEY DAMA COOL",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA DE HOCKEY DAMA COOL/Sportswear_catalog_e-commerce_ph…_2K_20260911153623.jpeg",
+          "sha256": "e11914cc991880fd834abdaf6c88d4dad65a277346acfb5392548da55e778a2d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2002566
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA DE HOCKEY DAMA COOL/Sportswear_e-commerce_studio_pho…_2K_20260911153612.jpeg",
+          "sha256": "b5a9bc7ff41a06a6e84e70ef9424582c75b4605985acde2b8e2439dc490f23f4",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2004267
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA DE HOCKEY DAMA COOL/Woman_wearing_sportswear_in_studio_2K_20260911153608.jpeg",
+          "sha256": "6e223a1028678062d18c035d071bdd775391ac5ec6fab0f9b9f0facca47b4a87",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1972209
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA DE HOCKEY DAMA COOL/Woman_wearing_sportswear_in_studio_2K_20260911153626.jpeg",
+          "sha256": "d85c13290d02370bd7b12c8a0bfe966d050bb74380e8ea2653898867cfac357e",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2007806
+        }
+      ],
+      "productoPropuesto": "CAMISETA DE HOCKEY DAMA COOL",
+      "categoriaPosible": null,
+      "tipo": "Variantes o fotografías inconsistentes",
+      "motivo": "El primer dorso es azul/blanco y no coincide con los frentes rosa/azul.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA FUTBOL BOX",
+      "nombre": "CAMISETA FUTBOL BOX",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA FUTBOL BOX/Create_a_highly_photorealistic_professional_2K_20260911165100.jpeg",
+          "sha256": "ba9287c72eb2dda4f3f0a2dd69f6bde5ebf4db7628a30171cd87bf74f9386879",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2068859
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA FUTBOL BOX/Eliminar_etiqueta_de_la_remera_2K_20260911165118.jpeg",
+          "sha256": "d3571f1d21aff1b5a8b48ddba632c1d38dbe758c78e8b3f38180f200b197a2b0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1992101
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA FUTBOL BOX/Male_model_wearing_garment_back_2K_20260911165121.jpeg",
+          "sha256": "910557a17ee97d0c743fdeedd9dc74802ab45d7ec06f54c89b381599ae6e2295",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2019260
+        }
+      ],
+      "productoPropuesto": "CAMISETA FUTBOL BOX",
+      "categoriaPosible": null,
+      "tipo": "Variantes o fotografías inconsistentes",
+      "motivo": "Frente estampado negro/naranja junto con camiseta blanca lisa.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMISETA RUGBY BODY",
+      "nombre": "CAMISETA RUGBY BODY",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA RUGBY BODY/Create_a_highly_photorealistic_professional_2K_20260911152842.jpeg",
+          "sha256": "a5443edbc025d314ed05fab740a786abb1d3dbf5376319a26d74dfa36d64dcd7",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2253554
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA RUGBY BODY/Generate_professional_product_photo_2K_20260911152447.jpeg",
+          "sha256": "96cd83cd4e23cd6c978430986207cbdd87fab0d1e41fec8e552ad253a9581ff5",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2765136
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA RUGBY BODY/Rugby_jersey_e-commerce_photo_2K_20260911152432.jpeg",
+          "sha256": "e9b4ea7524993fffdc63f89be72537ab3b29de5b76b22aa04c904f2cde19fbd7",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2225016
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMISETA RUGBY BODY/Rugby_jersey_studio_photograph_2K_20260911152446.jpeg",
+          "sha256": "ace381e75be413828d1f4025fe5a31e8d84fa778ed22bff38d7fd672ed1804d3",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2161510
+        }
+      ],
+      "productoPropuesto": "Camiseta Rugby Body",
+      "categoriaPosible": "rugby",
+      "tipo": "Variantes o fotografías inconsistentes",
+      "motivo": "Principal verde; las otras tres fotos son de una camiseta bordó.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente.",
+      "existente": "camiseta-rugby-body"
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE RAGLAN AIR",
+      "nombre": "CAMPERA CANGURO C_CORTE RAGLAN AIR",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE RAGLAN AIR/Create_a_highly_photorealistic_professional_2K_20260914153856.jpeg",
+          "sha256": "c71941367b4e0dc2fb2104aaa12d41c9985de09275f3d403fbe24b4d292c483a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2355516
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE RAGLAN AIR/Create_a_highly_photorealistic_professional_2K_20260914153936.jpeg",
+          "sha256": "e30b6e0c08ef85e54d9c04c58faf0221a67fb5993d6c3d53057e09e77610c3f4",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2174279
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE RAGLAN AIR/Man_modeling_garment_back_view_2K_20260914153911.jpeg",
+          "sha256": "2b0b741381efaaa3c0aaf412a6be88ee0b004ad13366447e70614097d3f21a20",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2191378
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE RAGLAN AIR/Man_wearing_garment_backwards_view_2K_20260914153859.jpeg",
+          "sha256": "8afa8de6be2e53074be7a59c0e3938e1ca0c7e54a5cdae49d22ae1b6958d4617",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2473391
+        }
+      ],
+      "productoPropuesto": "CAMPERA CANGURO C_CORTE RAGLAN AIR",
+      "categoriaPosible": null,
+      "tipo": "Variantes o fotografías inconsistentes",
+      "motivo": "Dos combinaciones de colores en la misma carpeta.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE REGLAN",
+      "nombre": "CAMPERA CANGURO C_CORTE REGLAN",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE REGLAN/Create_a_highly_photorealistic_professional_2K_20260911174603.jpeg",
+          "sha256": "93f40717d6310eb7d9dec5b74198710cc1f336ba694c83038b4c9e885cc915c9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2019001
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE REGLAN/Create_a_highly_photorealistic_professional_2K_20260911174610.jpeg",
+          "sha256": "990b9ab8ed557204814d27081141cf9ca302c92a1748353e78d0a271a6522867",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2154271
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA CANGURO C_CORTE REGLAN/Man_modeling_garment_back_view_2K_20260911174608.jpeg",
+          "sha256": "3b6af99fa0373dd1e119e079fafd8d8fcadfb597ef70cb966f33e71ff7cba621",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2043293
+        }
+      ],
+      "productoPropuesto": "CAMPERA CANGURO C_CORTE REGLAN",
+      "categoriaPosible": null,
+      "tipo": "Variantes o fotografías inconsistentes",
+      "motivo": "Mezcla campera negra con otra azul/negra.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMPERA C_CAPUCHA SOFTSHELL HOMBRE",
+      "nombre": "CAMPERA C_CAPUCHA SOFTSHELL HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA C_CAPUCHA SOFTSHELL HOMBRE/E-commerce_studio_photograph_of_…_2K_20260911174142.jpeg",
+          "sha256": "a75f73d1cd1d44b4448ac71e99d14e2d9ceb0d5bc13d35281160872fc385cb65",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2276577
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA C_CAPUCHA SOFTSHELL HOMBRE/Model_wearing_garment_back_view_2K_20260911174143.jpeg",
+          "sha256": "bac53536a681dcc379c3f83a77272df473bfa0a5d5c7b600e7c1fd9240eef2eb",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2164726
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA C_CAPUCHA SOFTSHELL HOMBRE/Product_photo_macro_shot_2K_20260911174146.jpeg",
+          "sha256": "13536fc6c5d2f6ee053a65fdf09983554906a6a4763428e7b3aa1e21619defbe",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2778064
+        }
+      ],
+      "productoPropuesto": "CAMPERA C_CAPUCHA SOFTSHELL HOMBRE",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CAMPERA SOFSHELL",
+      "nombre": "CAMPERA SOFSHELL",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA SOFSHELL/Create_a_highly_photorealistic_professional_2K_20260911161432.jpeg",
+          "sha256": "c8e0f60baaa54b159cfb79deb1094219d10394fd32fad7a1ae19cc37549f0b6c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1970744
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA SOFSHELL/Create_a_highly_photorealistic_professional_2K_20260911161440.jpeg",
+          "sha256": "1c0d0b2cb35d3a7e10ad52132c5cff7284e1d6317e1967ef9e2d1c962e0677ef",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2052233
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA SOFSHELL/Model_wearing_softshell_garment_2K_20260911161435.jpeg",
+          "sha256": "c283a5ea18af2878f5ef59d4498acb44aeb331e6ad00ce81287609e3d4655a78",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1950456
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA SOFSHELL/Product_photo_clean_minimalist_b…_202607142122.jpeg",
+          "sha256": "bce593162019b54656e72c38263f9b4fa1d146da2803e4907316639479c93656",
+          "ancho": 2048,
+          "alto": 2048,
+          "bytes": 1931282
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CAMPERA SOFSHELL/Same_image_1_1_aspect_ratio_202607142013.jpeg",
+          "sha256": "c3da124f9f23ff3819c322b5220768c201748e312090fd6f21de2697a702adcf",
+          "ancho": 2048,
+          "alto": 2048,
+          "bytes": 1866234
+        }
+      ],
+      "productoPropuesto": "CAMPERA SOFSHELL",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHOMBA BASICA DRY-FIT",
+      "nombre": "CHOMBA BASICA DRY-FIT",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA BASICA DRY-FIT/Create_a_highly_photorealistic_professional_2K_20260914165028.jpeg",
+          "sha256": "607cbdb04da9467d374fbb723f2a07224ddb31387e1cdfec07a40d0e21ab0a08",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2056325
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA BASICA DRY-FIT/Create_garment_product_presentation_2K_20260914165027.jpeg",
+          "sha256": "3fd515bc02268dfe9a030dfe262875a5d2c979e448ca2bb411eb51f461968c8c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1825947
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA BASICA DRY-FIT/Model_wearing_garment_from_behind_2K_20260914165020.jpeg",
+          "sha256": "91db5a36f121d8103dc31be25e11d8c2df02cd5bddcbbb3586ba222bac5baaa1",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2071486
+        }
+      ],
+      "productoPropuesto": "CHOMBA BASICA DRY-FIT",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHOMBA BASICA JERSEY",
+      "nombre": "CHOMBA BASICA JERSEY",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA BASICA JERSEY/Create_a_highly_photorealistic_professional_2K_20260914165121.jpeg",
+          "sha256": "60b02e0f310587885091a88d4f12e9e9c149e88ebd87e383633e331628019fda",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2159756
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA BASICA JERSEY/Modelo_abrochando_camisa_mirando…_2K_20260914165131.jpeg",
+          "sha256": "ce1d6e2a014207ceb5cb4fb9a975d137c6a4fd8250f5ff368f02d9fdf506bcb0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2208461
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA BASICA JERSEY/Model_wearing_garment_back_view_2K_20260914165125.jpeg",
+          "sha256": "c75961d2a5fc81104aaf532f97635566a90648a550102fd41260a117a4a65f2d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2231652
+        }
+      ],
+      "productoPropuesto": "CHOMBA BASICA JERSEY",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHOMBA C_CORTE CUT",
+      "nombre": "CHOMBA C_CORTE CUT",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE CUT/Create_a_highly_photorealistic_professional_2K_20260914164307.jpeg",
+          "sha256": "f8321e9f0415e5c04fd1dc103fdc752f2186ffe4d25f9df9035421090c4bf522",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2084626
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE CUT/Model_wearing_garment_back_view_2K_20260914164407.jpeg",
+          "sha256": "74e6fb7e55a2c9abef51cf8f22797ec0bc2647ed4262a2904db16e77b28977a0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2149403
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE CUT/Sportswear_product_detail_photog…_2K_20260914164316.jpeg",
+          "sha256": "659d887f3e98942016f8a368f953a0007a69e06b26b6e21570c6a7c86ea167d0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2392985
+        }
+      ],
+      "productoPropuesto": "CHOMBA C_CORTE CUT",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PARTEX",
+      "nombre": "CHOMBA C_CORTE PARTEX",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PARTEX/Create_a_highly_photorealistic_professional_2K_20260914164853.jpeg",
+          "sha256": "29cb143ecc171863a636e83179d6ccc49342e1de7bc1b07755e6919fb4761dca",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2236913
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PARTEX/Male_model_wearing_garment_back_2K_20260914164856.jpeg",
+          "sha256": "34986e6a156afa8fcc21e4e14e1088f58d2f93d889a2846247737f6c960a7d9b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1986211
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PARTEX/Sportswear_product_detail_photog…_2K_20260914164901.jpeg",
+          "sha256": "ca2c27aca0b99ec2ed5e1c78586ae1d3f3cd686d0aa6e5b02e83e1332784c90f",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2875381
+        }
+      ],
+      "productoPropuesto": "CHOMBA C_CORTE PARTEX",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PUMA",
+      "nombre": "CHOMBA C_CORTE PUMA",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PUMA/Create_a_highly_photorealistic_professional_2K_20260914164603.jpeg",
+          "sha256": "07d607c079261830f9050c3b03bde2c8d84c2be75a0ad631348f46c413087729",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2124937
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PUMA/Model_wearing_garment_from_behind_2K_20260914164511.jpeg",
+          "sha256": "0fb0749095d00b0da537a96fb68717864d96991c0ac64a240ad783bec1465349",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2152046
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE PUMA/Sportswear_product_macro_photograph_2K_20260914164545.jpeg",
+          "sha256": "49791b80d9fb4e0bd8e1515fe57765339b85bc34416d72468ef90bd2be95bd40",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 3099680
+        }
+      ],
+      "productoPropuesto": "CHOMBA C_CORTE PUMA",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHOMBA C_CORTE RAGLAN",
+      "nombre": "CHOMBA C_CORTE RAGLAN",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE RAGLAN/Modelo_con_camisa_desprendida_2K_20260914164150.jpeg",
+          "sha256": "472fc7be6b4da4a933289298f516c6507ece82d712f00b9d264f362e97f26a7a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1925240
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE RAGLAN/Model_wearing_garment_back_view_2K_20260914164157.jpeg",
+          "sha256": "6bea67017bb6f82937f9084e172cf0dbeb0b83880a4c8fddd626e20ef0c01359",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2133844
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHOMBA C_CORTE RAGLAN/Sportswear_product_detail_photog…_2K_20260914164205.jpeg",
+          "sha256": "cae85dcb688bd7e489a602978eeff602af50015e3b4f317e9e1b920971aae8a1",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2806840
+        }
+      ],
+      "productoPropuesto": "CHOMBA C_CORTE RAGLAN",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHUPIN BLACK",
+      "nombre": "CHUPIN BLACK",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN BLACK/Man_wearing_athletic_jogger_pants_20260911162926.jpeg",
+          "sha256": "d5ac56ef8878c300e4e965dc4ee20e4b3812aad010e9ee398faa60063d9c90d8",
+          "ancho": 896,
+          "alto": 1200,
+          "bytes": 393978
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN BLACK/Modelo_en_ángulo_3_4_2K_20260911162353.jpeg",
+          "sha256": "8bf0e50181fa6aa2db7acdf90d7230795edafd4fa848e8bbeafddce319bd6620",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1743889
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN BLACK/Model_wearing_athletic_jogger_pants_2K_20260911162351.jpeg",
+          "sha256": "16217658b879cf200eadf122ba6431271ef8b311a6ab7fadf2d6c84d0edfd9bd",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1935000
+        }
+      ],
+      "productoPropuesto": "CHUPIN BLACK",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHUPIN FITNESS",
+      "nombre": "CHUPIN FITNESS",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN FITNESS/Generar_imagen_de_pantalón_2K_20260911163149.jpeg",
+          "sha256": "b5a24cddb6f8836dbdaae89679d64222f52957d3f8a4af8fdbdaa4cb64d13c57",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2423873
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN FITNESS/Man_wearing_athletic_jogger_pants_2K_20260911163150.jpeg",
+          "sha256": "5b66255a14b534f00bbc29e47124660ef3b284d1a2751d623a190a882d0aec2a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1773398
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN FITNESS/Model_wearing_athletic_jogger_pants_2K_20260911163148.jpeg",
+          "sha256": "f4b1da5105578691e6db1b21e74b64ca11aa86f71c76f78e852a124545b7a204",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1741047
+        }
+      ],
+      "productoPropuesto": "CHUPIN FITNESS",
+      "categoriaPosible": null,
+      "tipo": "Incompatibles con categorías actuales",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHUPIN GIANLU MUJER",
+      "nombre": "CHUPIN GIANLU MUJER",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN GIANLU MUJER/Pantalón_de_tela_microfibra_2K_20260914160243.jpeg",
+          "sha256": "35956bc1facbfe52fcb17ab551597a48ea45d3fd0337fba156cb345c8193f5c1",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1798375
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN GIANLU MUJER/Pantalón_de_tela_microfibra_2K_20260914160249.jpeg",
+          "sha256": "786a328efadf0e443bd7f07943c49a20d898cc5c99d469e1f44292826b95201b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1680836
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN GIANLU MUJER/Pantalón_de_tela_microfibra_2K_20260914160258.jpeg",
+          "sha256": "bc0f77c7a471cede86148a29da2ac766167f1c3ab8b691b8b31fc80433a00a9d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1707403
+        }
+      ],
+      "productoPropuesto": "CHUPIN GIANLU MUJER",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/CHUPIN NEW LINE HOMBRE",
+      "nombre": "CHUPIN NEW LINE HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN NEW LINE HOMBRE/E-commerce_photo_of_jogger_pants_20260911173532.jpeg",
+          "sha256": "50064fe1a00f19d3444a08c49623490317a024629f1ee54919834ccd73aaf1b3",
+          "ancho": 896,
+          "alto": 1200,
+          "bytes": 425291
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN NEW LINE HOMBRE/E-commerce_studio_photograph_of_…_2K_20260911173504.jpeg",
+          "sha256": "43ac94c8c754092507c0aa5a85e3098366c1e076526ea75c380da582488c1418",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1909936
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/CHUPIN NEW LINE HOMBRE/Man_wearing_athletic_jogger_pants_2K_20260911173042.jpeg",
+          "sha256": "ef623037b1d3015ed6640fda559ad64519929e7e6f3e1f273e323da5cf108327",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1755018
+        }
+      ],
+      "productoPropuesto": "CHUPIN NEW LINE HOMBRE",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/JOGGING BASIC",
+      "nombre": "JOGGING BASIC",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/JOGGING BASIC/Generate_three_quarter_model_view_2K_20260911171608.jpeg",
+          "sha256": "6ee1f41e70cdd6c367873a50ed98fc63537f5986852c819e240e39847a314aac",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1905431
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/JOGGING BASIC/Man_modeling_jogger_pants_2K_20260911171601.jpeg",
+          "sha256": "9b9985d90fd88cc6568a7990e8701db446f75366b2b93766a2dcedd999338e14",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2072840
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/JOGGING BASIC/Model_wearing_jogger_pants_2K_20260911171605.jpeg",
+          "sha256": "5c795ecb237ee31ef23a04c2d2396156620c80c872e62180fda405837bade452",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2014862
+        }
+      ],
+      "productoPropuesto": "JOGGING BASIC",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/JOGGUER ESSENTIAL",
+      "nombre": "JOGGUER ESSENTIAL",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/JOGGUER ESSENTIAL/E-commerce_photo_of_jogger_pants_2K_20260911163812.jpeg",
+          "sha256": "0107894e38a9c16674906b27af7891b83144896b9f0f227f66a52241ba2b143d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1985563
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/JOGGUER ESSENTIAL/generar_una_vista_3_4_2K_20260911163806.jpeg",
+          "sha256": "df44b3675ca2e94efa7ef51eb0174e19252efe957cf8e74490258b638625da87",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1797218
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/JOGGUER ESSENTIAL/Model_wearing_athletic_jogger_pants_20260911163836.jpeg",
+          "sha256": "b8436ab47b887f98bff93fd4dfed889b8499ff18eae94eb634bb73198706704d",
+          "ancho": 896,
+          "alto": 1200,
+          "bytes": 401126
+        }
+      ],
+      "productoPropuesto": "JOGGUER ESSENTIAL",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/MOCHILA TRIAL",
+      "nombre": "MOCHILA TRIAL",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/MOCHILA TRIAL/Generar_foto_vista_frontal_2K_20260914162409.jpeg",
+          "sha256": "a371fe352421cb42f52ca8cfa0672dbcc53ee0ecdece8b733514b9d2d514f07c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2305624
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MOCHILA TRIAL/Generate_professional_product_photo_2K_20260914162405.jpeg",
+          "sha256": "c49fbb571ea22646bfd3d74a371724960e62821c62dc5ee7a23ca92f8a327a1f",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2334485
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MOCHILA TRIAL/Product_on_the_ground_2K_20260914162443.jpeg",
+          "sha256": "c77afb55a80dedaff5c18998586390dabfa79f965ec8d2a764a70571f94627c5",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2508954
+        }
+      ],
+      "productoPropuesto": "MOCHILA TRIAL",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/MUSCULOSA JERSEY HOMBRE",
+      "nombre": "MUSCULOSA JERSEY HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA JERSEY HOMBRE/Create_a_highly_photorealistic_professional_2K_20260914154531.jpeg",
+          "sha256": "d008e911d13b94f713a8cf78664817eb0447e11490b14e1730fdbba3f945da30",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2139274
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA JERSEY HOMBRE/Man_modeling_garment_back_view_2K_20260914154534.jpeg",
+          "sha256": "6f631108433898c96c6ef2cc7c6e5298e43836e5da1d09d8be565bc4d1b935f3",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2187624
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA JERSEY HOMBRE/Sportswear_product_detail_photog…_2K_20260914154537.jpeg",
+          "sha256": "4542548d985c37f7acf1c9d0ad2c38af197e1c743147d390cdd3cd98fe1b0f5a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2513531
+        }
+      ],
+      "productoPropuesto": "MUSCULOSA JERSEY HOMBRE",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA HOMBRE",
+      "nombre": "MUSCULOSA SUBLIMADA HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA HOMBRE/Create_a_highly_photorealistic_professional_2K_20260911155252.jpeg",
+          "sha256": "1212b0be16a80bbae0d2792a30aa5118df6a5d117225b15d6d9ec8f702cf2f3d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2261753
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA HOMBRE/Generate_professional_product_photo_2K_20260911155259.jpeg",
+          "sha256": "f550d70167ceb89b371c2521726af1c455f7ebd877997bbd14f5aa8b308718ad",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2572976
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA HOMBRE/Model_wearing_garment_back_view_2K_20260911155256.jpeg",
+          "sha256": "59a2dfd8189cc74c5792de47db77013338512b10f77e9314c90a6d90b19779c5",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2331333
+        }
+      ],
+      "productoPropuesto": "MUSCULOSA SUBLIMADA HOMBRE",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA MUJER",
+      "nombre": "MUSCULOSA SUBLIMADA MUJER",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA MUJER/E-commerce_sportswear_catalog_ph…_2K_20260911155554.jpeg",
+          "sha256": "0fafec16233c4d6cbc1aaa89787f89062cbcaa851c81068c128c123e21fb9c3a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1940026
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA MUJER/Sportswear_e_commerce_photo_prompt_2K_20260911155628.jpeg",
+          "sha256": "133f9d3136df282e2d5fcf42216d7f9162a8c194c714d38392db9e31262fc953",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2065573
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA MUJER/Sportswear_product_photography_b…_2K_20260911155601.jpeg",
+          "sha256": "bd6fa108ac1bb72e49bd6e016c1ea01fb6dfcd7a903f99249d8f1b92174fe2a9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1973052
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/MUSCULOSA SUBLIMADA MUJER/Woman_wearing_sportswear_in_studio_2K_20260911155607.jpeg",
+          "sha256": "a923c086aae4a95b45e46de59245efb45c365a127c5b902e811192123b200439",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1914854
+        }
+      ],
+      "productoPropuesto": "MUSCULOSA SUBLIMADA MUJER",
+      "categoriaPosible": null,
+      "tipo": "Variantes o fotografías inconsistentes",
+      "motivo": "Musculosas con dibujos diferentes en la misma carpeta.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/PANTALON CARGO GABARDINA",
+      "nombre": "PANTALON CARGO GABARDINA",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTALON CARGO GABARDINA/Combine_faces_of_two_models_2K_20260911164413.jpeg",
+          "sha256": "d720a4d4e418e391027d680f887a3cdea89d825e4c4ff5a9f37ca5f62c42bd21",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1755541
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTALON CARGO GABARDINA/generar_una_vista_3_4_2K_20260911164433.jpeg",
+          "sha256": "3474c6dab209daa9b2927305a9019a163bc19a32276dda5cd2b109f04b8f2c17",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1668717
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTALON CARGO GABARDINA/Model_wearing_athletic_jogger_pants_2K_20260911164021.jpeg",
+          "sha256": "39d6c61fb1bbf98dfee5afe4e56a0e62cc0c8a9c8796c6a99b22d55126442dcd",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1947617
+        }
+      ],
+      "productoPropuesto": "PANTALON CARGO GABARDINA",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/PANTALON CLASICC GABARDINA",
+      "nombre": "PANTALON CLASICC GABARDINA",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTALON CLASICC GABARDINA/Model_wearing_athletic_jogger_pants_2K_20260914161208.jpeg",
+          "sha256": "731e964261cf7fc01cc57483aa22eca48d5b826505024a6d33b79695262d6e67",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1745106
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTALON CLASICC GABARDINA/Model_wearing_athletic_jogger_pants_2K_20260914161212.jpeg",
+          "sha256": "d11e65c63476292bcea54a3a26f93542fcb9c320f398659cc95a6bc374aad56e",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1650528
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTALON CLASICC GABARDINA/Sportswear_product_detail_photog…_2K_20260914161214.jpeg",
+          "sha256": "ab0e08eba179b0a78f0e648e48cd5ebc733281973799214cfc645a743e9ad1dd",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2991026
+        }
+      ],
+      "productoPropuesto": "PANTALON CLASICC GABARDINA",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/PANTALON COZY MUJER",
+      "nombre": "PANTALON COZY MUJER",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTALON COZY MUJER/Generar_imagen_con_vista_3_4_2K_20260911163314.jpeg",
+          "sha256": "212bb0c754ceb20549fa531a051688145f2a4248d154f8d4f6575ee63b6488af",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1965255
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTALON COZY MUJER/Modelo_caminando_con_mano_bolsillo_2K_20260911163306.jpeg",
+          "sha256": "445185f01246014046e06e32133c570f9206ee4c7cf8c13cef7f2529631f75c2",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1899363
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTALON COZY MUJER/Woman_wearing_athletic_pants_2K_20260911163310.jpeg",
+          "sha256": "0d3ae5ef8b543aeb274ab7e97492daddcb3f5d929b73bb8ce3cae76516f143d4",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2011041
+        }
+      ],
+      "productoPropuesto": "PANTALON COZY MUJER",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/PANTORRILLERAS",
+      "nombre": "PANTORRILLERAS",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTORRILLERAS/Combinar_pantorrilleras_de_modelo_2K_20260914163856.jpeg",
+          "sha256": "464f454ad82f459bfbde4495171a4825f3325d631be19f9aba06df533f30fc14",
+          "ancho": 1536,
+          "alto": 2752,
+          "bytes": 2136900
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTORRILLERAS/Generate_professional_product_photo_2K_20260914163900.jpeg",
+          "sha256": "9e51e9d29c4bc6b57d3562fc7c392d258e65fb235d814e079ef67aef667c2a33",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2543364
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/PANTORRILLERAS/Recreate_image_with_calf_stockings_2K_20260914164906.jpeg",
+          "sha256": "4ba6c676345b326d05180335d21d24e886bfec47cb864862f8a39b190365ad5d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2519573
+        }
+      ],
+      "productoPropuesto": "PANTORRILLERAS",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE",
+      "nombre": "POLLERA CON CALZA WAVE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE/generar_una_vista_3_4_2K_20260911170910.jpeg",
+          "sha256": "a54c1510fbca553709e23e0dda5e8ea4f0e403f6b1ffcbe79cd52e3a94970db9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2121842
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE/generar_una_vista_3_4_2K_20260911170919.jpeg",
+          "sha256": "f7ed0f8744935d6a6a641dd95d418e495139cc097038d4a1d921a891bee8027b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2112924
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE/Modelo_levantando_pollera_mostra…_2K_20260911170922.jpeg",
+          "sha256": "4d49582e6f49c803ca378ef206651ed63d8efcd2676d3b43c6e5ba9c8a0c8769",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2039743
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE/Modelo_levantando_pollera_y_most…_2K_20260911170912.jpeg",
+          "sha256": "f76851dcfb6838403b2232b393ab2a12a88c2899ed8f966188e595be72a76faf",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2219455
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE/Swap_character_in_reference_images_2K_20260911170912.jpeg",
+          "sha256": "857539112784361f3b2bad8bd4e92eb281a1753e60c6abd5a283a7f0818aabda",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2450111
+        }
+      ],
+      "productoPropuesto": "Pollera Hockey con Calza",
+      "categoriaPosible": "hockey-femenino",
+      "tipo": "Variantes o fotografías inconsistentes",
+      "motivo": "Fotos 1/2 negras y 0/3/4 rojas: solo se incorporan las rojas a la ficha existente.",
+      "decision": "Confirmar la identidad de las dos tomas negras; excluidas de la galería roja.",
+      "existente": "pollera-hockey-con-calza"
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA BASIC",
+      "nombre": "REMERA BASIC",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA BASIC/Create_a_highly_photorealistic_professional_2K_20260911154417.jpeg",
+          "sha256": "bfb7097afd9820dc2ad181fc07c8171f82e6772daa2e45d96f25cc3ec38e49fe",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2323266
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA BASIC/Create_a_highly_photorealistic_professional_2K_20260911154429.jpeg",
+          "sha256": "c6b4f5eec60073c584aee0a206d6cd36242e1f06f4885e1ffed3b9162fa937f4",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2438230
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA BASIC/Modelo_mostrando_dorso_de_remera_2K_20260911154430.jpeg",
+          "sha256": "09bb8e69a700d5f9ebe99ddb238106a133152ddbed7014430c3574ff3c92915b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2388642
+        }
+      ],
+      "productoPropuesto": "REMERA BASIC",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA BASIC DRY FIT",
+      "nombre": "REMERA BASIC DRY FIT",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA BASIC DRY FIT/Create_a_highly_photorealistic_professional_2K_20260911154551.jpeg",
+          "sha256": "1df7d9f411bbe4e67ea9a2c508a318e1d25bc27a336a60bff83c7d8bed2eec3a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2036686
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA BASIC DRY FIT/Create_a_highly_photorealistic_professional_2K_20260911154555.jpeg",
+          "sha256": "74c3fca8ec6f89ede45c2980d12a246ddcc3e08d10ccf118397073196b2c37ba",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2087175
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA BASIC DRY FIT/Garment_product_presentation_gen…_2K_20260911154601.jpeg",
+          "sha256": "57ae3bf7c870f3f4671d45d552a075a412f5e8d2bb8af190d3fd317d6f325ca8",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1769493
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA BASIC DRY FIT/Model_wearing_garment_back_view_2K_20260911154558.jpeg",
+          "sha256": "3d8bb1f9fe648288d70813d130cb80f27db4bc94d37455c8182e444953771aef",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2107609
+        }
+      ],
+      "productoPropuesto": "REMERA BASIC DRY FIT",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA CON CORTE RUNNING HOMBRE",
+      "nombre": "REMERA CON CORTE RUNNING HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA CON CORTE RUNNING HOMBRE/Create_a_highly_photorealistic_professional_2K_20260911161138.jpeg",
+          "sha256": "422f6a4abb6e80f153eb1a5ac88cf47293a33ec54a450e7ab2e2144e648aaa3c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2241150
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA CON CORTE RUNNING HOMBRE/Garment_product_presentation_gen…_2K_20260911161127.jpeg",
+          "sha256": "45454a6444e598fba5b14d5af850a97f226fad6b17a740e61d072da5e1fa3e7a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2092929
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA CON CORTE RUNNING HOMBRE/Man_modeling_garment_back_view_2K_20260911161124.jpeg",
+          "sha256": "bb404ebc9f9b42c3d28f219187e985bbc22c847196a5a6bc969be2a0c7077d36",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2167713
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA CON CORTE RUNNING HOMBRE/Model_wearing_garment_in_studio_2K_20260911161120.jpeg",
+          "sha256": "943a6ed7a0dafb168818d4d34df0c1f2113d297c11d4a66c85ee4dac6c39c348",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2171902
+        }
+      ],
+      "productoPropuesto": "REMERA CON CORTE RUNNING HOMBRE",
+      "categoriaPosible": null,
+      "tipo": "Duplicados",
+      "motivo": "Carpeta duplicada y combinación de estampados distintos.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA C_CORTE DRY-FIT",
+      "nombre": "REMERA C_CORTE DRY-FIT",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE DRY-FIT/Create_a_highly_photorealistic_professional_2K_20260911170427.jpeg",
+          "sha256": "060151246b3eb8f15bfb13b4972b2cdd5da5b0e85cf81a77ee2b72b62482f4ae",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2286784
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE DRY-FIT/Create_a_highly_photorealistic_professional_2K_20260911170457.jpeg",
+          "sha256": "19b38d1147ce449515ace22975377b598f18105023b47d629a44322d4971d0ac",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2377907
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE DRY-FIT/Garment_product_presentation_gen…_2K_20260911170433.jpeg",
+          "sha256": "9035b35b3c2f4cb51f386ae3aba7b531a8f3fff3b15f333295c4cf870d773193",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2088464
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE DRY-FIT/Model_wearing_garment_back_view_2K_20260911170430.jpeg",
+          "sha256": "92a5ebc32cfc812c39e2a3c943d97350b55d76ab0ecc24c90623b8eb975ab80b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2381723
+        }
+      ],
+      "productoPropuesto": "REMERA C_CORTE DRY-FIT",
+      "categoriaPosible": null,
+      "tipo": "Duplicados",
+      "motivo": "Carpeta duplicada y combinación de estampados distintos.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA C_CORTE RAGLAN DRY-FIT",
+      "nombre": "REMERA C_CORTE RAGLAN DRY-FIT",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE RAGLAN DRY-FIT/elimina_la_palabra__MUESTRA__arriba_2K_20260914155656.jpeg",
+          "sha256": "8831dbbae6d417ca662757428e674a02ca8e31c5ad0bd97ffc1ced6f9aa4cb6b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1816025
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE RAGLAN DRY-FIT/Model_wearing_garment_back_view_2K_20260914155425.jpeg",
+          "sha256": "e5c99a054a11a41bc01af4f236ebb479595d1b2af8735e7ebc0227bf1845a23b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2042800
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE RAGLAN DRY-FIT/Sportswear_product_detail_photog…_2K_20260914155659.jpeg",
+          "sha256": "eb37c10669860719a89118b4fead9854c8567d295152ae8b29550597a9dd07fc",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 3098433
+        }
+      ],
+      "productoPropuesto": "REMERA C_CORTE RAGLAN DRY-FIT",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA C_CORTE RUNNING DRY-FIT HOMBRE",
+      "nombre": "REMERA C_CORTE RUNNING DRY-FIT HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE RUNNING DRY-FIT HOMBRE/Create_a_highly_photorealistic_professional_2K_20260914155233.jpeg",
+          "sha256": "060151246b3eb8f15bfb13b4972b2cdd5da5b0e85cf81a77ee2b72b62482f4ae",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2286784
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE RUNNING DRY-FIT HOMBRE/Create_a_highly_photorealistic_professional_2K_20260914155256.jpeg",
+          "sha256": "19b38d1147ce449515ace22975377b598f18105023b47d629a44322d4971d0ac",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2377907
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE RUNNING DRY-FIT HOMBRE/Garment_product_presentation_gen…_2K_20260914155238.jpeg",
+          "sha256": "9035b35b3c2f4cb51f386ae3aba7b531a8f3fff3b15f333295c4cf870d773193",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2088464
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTE RUNNING DRY-FIT HOMBRE/Model_wearing_garment_back_view_2K_20260914155236.jpeg",
+          "sha256": "92a5ebc32cfc812c39e2a3c943d97350b55d76ab0ecc24c90623b8eb975ab80b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2381723
+        }
+      ],
+      "productoPropuesto": "REMERA C_CORTE RUNNING DRY-FIT HOMBRE",
+      "categoriaPosible": null,
+      "tipo": "Duplicados",
+      "motivo": "Duplica REMERA C_CORTE DRY-FIT y mezcla estampados.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA C_CORTTE JERSEY HOMBRE",
+      "nombre": "REMERA C_CORTTE JERSEY HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTTE JERSEY HOMBRE/Create_a_highly_photorealistic_professional_2K_20260914154124.jpeg",
+          "sha256": "db0c88505ff17a335956afefa40988a26cea4b080f94e56b17c81dfd3ec0ba84",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2325653
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTTE JERSEY HOMBRE/Man_modeling_garment_back_2K_20260914154124.jpeg",
+          "sha256": "a3b73e92c8d303f53c8026f4e0e389d8e48942d7a7e926a1f185261562e221e9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2400506
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA C_CORTTE JERSEY HOMBRE/Product_photo_generation_instruc…_2K_20260914154129.jpeg",
+          "sha256": "50d653aadeb4e25667f6e08418b6403d8981296261a933588f5b1d4379b90ec3",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2623683
+        }
+      ],
+      "productoPropuesto": "REMERA C_CORTTE JERSEY HOMBRE",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA OSLO",
+      "nombre": "REMERA OSLO",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA OSLO/Create_a_highly_photorealistic_professional_2K_20260911155104.jpeg",
+          "sha256": "aed2f5c53b1d4e93202d79405c431bf8925f21df86ce9e42fe01675f266fe080",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2309714
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA OSLO/Garment_product_presentation_gen…_2K_20260911155120.jpeg",
+          "sha256": "5158dd927a1299f70397f687bba13dc0f1e1641b95b540fa483b2c99436c39ef",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2333694
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA OSLO/Model_wearing_garment_back_view_2K_20260911155110.jpeg",
+          "sha256": "26dad78210d8919077d81f43a8f58aaa91eda6aeae74bb66ece2edf63a12b0d0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2329109
+        }
+      ],
+      "productoPropuesto": "REMERA OSLO",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA OVERSIZE",
+      "nombre": "REMERA OVERSIZE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA OVERSIZE/Create_a_highly_photorealistic_professional_2K_20260911155006.jpeg",
+          "sha256": "bbb13810dd671b4321863dd62cd27ca07e806be79b227c8d319914e3e3e53d62",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1955036
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA OVERSIZE/Generate_professional_product_photo_2K_20260911155011.jpeg",
+          "sha256": "74293e72d169e9257616b400046ff77e602ff0fa70506adf595741f4bace7986",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2527703
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA OVERSIZE/Model_wearing_garment_back_view_2K_20260911155000.jpeg",
+          "sha256": "eec8c6aff9196c62e180f7c7e375d8c6b28bf817847e5b7239fe861a33b283b7",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2021474
+        }
+      ],
+      "productoPropuesto": "REMERA OVERSIZE",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMERA SIN MANGA",
+      "nombre": "REMERA SIN MANGA",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA SIN MANGA/Create_a_highly_photorealistic_professional_2K_20260911154830.jpeg",
+          "sha256": "43730fec557bfc3310c1ce86efa9cdd6b623d57bfd3f1608214e57c19eaf042c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2158489
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA SIN MANGA/Garment_product_presentation_gen…_2K_20260911154847.jpeg",
+          "sha256": "ddd0762b88d121fefa270d9166ecbf4fd61ac81e6b712a89e3c2e7d43cc42dce",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2113202
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA SIN MANGA/Generate_professional_product_photo_2K_20260911154848.jpeg",
+          "sha256": "4e7e7d26417dcab9175a900f4ded2b0afdab0eb2933023e7916d25141c9125b0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2910220
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMERA SIN MANGA/Model_wearing_garment_back_view_2K_20260911154842.jpeg",
+          "sha256": "d53a0bd3a685fac0b292cb515e1c71ffc765d5d838dbee4b70d4c9c99e1c1249",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2035530
+        }
+      ],
+      "productoPropuesto": "REMERA SIN MANGA",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/REMRA C_CORTE RUNNING HOMBRE",
+      "nombre": "REMRA C_CORTE RUNNING HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMRA C_CORTE RUNNING HOMBRE/Create_a_highly_photorealistic_professional_2K_20260914155109.jpeg",
+          "sha256": "422f6a4abb6e80f153eb1a5ac88cf47293a33ec54a450e7ab2e2144e648aaa3c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2241150
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMRA C_CORTE RUNNING HOMBRE/Garment_product_presentation_gen…_2K_20260914155133.jpeg",
+          "sha256": "45454a6444e598fba5b14d5af850a97f226fad6b17a740e61d072da5e1fa3e7a",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2092929
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMRA C_CORTE RUNNING HOMBRE/Man_modeling_garment_back_view_2K_20260914155128.jpeg",
+          "sha256": "bb404ebc9f9b42c3d28f219187e985bbc22c847196a5a6bc969be2a0c7077d36",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2167713
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/REMRA C_CORTE RUNNING HOMBRE/Model_wearing_garment_in_studio_2K_20260914155138.jpeg",
+          "sha256": "943a6ed7a0dafb168818d4d34df0c1f2113d297c11d4a66c85ee4dac6c39c348",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2171902
+        }
+      ],
+      "productoPropuesto": "REMRA C_CORTE RUNNING HOMBRE",
+      "categoriaPosible": null,
+      "tipo": "Duplicados",
+      "motivo": "Duplica REMERA CON CORTE RUNNING HOMBRE y mezcla estampados.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/ROMPEVIENTO GLASGOW C_CAPUCHA",
+      "nombre": "ROMPEVIENTO GLASGOW C_CAPUCHA",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/ROMPEVIENTO GLASGOW C_CAPUCHA/Create_a_highly_photorealistic_professional_2K_20260911173959.jpeg",
+          "sha256": "d95fd6deab33453c9e90cb18abb0ba36296270404b707fadcd22d565d42b9270",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2097442
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/ROMPEVIENTO GLASGOW C_CAPUCHA/Modelo_poniéndose_la_capucha_2K_20260911174001.jpeg",
+          "sha256": "c706a6fa6ca61e55070b3337c35c5a5b7fa24d49fb70791402337415f226846c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2101437
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/ROMPEVIENTO GLASGOW C_CAPUCHA/Model_wearing_garment_back_view_2K_20260911174001.jpeg",
+          "sha256": "e3bd19ef0eb5b1af2dc88b4825b612f1047f10a275f38d3b8060631a1f300e3c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2180348
+        }
+      ],
+      "productoPropuesto": "ROMPEVIENTO GLASGOW C_CAPUCHA",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/ROMPEVIENTO RUNNING C_CAPUCHA",
+      "nombre": "ROMPEVIENTO RUNNING C_CAPUCHA",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/ROMPEVIENTO RUNNING C_CAPUCHA/E-commerce_garment_photography_p…_2K_20260911171714.jpeg",
+          "sha256": "ce3a24b83e458a4a35f453363113d1c9dacf015dfa9d61bbdeb7e9998330b9cb",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2222922
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/ROMPEVIENTO RUNNING C_CAPUCHA/E-commerce_photoshoot_of_male_model_2K_20260917095136.jpeg",
+          "sha256": "bcf2a0a8e453db69d0169123fb0e3552d66ee61b069f7e77c8fd01661f1fe600",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2175117
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/ROMPEVIENTO RUNNING C_CAPUCHA/Male_model_wearing_garment_back_2K_20260911171727.jpeg",
+          "sha256": "60012e2e669f3d0da9d9f0de9cada413d795860e058baf1b1722009165205217",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2020758
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/ROMPEVIENTO RUNNING C_CAPUCHA/Model_wearing_garment_back_view_2K_20260911171722.jpeg",
+          "sha256": "c3ab08d200eb4684c67120ab3748613464c9ca6e11387b5ab9d364bbbb07fd68",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2126158
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/ROMPEVIENTO RUNNING C_CAPUCHA/Model_wearing_garment_in_studio_2K_20260911171730.jpeg",
+          "sha256": "033f7a5136c4be7260329e48b15f4dee10a3929e9a2909db0465a74be044ddff",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2214584
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/ROMPEVIENTO RUNNING C_CAPUCHA/Product_photography_studio_lighting_2K_20260911174405.jpeg",
+          "sha256": "f250f3d6652b222dff1c49460d7f21727e2523d6e9dedcf3086cdad9e3639f5f",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2666559
+        }
+      ],
+      "productoPropuesto": "ROMPEVIENTO RUNNING C_CAPUCHA",
+      "categoriaPosible": null,
+      "tipo": "Variantes o fotografías inconsistentes",
+      "motivo": "Rompevientos naranja y verde: falta regla de variantes.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/SHORT BASQUET HOMBRE",
+      "nombre": "SHORT BASQUET HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT BASQUET HOMBRE/Man_wearing_athletic_shorts_2K_20260914154244.jpeg",
+          "sha256": "dfac21692d621f67d79ef44baf5a7606c5e58aa01e16ff4f0799a1d0372f235b",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1880413
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT BASQUET HOMBRE/Man_wearing_athletic_shorts_2K_20260914154252.jpeg",
+          "sha256": "fb91aff2f3b122cbad35e20a1beac5e871ceef4f0ee9e066af0246fd5e0fdc91",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1900535
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT BASQUET HOMBRE/Man_wearing_athletic_shorts_2K_20260914154257.jpeg",
+          "sha256": "db245caa8ed8c49ce1fcacfc74bd41ff593d9f839d2ea4e8c16acfdce14a2ec9",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2029874
+        }
+      ],
+      "productoPropuesto": "SHORT BASQUET HOMBRE",
+      "categoriaPosible": null,
+      "tipo": "Incompatibles con categorías actuales",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/SHORT C_CORTE WAVE",
+      "nombre": "SHORT C_CORTE WAVE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT C_CORTE WAVE/Generar_vista_dorsal_de_modelo_2K_20260914163747.jpeg",
+          "sha256": "2a9933a966f99f4effb5e697b34352186b20b7b3d051842311f76d6282d9fbc8",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2062581
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT C_CORTE WAVE/generá_una_vista_3_4_2K_20260914163742.jpeg",
+          "sha256": "a32dc5deb11f58bcc3efd29698d6d50d6b6eb24faee98ecc491b4a80dcdf5c1e",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2138724
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT C_CORTE WAVE/Swap_character_in_reference_images_2K_20260914163739.jpeg",
+          "sha256": "d2a93cd41fe1c579f15b06772eed1d916e246414338d36971fb2718723c87eb8",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2286098
+        }
+      ],
+      "productoPropuesto": "SHORT C_CORTE WAVE",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/SHORT FITNESS C_CALZA MUJER",
+      "nombre": "SHORT FITNESS C_CALZA MUJER",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FITNESS C_CALZA MUJER/generar_una_vista_3_4_2K_20260914163644.jpeg",
+          "sha256": "7146fa802af17c499bb8895c8ff6581f5e1b3eab7b14fa5f14b94d0377f22ed6",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2150786
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FITNESS C_CALZA MUJER/generar_una_vista_3_4_2K_20260914163647.jpeg",
+          "sha256": "f66c0850564d139e856a0401d44c9d59c9a468dd299455ce9018129d1f660eee",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2223460
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FITNESS C_CALZA MUJER/Modelo_levantando_pollera_y_calza_2K_20260914163640.jpeg",
+          "sha256": "57bc78108dc9d00bca1b26ca0aea56ebe37c53e6590e0dd44092209d1aec5f7c",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2221848
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FITNESS C_CALZA MUJER/Swap_characters_in_reference_images_2K_20260914163637.jpeg",
+          "sha256": "60bd15f97cbd6eec90e76ad0e172d88b90a1fb6fcd7f7f0e099a90c9bb3eb28d",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2177755
+        }
+      ],
+      "productoPropuesto": "SHORT FITNESS C_CALZA MUJER",
+      "categoriaPosible": null,
+      "tipo": "Incompatibles con categorías actuales",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)",
+      "nombre": "SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)/E-commerce_photo_of_athletic_shorts_2K_20260911160722.jpeg",
+          "sha256": "89fe1cbe128287433464b616a2f371f5f67875a0cf54bddd1f2d96a333b16b11",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2058144
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)/Man_modeling_athletic_shorts_2K_20260911160738.jpeg",
+          "sha256": "4a93cccdd94e23d2bf01c3395a078aa6eddd5018ce197250e190cb28c4e963e1",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2164579
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)/Man_wearing_athletic_shorts_2K_20260911160744.jpeg",
+          "sha256": "d9d1ab714c433add460fc8d8fd60611d427ad9802f3d6d3f8e8c200b2dda7a06",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2137802
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)/Man_wearing_athletic_shorts_2K_20260911160757.jpeg",
+          "sha256": "3abb9c6e40cbf632e2238a3ce4287e69d57b375b90af9475adbc5505d337ad08",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2150627
+        }
+      ],
+      "productoPropuesto": "SHORT FITNESS MICROFIBRA ELASTIZADA (HOMBRE)",
+      "categoriaPosible": null,
+      "tipo": "Variantes o fotografías inconsistentes",
+      "motivo": "Short verde/amarillo junto con shorts grises.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente."
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/SHORT RUGBY SHANE",
+      "nombre": "SHORT RUGBY SHANE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT RUGBY SHANE/Aplicar_shorts_de_imagen_dos_2K_20260911160017.jpeg",
+          "sha256": "cc3fdd051d62d08f5654dff8505c685e1f93e95457856eae9768865091fa9f79",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1937047
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/SHORT RUGBY SHANE/Man_wearing_athletic_shorts_2K_20260911160012.jpeg",
+          "sha256": "f4b30e719289b80e420d56ca3d6b8ecd14f123d07e1a348e7fde2065ee057989",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1925318
+        }
+      ],
+      "productoPropuesto": "Short Rugby Shane",
+      "categoriaPosible": "rugby",
+      "tipo": "Variantes o fotografías inconsistentes",
+      "motivo": "Los dos shorts blancos tienen escudos distintos: TRC frente a escudo verde.",
+      "decision": "Confirmar agrupación comercial y qué tomas pertenecen a cada prenda; no mezclar automáticamente.",
+      "existente": "short-rugby-shane"
+    },
+    {
+      "carpeta": "FOTOS FINALES QUINCE/TERMICA HOMBRE",
+      "nombre": "TERMICA HOMBRE",
+      "imagenes": [
+        {
+          "archivo": "FOTOS FINALES QUINCE/TERMICA HOMBRE/Eliminar_logo_de_marca_2K_20260914164101.jpeg",
+          "sha256": "c5c2a626a61bcaccadc53fdf11e607bc0cee316228b445c599e1a9a3c24510d0",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1672642
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/TERMICA HOMBRE/Garment_product_presentation_gen…_2K_20260914164103.jpeg",
+          "sha256": "f97e875f1a80598899e54ea7983bb24abe818738aac8f5c7d87175d96bbb76ec",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 1810813
+        },
+        {
+          "archivo": "FOTOS FINALES QUINCE/TERMICA HOMBRE/Man_modeling_garment_back_view_2K_20260914164102.jpeg",
+          "sha256": "84195ae298f8a4987c1d29208c4d9c120be0f191ed2b3580e54fa9197a734135",
+          "ancho": 1792,
+          "alto": 2400,
+          "bytes": 2033508
+        }
+      ],
+      "productoPropuesto": "TERMICA HOMBRE",
+      "categoriaPosible": null,
+      "tipo": "Clasificación dudosa",
+      "motivo": "El nombre no permite elegir inequívocamente una categoría existente. No se clasifica por escudo, modelo o semejanza.",
+      "decision": "Confirmar categoría existente aplicable o definir fuera de esta importación el mapa comercial."
+    }
+  ],
+  "intactos": [
+    "camiseta-rugby-oldies",
+    "camiseta-rugby-body",
+    "short-rugby-shane"
+  ],
+  "webpPrevios": [
+    {
+      "ruta": "images/portadas/deportes-480.webp",
+      "sha256": "b600c793b239f99197dc6bf269107e09a69dc56af09f4546c06c072e9b84d66d"
+    },
+    {
+      "ruta": "images/portadas/deportes-706.webp",
+      "sha256": "f82465eb3ea1bdbb081c72a86f7dd379286c5a90fdc8ca06929112f681ef48f7"
+    },
+    {
+      "ruta": "images/portadas/training-480.webp",
+      "sha256": "8e8b291cdb22975760eab057482998c29e968822ce22c0b491fa0378893c4d05"
+    },
+    {
+      "ruta": "images/portadas/training-703.webp",
+      "sha256": "5c21f74472ffb79bc79aa02ea23a4d8de21079faeec5e2878ab58979c74e06ed"
+    },
+    {
+      "ruta": "images/portadas/urbano-480.webp",
+      "sha256": "a63ca44642b880e44ef500622f5aab7d499f3be7b2155898e10f4e772ab118f6"
+    },
+    {
+      "ruta": "images/portadas/urbano-703.webp",
+      "sha256": "6ba2b9a64f4da578fda760716ef9433aee05cff80cae5b05ac03097638891fd9"
+    },
+    {
+      "ruta": "images/portadas/instituciones-480.webp",
+      "sha256": "4c940b22acd73621e115e69465c0d65af5b889814777230388685052f6276efc"
+    },
+    {
+      "ruta": "images/portadas/instituciones-705.webp",
+      "sha256": "e5aa0b3f452df10223d84c8a865d9e912c01d754ec9e0affe1df6412befac6e2"
+    },
+    {
+      "ruta": "images/categorias/rugby-480.webp",
+      "sha256": "a1d7a7ea3f14eb52d23f1374dff8cdd28134419e75699611be4c791258ab470e"
+    },
+    {
+      "ruta": "images/categorias/rugby-638.webp",
+      "sha256": "612f1c1b19b6d5be8c6fb2af8eedcf6631fde0a42f3a741b42d9b8c51f9362ce"
+    },
+    {
+      "ruta": "images/categorias/hockey-femenino-480.webp",
+      "sha256": "22204a67001d9942da7d33f986ef00c9fc797da025e345c2965ac2602df94b6d"
+    },
+    {
+      "ruta": "images/categorias/hockey-femenino-638.webp",
+      "sha256": "f0aacadc20ad57986fa53a5e5560ef0b9fedc92d2fdb88a27f157bbb852fe4bd"
+    },
+    {
+      "ruta": "images/categorias/hockey-masculino-480.webp",
+      "sha256": "57b1ae3ad5de13288f334debc51a3dd64a78ecab5b47ffe4e4d93fcb87d14af1"
+    },
+    {
+      "ruta": "images/categorias/hockey-masculino-638.webp",
+      "sha256": "ac50a327f0f27bac9dc65ec28b7e2d8e616ad2eb1c07015db5b1b2aa1b527c89"
+    },
+    {
+      "ruta": "images/categorias/futbol-480.webp",
+      "sha256": "172b7d8b9aec84e613ceec071ba1b6bb8275f979235607fc4f68ca6cd10dad7a"
+    },
+    {
+      "ruta": "images/categorias/futbol-636.webp",
+      "sha256": "755158d836a9f21898186c70bba2c7eca3ba1655ef4aef0aca7193f02f62e59a"
+    },
+    {
+      "ruta": "images/institucional/chomba-macro-480.webp",
+      "sha256": "a447023434c2baaab22e217528e58243c2f6b5a280da8fff5a8332b1b77df8d8"
+    },
+    {
+      "ruta": "images/institucional/chomba-macro-786.webp",
+      "sha256": "44c8f3dc2af36e87882cd822f11c019b9b8fae085555438d75560843e9fda9ab"
+    },
+    {
+      "ruta": "images/productos/camiseta-futbol-roja-frente-480.webp",
+      "sha256": "e69676dad367208a70dd554b96ff50007a624f3663b1309bae66ca9d219dedbd"
+    },
+    {
+      "ruta": "images/productos/camiseta-futbol-roja-frente-960.webp",
+      "sha256": "6f853e3ba74b3d7302fe6fe65ecfd3462b3fb03a17f3d4ae2030e8b38ab88c53"
+    },
+    {
+      "ruta": "images/productos/bermuda-gris-frente-480.webp",
+      "sha256": "4a70a07f6f70dc414284bd6dc6eec708aa3f8edd187e0a79bd81c5ca65e3c7d7"
+    },
+    {
+      "ruta": "images/productos/bermuda-gris-frente-960.webp",
+      "sha256": "9a614238920e39971fe7cea1ccc1ad8af215c09b301119f4cf526a94fb92853c"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-frente-480.webp",
+      "sha256": "7671373dcdaa4f41869b392413b767b7f72b8a387cf22acf35f9ca43b039b98a"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-frente-960.webp",
+      "sha256": "5ee2cf8e96bfd8111a32267621631376496feddc8cccb96746e725a1c114f408"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-frente-1600.webp",
+      "sha256": "2f7ac6f4cd72c8cc71ea9e93f8464e76764ba5c5d4a740645c977f2a79f55d29"
+    },
+    {
+      "ruta": "images/productos/camiseta-verde-frente-480.webp",
+      "sha256": "b3fec2d0b3003bbe09b7f619a8ac745bad9aa299b49df5ab50b51c2e1ee99bf5"
+    },
+    {
+      "ruta": "images/productos/camiseta-verde-frente-960.webp",
+      "sha256": "befef261dd3eda41c0196ade1057eea45e6d283d41e63552c301f2b22ec67b51"
+    },
+    {
+      "ruta": "images/productos/short-blanco-frente-480.webp",
+      "sha256": "4b19073f14c7f50914577f5a2ec65ae83389fa709ac73c99adbe10fadb184ceb"
+    },
+    {
+      "ruta": "images/productos/short-blanco-frente-960.webp",
+      "sha256": "51f7607313405b2c6d9472bd2dbe77e15344c6c846be29036eeb5f1febd52910"
+    },
+    {
+      "ruta": "images/productos/short-negro-frente-480.webp",
+      "sha256": "bfacfa23088423d1b8e82fe226cee54917f7e9e59ac41daa5ff4fa85ea84a5cc"
+    },
+    {
+      "ruta": "images/productos/short-negro-frente-960.webp",
+      "sha256": "cfe72790fc415ddbdaad914a23fd4a4e462c0f811a56a035692b979298a443b8"
+    },
+    {
+      "ruta": "images/productos/short-azul-frente-480.webp",
+      "sha256": "25a4dc2ceb3ae7e0fd2fc568328677c178c2b1ccf34b77c63f84f0ebf76b355f"
+    },
+    {
+      "ruta": "images/productos/short-azul-frente-960.webp",
+      "sha256": "a7edd21692dfb72029db6a8ad1e806bcab8975fd6178e53f24d6c6700b2c8fcf"
+    },
+    {
+      "ruta": "images/productos/medias-negras-480.webp",
+      "sha256": "cf80a011ece28e3a745bdd20913d15885aff4a0267bc8fe9919b0b6b721db2aa"
+    },
+    {
+      "ruta": "images/productos/medias-negras-960.webp",
+      "sha256": "1889aa1324f668c75892e13b99fdfcab7e100c83208dd09d75ad7bc3419fecc2"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-dorso-480.webp",
+      "sha256": "93405fef12832ed36fc2a8d1dfcb102ba60fb71acc6e8e0f0969f4a018bc0160"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-dorso-960.webp",
+      "sha256": "640faef0ca6276ce8cfa3d848b00ea5287b4c87844ce8a2be138cb32c1fcf2bf"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-dorso-1600.webp",
+      "sha256": "67d33368c5c54d7772bafd08c3e68928eba7587244ab6fdcddfd2990306dae72"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-sin-modelo-480.webp",
+      "sha256": "3ae983bbc09ecc56c36cb093024882fb604018bd35127a95df556c4174c4338c"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-sin-modelo-960.webp",
+      "sha256": "18c834191e1bd9abf580b6ef500f8fc44179a001bea8ed8420ab3ca315e436f3"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-sin-modelo-1600.webp",
+      "sha256": "823241a988c0f6388c207fa390203de3cf2293f86e6a3bd5bc2ab85f8c1f47e5"
+    },
+    {
+      "ruta": "images/productos/camiseta-hockey-force-frente-480.webp",
+      "sha256": "dcebb3407792218b467e05bf19201075fefaea24af98edafd96bd9a4ca6b8f0d"
+    },
+    {
+      "ruta": "images/productos/camiseta-hockey-force-frente-960.webp",
+      "sha256": "91deacf256fe364dc6273dadf703e99c7c0267536a6e6372a3ea4296d5bed199"
+    },
+    {
+      "ruta": "images/productos/pollera-roja-con-calza-480.webp",
+      "sha256": "1107d13fe91c1c62e6f1a8de9e79d0eecd7229828cfdf77a571ce92d333c5d2c"
+    },
+    {
+      "ruta": "images/productos/pollera-roja-con-calza-960.webp",
+      "sha256": "043581907addfea3dfac5275631eb21ca13e2ec0f107f877bf807c7074627b68"
+    },
+    {
+      "ruta": "images/productos/camiseta-rugby-london-frente-480.webp",
+      "sha256": "b347b3a72335178c14fad39569cc2232e2a47f919ae87262f3ca56388de0200d"
+    },
+    {
+      "ruta": "images/productos/camiseta-rugby-london-frente-960.webp",
+      "sha256": "0f56d56b114513341a4dcaa3fe7f6196f4c75f19d4c957b6fb6770eab0abcb27"
+    },
+    {
+      "ruta": "images/productos/camiseta-rugby-ultrabooks-frente-480.webp",
+      "sha256": "4d3b22ed17f4966e31fdb7267b648b5ab682317429c7f468b47c1c9ca2798014"
+    },
+    {
+      "ruta": "images/productos/camiseta-rugby-ultrabooks-frente-960.webp",
+      "sha256": "1b41c765b8afe3b06f8df0628140e6bd56ab3962a990934d365956485daba7c3"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-listado-480.webp",
+      "sha256": "2d374367a795cf6b5ddd096960b7524430255a963a83a63099762a73906d9755"
+    },
+    {
+      "ruta": "images/productos/camiseta-celeste-listado-960.webp",
+      "sha256": "ea423a73c34d2ab1ae93ff35fe385a790efd2176263549b34463386054379c96"
+    },
+    {
+      "ruta": "images/productos/short-negro-listado-480.webp",
+      "sha256": "244377d720c3af003f314f84bf74980ef243eca12080f8d2d6594c3f05dfebda"
+    },
+    {
+      "ruta": "images/productos/short-negro-listado-960.webp",
+      "sha256": "865bd56203b3b035b842309ca5c33d31b1bcd66cd0ea022e4b8d201df830bf93"
+    }
+  ]
+}

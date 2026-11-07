@@ -10,7 +10,7 @@ export default function PiePagina({ datos }) {
         <h2 id={`pie-${grupo.id}`}>{grupo.label}</h2>
         <ul>{grupo.items.map(item => <li key={item.id}>
           {item.href ? <Link to={item.href}>{item.label}</Link> : <span className="enlace-pendiente"
-            aria-disabled="true" title="Destino pendiente de confirmación">{item.label}</span>}
+            aria-disabled="true">{item.label}</span>}
         </li>)}</ul>
       </section>)}
       <section aria-labelledby="pie-redes"><h2 id="pie-redes">{datos.tituloRedes}</h2><RedesSociales redes={datos.redes} /></section>

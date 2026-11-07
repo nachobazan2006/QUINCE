@@ -1,5 +1,15 @@
 # QUINCE — Contrato inicial de JSON
 
+Actualización de clasificación manual: el catálogo tiene **73 productos** (53 anteriores intactos y 20 nuevos según las indicaciones del usuario). Totales: Rugby 11, Training 23, Urbano 21, Instituciones 3, Hockey femenino 9, Hockey masculino 2 y Fútbol 4. La carpeta REGLAN se separó en dos fichas con fotografías y categorías distintas por indicación expresa. No cambió el esquema. Ver [clasificacion-manual-catalogo.md](clasificacion-manual-catalogo.md) y el [estado actual de pendientes](catalogo-pendiente-revision.md). Los conteos que siguen corresponden a etapas anteriores.
+
+Actualización de continuación del catálogo: products.json tiene **53 registros** (24 anteriores intactos y 29 nuevos). Training tiene 16 y Urbano 16; no se cambió el esquema ni se agregaron categorías. Quedan 28 carpetas sin ficha por dudas documentadas. Ver [continuacion-catalogo-final.md](continuacion-catalogo-final.md); los conteos de etapas anteriores que siguen debajo son históricos.
+
+Actualización Prompt 13B: products.json conserva el mismo esquema y ahora tiene 24 registros (12 preservados y 12 importados). Nueve galerías existentes se ampliaron; Oldies quedó intacta. Ver [importacion-catalogo-final.md](importacion-catalogo-final.md) y [catalogo-pendiente-revision.md](catalogo-pendiente-revision.md). Las cifras de doce productos y listados vacíos que aparecen más abajo son históricas.
+
+Actualización Prompt 11: `home.json` admite `carousel` en la sección categories, con `categoryId` (actual sports) e `intervalMs` (5000). La portada original y las disciplinas de categories.json → childIds forman la secuencia; no se duplican imágenes ni textos. La rotación automática fue solicitada y aclarada expresamente por el usuario durante la auditoría. Las guías de talles sin recurso válido se omiten de la interfaz pública. Ver [auditoria-visual-final.md](auditoria-visual-final.md).
+
+Actualización Prompt 9: la ficha `/productos/:slug` ya está implementada. El contrato de detalle y sus decisiones vigentes están en [detalle-producto.md](detalle-producto.md); las menciones a detalle provisional más abajo son históricas. `gallery` ordena las vistas del detalle y reemplaza allí a `image` cuando no está vacía. `sizeGuide`, si se entrega, es una cadena con URL HTTP(S) o ruta de archivo público relativa a BASE_URL, sin fragmentos ficticios. `description` es texto; `characteristics` un array de textos; `relatedProductIds` un array de IDs. Un array explícito vacío de relacionados desactiva las sugerencias; omitir el campo habilita la continuidad de categoría. No se agregaron campos nuevos.
+
 Implementado en `web/public/data/` para el Prompt 2. Complementa la propuesta de arquitectura de Fase 1; los documentos originales de auditoría se conservan como evidencia histórica. No se cargaron nombres de productos dudosos ni información comercial inventada.
 
 Este contrato incorpora las actualizaciones hasta Prompt 8. Para fuentes, contradicciones de nombres y pruebas de catálogo ver [listados-productos.md](listados-productos.md).
@@ -68,9 +78,13 @@ gallery solo incorpora vistas preparadas y verificadas de Oldies (P098/P097/P096
 
 Ver contrato, pruebas y [guía para agregar productos](listados-productos.md). El hook controla raíz y campos mínimos; `verificar-catalogo.mjs` revisa IDs, relaciones, referencias y expectativas de la colección actual.
 
-## about.json (sin cambios)
+## about.json — Prompt 10
 
-Actual: `{ "title": "Nosotros", "sections": [] }`. `title` y `sections` obligatorios. Cada sección futura necesita `id`, `heading` y `paragraphs` (array de textos). No se publicaron las afirmaciones sobre trayectoria o clubes ni descripciones extrañas al producto.
+`title` y `sections` son obligatorios. Cada sección tiene `id` único, `heading` y `paragraphs` (array de textos); su orden en el array define el orden visual. La página valida esta estructura y reutiliza useData/DataState. No agrega main ni realiza solicitudes por sección.
+
+Por solicitud del Prompt 10 se transcribieron los dos bloques del mockup Nosotros. El usuario indicó mostrar provisoriamente `+10 AÑOS DE TRAYECTORIA`; el párrafo conserva 2009 y el bloque de clubes conserva la cifra del diseñador. Estos contenidos requieren validación comercial antes de publicar: ver [inconsistencias-a-resolver.txt](inconsistencias-a-resolver.txt). No se presentan como afirmaciones verificadas independientemente.
+
+Instagram y Facebook ahora tienen las URLs entregadas expresamente por el usuario en footer.json; ese archivo sigue siendo la única configuración de redes para footer y header. Contacto, cotización y Fitness permanecen pendientes. Ver [nosotros-contacto.md](nosotros-contacto.md).
 
 ## Edición en producción
 

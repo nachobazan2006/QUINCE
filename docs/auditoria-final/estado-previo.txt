@@ -1,0 +1,28 @@
+﻿ M docs/modelos-datos.md
+ M web/public/data/about.json
+ M web/public/data/footer.json
+ M web/public/data/products.json
+ M web/scripts/comprobar-listados.cjs
+ M web/src/App.jsx
+ M web/src/hooks/useProductos.js
+ D web/src/pages/AboutPage.jsx
+ D web/src/pages/ProductPage.jsx
+ M web/src/services/catalogo.js
+?? docs/auditoria-final/
+?? docs/capturas-detalle/
+?? docs/capturas-nosotros/
+?? docs/detalle-producto.md
+?? docs/estado-previo-auditoria.txt
+?? docs/inconsistencias-a-resolver.txt
+?? docs/nosotros-contacto.md
+?? web/scripts/auditar-visual.cjs
+?? web/scripts/comprobar-detalle.cjs
+?? web/scripts/comprobar-nosotros.cjs
+?? web/src/components/institucional/
+?? web/src/components/productos/GaleriaProducto.jsx
+?? web/src/components/productos/InformacionProducto.jsx
+?? web/src/components/productos/ProductosRelacionados.jsx
+?? web/src/pages/PaginaDetalleProducto.jsx
+?? web/src/pages/PaginaNosotros.jsx
+?? web/src/styles/detalle-producto.css
+?? web/src/styles/nosotros.css

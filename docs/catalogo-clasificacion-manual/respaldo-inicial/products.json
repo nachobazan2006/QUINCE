@@ -1,0 +1,4064 @@
+{
+  "products": [
+    {
+      "id": "camiseta-rugby-oldies",
+      "slug": "camiseta-rugby-oldies",
+      "name": "Camiseta Rugby Oldies",
+      "categoryIds": [
+        "rugby"
+      ],
+      "image": {
+        "src": "images/productos/camiseta-celeste-listado-960.webp",
+        "alt": "Modelo de frente con camiseta celeste Rugby XV",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/camiseta-celeste-listado-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/camiseta-celeste-listado-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/camiseta-celeste-frente-960.webp",
+          "alt": "Modelo de frente con camiseta celeste Rugby XV",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/camiseta-celeste-frente-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/camiseta-celeste-frente-960.webp",
+              "width": 960
+            },
+            {
+              "src": "images/productos/camiseta-celeste-frente-1600.webp",
+              "width": 1600
+            }
+          ]
+        },
+        {
+          "src": "images/productos/camiseta-celeste-dorso-960.webp",
+          "alt": "Espalda de camiseta celeste Rugby XV con número 13",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/camiseta-celeste-dorso-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/camiseta-celeste-dorso-960.webp",
+              "width": 960
+            },
+            {
+              "src": "images/productos/camiseta-celeste-dorso-1600.webp",
+              "width": 1600
+            }
+          ]
+        },
+        {
+          "src": "images/productos/camiseta-celeste-sin-modelo-960.webp",
+          "alt": "Camiseta celeste Rugby XV sin modelo",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/camiseta-celeste-sin-modelo-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/camiseta-celeste-sin-modelo-960.webp",
+              "width": 960
+            },
+            {
+              "src": "images/productos/camiseta-celeste-sin-modelo-1600.webp",
+              "width": 1600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camiseta-rugby-body",
+      "slug": "camiseta-rugby-body",
+      "name": "Camiseta Rugby Body",
+      "categoryIds": [
+        "rugby"
+      ],
+      "image": {
+        "src": "images/productos/camiseta-verde-frente-960.webp",
+        "alt": "Modelo de frente con camiseta verde de rugby con franjas blancas",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/camiseta-verde-frente-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/camiseta-verde-frente-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": []
+    },
+    {
+      "id": "camiseta-rugby-ultrabooks",
+      "slug": "camiseta-rugby-ultrabooks",
+      "name": "Camiseta Rugby Ultrabooks",
+      "categoryIds": [
+        "rugby"
+      ],
+      "image": {
+        "src": "images/productos/camiseta-rugby-ultrabooks-frente-960.webp",
+        "alt": "Modelo de frente con camiseta rosa de rugby LIM Burger",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/camiseta-rugby-ultrabooks-frente-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/camiseta-rugby-ultrabooks-frente-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/camiseta-rugby-ultrabooks-frente-960.webp",
+          "alt": "Modelo de frente con camiseta rosa de rugby LIM Burger",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/camiseta-rugby-ultrabooks-frente-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/camiseta-rugby-ultrabooks-frente-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-27be91353fe9972bb97dda0c-960.webp",
+          "alt": "Camiseta Rugby Ultrabooks, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-27be91353fe9972bb97dda0c-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-27be91353fe9972bb97dda0c-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-015204ae2a33fab11fc172f6-960.webp",
+          "alt": "Camiseta Rugby Ultrabooks, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-015204ae2a33fab11fc172f6-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-015204ae2a33fab11fc172f6-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camiseta-rugby-london",
+      "slug": "camiseta-rugby-london",
+      "name": "Camiseta Rugby London",
+      "categoryIds": [
+        "rugby"
+      ],
+      "image": {
+        "src": "images/productos/camiseta-rugby-london-frente-960.webp",
+        "alt": "Modelo de frente con camiseta Rugby London negra y blanca",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/camiseta-rugby-london-frente-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/camiseta-rugby-london-frente-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/camiseta-rugby-london-frente-960.webp",
+          "alt": "Modelo de frente con camiseta Rugby London negra y blanca",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/camiseta-rugby-london-frente-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/camiseta-rugby-london-frente-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-e9ba0df1ee162655c7e060f7-960.webp",
+          "alt": "Camiseta Rugby London, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-e9ba0df1ee162655c7e060f7-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-e9ba0df1ee162655c7e060f7-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-2fe54d6f22f173d41ce58f16-960.webp",
+          "alt": "Camiseta Rugby London, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-2fe54d6f22f173d41ce58f16-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-2fe54d6f22f173d41ce58f16-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-6e3c74e8b4ab20b61f0ff3db-960.webp",
+          "alt": "Camiseta Rugby London, fotografía 4",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-6e3c74e8b4ab20b61f0ff3db-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-6e3c74e8b4ab20b61f0ff3db-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-rugby-shane",
+      "slug": "short-rugby-shane",
+      "name": "Short Rugby Shane",
+      "categoryIds": [
+        "rugby"
+      ],
+      "image": {
+        "src": "images/productos/short-blanco-frente-960.webp",
+        "alt": "Short blanco Rugby Shane con escudo verde circular",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/short-blanco-frente-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/short-blanco-frente-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": []
+    },
+    {
+      "id": "short-rugby-durban",
+      "slug": "short-rugby-durban",
+      "name": "Short Rugby Durban",
+      "categoryIds": [
+        "rugby"
+      ],
+      "image": {
+        "src": "images/productos/short-negro-listado-960.webp",
+        "alt": "Short negro Rugby Durban de frente",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/short-negro-listado-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/short-negro-listado-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/short-negro-listado-960.webp",
+          "alt": "Short negro Rugby Durban de frente",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/short-negro-listado-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/short-negro-listado-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/short-negro-frente-960.webp",
+          "alt": "Short Rugby Durban, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/short-negro-frente-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/short-negro-frente-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-ccc61d39fa354b7d61802626-960.webp",
+          "alt": "Short Rugby Durban, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-ccc61d39fa354b7d61802626-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-ccc61d39fa354b7d61802626-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-rugby-wave",
+      "slug": "short-rugby-wave",
+      "name": "Short Rugby Wave",
+      "categoryIds": [
+        "rugby"
+      ],
+      "image": {
+        "src": "images/productos/short-azul-frente-960.webp",
+        "alt": "Short azul Rugby Wave con escudo rosa",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/short-azul-frente-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/short-azul-frente-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/short-azul-frente-960.webp",
+          "alt": "Short azul Rugby Wave con escudo rosa",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/short-azul-frente-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/short-azul-frente-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-e51776c535978f66ae089804-960.webp",
+          "alt": "Short Rugby Wave, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-e51776c535978f66ae089804-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-e51776c535978f66ae089804-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-508fbcfbab7a619db43c390a-960.webp",
+          "alt": "Short Rugby Wave, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-508fbcfbab7a619db43c390a-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-508fbcfbab7a619db43c390a-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medias-largas",
+      "slug": "medias-largas",
+      "name": "Medias Largas",
+      "categoryIds": [
+        "rugby"
+      ],
+      "image": {
+        "src": "images/productos/medias-negras-960.webp",
+        "alt": "Medias negras largas QUINCE sobre las piernas de un modelo",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/medias-negras-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/medias-negras-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/medias-negras-960.webp",
+          "alt": "Medias negras largas QUINCE sobre las piernas de un modelo",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/medias-negras-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/medias-negras-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-02fa85d2c8ad98bc7eff4292-960.webp",
+          "alt": "Medias Largas, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-02fa85d2c8ad98bc7eff4292-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-02fa85d2c8ad98bc7eff4292-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-0610943e2e9b65feb3bc5fdf-896.webp",
+          "alt": "Medias Largas, fotografía 3",
+          "width": 896,
+          "height": 1200,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-0610943e2e9b65feb3bc5fdf-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-0610943e2e9b65feb3bc5fdf-896.webp",
+              "width": 896
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camiseta-futbol-air-fit",
+      "slug": "camiseta-futbol-air-fit",
+      "name": "Camiseta Fútbol Air Fit",
+      "categoryIds": [
+        "futbol"
+      ],
+      "image": {
+        "src": "images/productos/camiseta-futbol-roja-frente-960.webp",
+        "alt": "Modelo con camiseta roja de fútbol Air Fit",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/camiseta-futbol-roja-frente-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/camiseta-futbol-roja-frente-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/camiseta-futbol-roja-frente-960.webp",
+          "alt": "Modelo con camiseta roja de fútbol Air Fit",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/camiseta-futbol-roja-frente-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/camiseta-futbol-roja-frente-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-45a28ba3b7bb14a141e9709e-960.webp",
+          "alt": "Camiseta Fútbol Air Fit, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-45a28ba3b7bb14a141e9709e-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-45a28ba3b7bb14a141e9709e-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-7e374931690ad16576a2f858-960.webp",
+          "alt": "Camiseta Fútbol Air Fit, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-7e374931690ad16576a2f858-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-7e374931690ad16576a2f858-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camiseta-hockey-force",
+      "slug": "camiseta-hockey-force",
+      "name": "Camiseta Hockey Force",
+      "categoryIds": [
+        "hockey-femenino"
+      ],
+      "image": {
+        "src": "images/productos/camiseta-hockey-force-frente-960.webp",
+        "alt": "Modelo de frente con camiseta Hockey Force blanca y azul",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/camiseta-hockey-force-frente-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/camiseta-hockey-force-frente-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/camiseta-hockey-force-frente-960.webp",
+          "alt": "Modelo de frente con camiseta Hockey Force blanca y azul",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/camiseta-hockey-force-frente-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/camiseta-hockey-force-frente-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-a0ecdf1dc92d850c17438feb-960.webp",
+          "alt": "Camiseta Hockey Force, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-a0ecdf1dc92d850c17438feb-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-a0ecdf1dc92d850c17438feb-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-c454fd0eb749c65d39e20b31-960.webp",
+          "alt": "Camiseta Hockey Force, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-c454fd0eb749c65d39e20b31-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-c454fd0eb749c65d39e20b31-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-20f988b10f690f0a2f6bff07-960.webp",
+          "alt": "Camiseta Hockey Force, fotografía 4",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-20f988b10f690f0a2f6bff07-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-20f988b10f690f0a2f6bff07-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-61772d31f916a9e6eab23fdc-960.webp",
+          "alt": "Camiseta Hockey Force, fotografía 5",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-61772d31f916a9e6eab23fdc-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-61772d31f916a9e6eab23fdc-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pollera-hockey-con-calza",
+      "slug": "pollera-hockey-con-calza",
+      "name": "Pollera Hockey con Calza",
+      "categoryIds": [
+        "hockey-femenino"
+      ],
+      "image": {
+        "src": "images/productos/pollera-roja-con-calza-960.webp",
+        "alt": "Pollera roja de hockey levantada para mostrar la calza",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/pollera-roja-con-calza-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/pollera-roja-con-calza-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/pollera-roja-con-calza-960.webp",
+          "alt": "Pollera roja de hockey levantada para mostrar la calza",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/pollera-roja-con-calza-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/pollera-roja-con-calza-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-a54c1510fbca553709e23e0d-960.webp",
+          "alt": "Pollera Hockey con Calza, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-a54c1510fbca553709e23e0d-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-a54c1510fbca553709e23e0d-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-857539112784361f3b2bad8b-960.webp",
+          "alt": "Pollera Hockey con Calza, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-857539112784361f3b2bad8b-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-857539112784361f3b2bad8b-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bermuda-c-corte-urban",
+      "slug": "bermuda-c-corte-urban",
+      "name": "Bermuda c/corte Urban",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/bermuda-gris-frente-960.webp",
+        "alt": "Bermuda gris Urban con cordón blanco",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/bermuda-gris-frente-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/bermuda-gris-frente-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/bermuda-gris-frente-960.webp",
+          "alt": "Bermuda gris Urban con cordón blanco",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/bermuda-gris-frente-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/bermuda-gris-frente-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-f2b171a7b9647b66b7669dea-896.webp",
+          "alt": "Bermuda c/corte Urban, fotografía 2",
+          "width": 896,
+          "height": 1200,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-f2b171a7b9647b66b7669dea-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-f2b171a7b9647b66b7669dea-896.webp",
+              "width": 896
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-4bfe8f337aa00bf36a52fefd-960.webp",
+          "alt": "Bermuda c/corte Urban, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-4bfe8f337aa00bf36a52fefd-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-4bfe8f337aa00bf36a52fefd-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camiseta-de-hockey-dama-olimpic",
+      "slug": "camiseta-de-hockey-dama-olimpic",
+      "name": "CAMISETA DE HOCKEY DAMA OLIMPIC",
+      "categoryIds": [
+        "hockey-femenino"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-2dd9b36e82c604c6c0706390-960.webp",
+        "alt": "CAMISETA DE HOCKEY DAMA OLIMPIC, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-2dd9b36e82c604c6c0706390-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-2dd9b36e82c604c6c0706390-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-2dd9b36e82c604c6c0706390-960.webp",
+          "alt": "CAMISETA DE HOCKEY DAMA OLIMPIC, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-2dd9b36e82c604c6c0706390-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-2dd9b36e82c604c6c0706390-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-b14a00e28ee36c3608f336f3-960.webp",
+          "alt": "CAMISETA DE HOCKEY DAMA OLIMPIC, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-b14a00e28ee36c3608f336f3-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-b14a00e28ee36c3608f336f3-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-773f46861529f36643ba0546-960.webp",
+          "alt": "CAMISETA DE HOCKEY DAMA OLIMPIC, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-773f46861529f36643ba0546-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-773f46861529f36643ba0546-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-e49d58213f95dced3e4d5fcf-960.webp",
+          "alt": "CAMISETA DE HOCKEY DAMA OLIMPIC, fotografía 4",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-e49d58213f95dced3e4d5fcf-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-e49d58213f95dced3e4d5fcf-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camiseta-hockey-dama-amsterdam",
+      "slug": "camiseta-hockey-dama-amsterdam",
+      "name": "CAMISETA HOCKEY DAMA AMSTERDAM",
+      "categoryIds": [
+        "hockey-femenino"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-66fda24dc3678c1695e3b663-960.webp",
+        "alt": "CAMISETA HOCKEY DAMA AMSTERDAM, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-66fda24dc3678c1695e3b663-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-66fda24dc3678c1695e3b663-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-66fda24dc3678c1695e3b663-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA AMSTERDAM, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-66fda24dc3678c1695e3b663-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-66fda24dc3678c1695e3b663-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-fa870b30c7a018f01aab13c4-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA AMSTERDAM, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-fa870b30c7a018f01aab13c4-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-fa870b30c7a018f01aab13c4-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-4d9a35080866fa8fad4fc2cb-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA AMSTERDAM, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-4d9a35080866fa8fad4fc2cb-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-4d9a35080866fa8fad4fc2cb-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-43dbc9c5438ddefb7fbb92e9-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA AMSTERDAM, fotografía 4",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-43dbc9c5438ddefb7fbb92e9-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-43dbc9c5438ddefb7fbb92e9-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camiseta-hockey-dama-arquero",
+      "slug": "camiseta-hockey-dama-arquero",
+      "name": "CAMISETA HOCKEY DAMA ARQUERO",
+      "categoryIds": [
+        "hockey-femenino"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-e334d1f0afc9ffc9483c5016-960.webp",
+        "alt": "CAMISETA HOCKEY DAMA ARQUERO, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-e334d1f0afc9ffc9483c5016-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-e334d1f0afc9ffc9483c5016-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-e334d1f0afc9ffc9483c5016-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA ARQUERO, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-e334d1f0afc9ffc9483c5016-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-e334d1f0afc9ffc9483c5016-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-4eb590f9061859ba3cfe3c2f-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA ARQUERO, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-4eb590f9061859ba3cfe3c2f-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-4eb590f9061859ba3cfe3c2f-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-dffe03871d50395c2328af3e-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA ARQUERO, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-dffe03871d50395c2328af3e-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-dffe03871d50395c2328af3e-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-b454e4f661b6a0a02d9995c6-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA ARQUERO, fotografía 4",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-b454e4f661b6a0a02d9995c6-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-b454e4f661b6a0a02d9995c6-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camiseta-hockey-dama-c-mangas-valen",
+      "slug": "camiseta-hockey-dama-c-mangas-valen",
+      "name": "CAMISETA HOCKEY DAMA C_MANGAS VALEN",
+      "categoryIds": [
+        "hockey-femenino"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-11a76a964ab5c3cef1a7793b-960.webp",
+        "alt": "CAMISETA HOCKEY DAMA C_MANGAS VALEN, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-11a76a964ab5c3cef1a7793b-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-11a76a964ab5c3cef1a7793b-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-11a76a964ab5c3cef1a7793b-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA C_MANGAS VALEN, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-11a76a964ab5c3cef1a7793b-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-11a76a964ab5c3cef1a7793b-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-8543d4ec05590847c3c7f254-896.webp",
+          "alt": "CAMISETA HOCKEY DAMA C_MANGAS VALEN, fotografía 2",
+          "width": 896,
+          "height": 1200,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-8543d4ec05590847c3c7f254-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-8543d4ec05590847c3c7f254-896.webp",
+              "width": 896
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-692c0c6f0f11daa97ba8f821-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA C_MANGAS VALEN, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-692c0c6f0f11daa97ba8f821-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-692c0c6f0f11daa97ba8f821-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-e1e7568cb2b3dd926acf5cf0-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA C_MANGAS VALEN, fotografía 4",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-e1e7568cb2b3dd926acf5cf0-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-e1e7568cb2b3dd926acf5cf0-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camiseta-hockey-dama-c-mangas-wind",
+      "slug": "camiseta-hockey-dama-c-mangas-wind",
+      "name": "CAMISETA HOCKEY DAMA C_MANGAS WIND",
+      "categoryIds": [
+        "hockey-femenino"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-66b06029f14f1812a8d2d92e-960.webp",
+        "alt": "CAMISETA HOCKEY DAMA C_MANGAS WIND, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-66b06029f14f1812a8d2d92e-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-66b06029f14f1812a8d2d92e-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-66b06029f14f1812a8d2d92e-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA C_MANGAS WIND, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-66b06029f14f1812a8d2d92e-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-66b06029f14f1812a8d2d92e-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-a57729d785a3cdf1263b9a30-960.webp",
+          "alt": "CAMISETA HOCKEY DAMA C_MANGAS WIND, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-a57729d785a3cdf1263b9a30-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-a57729d785a3cdf1263b9a30-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camiseta-hockey-masculino",
+      "slug": "camiseta-hockey-masculino",
+      "name": "CAMISETA HOCKEY MASCULINO",
+      "categoryIds": [
+        "hockey-masculino"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-a146b0a2d302b2f91c486b75-960.webp",
+        "alt": "CAMISETA HOCKEY MASCULINO, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-a146b0a2d302b2f91c486b75-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-a146b0a2d302b2f91c486b75-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-a146b0a2d302b2f91c486b75-960.webp",
+          "alt": "CAMISETA HOCKEY MASCULINO, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-a146b0a2d302b2f91c486b75-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-a146b0a2d302b2f91c486b75-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-bbc8a7a050e23ff0d2feca16-960.webp",
+          "alt": "CAMISETA HOCKEY MASCULINO, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-bbc8a7a050e23ff0d2feca16-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-bbc8a7a050e23ff0d2feca16-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-4ab75460ed1db0a88ff07ac3-960.webp",
+          "alt": "CAMISETA HOCKEY MASCULINO, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-4ab75460ed1db0a88ff07ac3-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-4ab75460ed1db0a88ff07ac3-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chupin-urban",
+      "slug": "chupin-urban",
+      "name": "CHUPIN URBAN",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-1c76ae7d40dcd1f6237d353c-960.webp",
+        "alt": "CHUPIN URBAN, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-1c76ae7d40dcd1f6237d353c-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-1c76ae7d40dcd1f6237d353c-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-1c76ae7d40dcd1f6237d353c-960.webp",
+          "alt": "CHUPIN URBAN, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-1c76ae7d40dcd1f6237d353c-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-1c76ae7d40dcd1f6237d353c-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-51138cbaea351ba2fa7d13a8-960.webp",
+          "alt": "CHUPIN URBAN, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-51138cbaea351ba2fa7d13a8-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-51138cbaea351ba2fa7d13a8-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-20688df05b767a0920e11f62-960.webp",
+          "alt": "CHUPIN URBAN, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-20688df05b767a0920e11f62-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-20688df05b767a0920e11f62-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chupin-urban-mujer",
+      "slug": "chupin-urban-mujer",
+      "name": "CHUPIN URBAN MUJER",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-21a35c3c75e166565c1cd02a-960.webp",
+        "alt": "CHUPIN URBAN MUJER, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-21a35c3c75e166565c1cd02a-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-21a35c3c75e166565c1cd02a-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-21a35c3c75e166565c1cd02a-960.webp",
+          "alt": "CHUPIN URBAN MUJER, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-21a35c3c75e166565c1cd02a-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-21a35c3c75e166565c1cd02a-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-561b202a48d16a19792dae8a-960.webp",
+          "alt": "CHUPIN URBAN MUJER, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-561b202a48d16a19792dae8a-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-561b202a48d16a19792dae8a-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-9d023dc4dd176759f6afd8c2-960.webp",
+          "alt": "CHUPIN URBAN MUJER, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-9d023dc4dd176759f6afd8c2-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-9d023dc4dd176759f6afd8c2-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-ca19cdafa1901f13cc97c5e3-960.webp",
+          "alt": "CHUPIN URBAN MUJER, fotografía 4",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-ca19cdafa1901f13cc97c5e3-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-ca19cdafa1901f13cc97c5e3-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mochila-urban",
+      "slug": "mochila-urban",
+      "name": "MOCHILA URBAN",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-4fb5caa3cfcf8e51d525adee-960.webp",
+        "alt": "MOCHILA URBAN, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-4fb5caa3cfcf8e51d525adee-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-4fb5caa3cfcf8e51d525adee-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-4fb5caa3cfcf8e51d525adee-960.webp",
+          "alt": "MOCHILA URBAN, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-4fb5caa3cfcf8e51d525adee-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-4fb5caa3cfcf8e51d525adee-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-1aaf6b3d6a2709e0f8a20f90-960.webp",
+          "alt": "MOCHILA URBAN, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-1aaf6b3d6a2709e0f8a20f90-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-1aaf6b3d6a2709e0f8a20f90-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-d55e7d5d62fa03c021b49c8a-960.webp",
+          "alt": "MOCHILA URBAN, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-d55e7d5d62fa03c021b49c8a-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-d55e7d5d62fa03c021b49c8a-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-futbol-air-fit",
+      "slug": "short-futbol-air-fit",
+      "name": "SHORT FUTBOL AIR-FIT",
+      "categoryIds": [
+        "futbol"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-7102945a2d0ace6c1b3dbd88-960.webp",
+        "alt": "SHORT FUTBOL AIR-FIT, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-7102945a2d0ace6c1b3dbd88-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-7102945a2d0ace6c1b3dbd88-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-7102945a2d0ace6c1b3dbd88-960.webp",
+          "alt": "SHORT FUTBOL AIR-FIT, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-7102945a2d0ace6c1b3dbd88-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-7102945a2d0ace6c1b3dbd88-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-78f3faf6731a43df669c87b9-960.webp",
+          "alt": "SHORT FUTBOL AIR-FIT, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-78f3faf6731a43df669c87b9-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-78f3faf6731a43df669c87b9-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-764cc406eed290089e749a70-960.webp",
+          "alt": "SHORT FUTBOL AIR-FIT, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-764cc406eed290089e749a70-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-764cc406eed290089e749a70-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-futbol-box",
+      "slug": "short-futbol-box",
+      "name": "SHORT FUTBOL BOX",
+      "categoryIds": [
+        "futbol"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-8805bcae78c4ccf95e29ce7b-960.webp",
+        "alt": "SHORT FUTBOL BOX, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-8805bcae78c4ccf95e29ce7b-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-8805bcae78c4ccf95e29ce7b-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-8805bcae78c4ccf95e29ce7b-960.webp",
+          "alt": "SHORT FUTBOL BOX, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-8805bcae78c4ccf95e29ce7b-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-8805bcae78c4ccf95e29ce7b-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-be0d0bf9bd836fc874df0506-960.webp",
+          "alt": "SHORT FUTBOL BOX, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-be0d0bf9bd836fc874df0506-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-be0d0bf9bd836fc874df0506-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-9e9cea115ebf386f74852d80-960.webp",
+          "alt": "SHORT FUTBOL BOX, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-9e9cea115ebf386f74852d80-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-9e9cea115ebf386f74852d80-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-hockey-masculino",
+      "slug": "short-hockey-masculino",
+      "name": "SHORT HOCKEY MASCULINO",
+      "categoryIds": [
+        "hockey-masculino"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-cab3c2939bf3a3413c2d0397-960.webp",
+        "alt": "SHORT HOCKEY MASCULINO, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-cab3c2939bf3a3413c2d0397-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-cab3c2939bf3a3413c2d0397-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-cab3c2939bf3a3413c2d0397-960.webp",
+          "alt": "SHORT HOCKEY MASCULINO, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-cab3c2939bf3a3413c2d0397-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-cab3c2939bf3a3413c2d0397-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-a6296dfb346bd960bfc445f7-960.webp",
+          "alt": "SHORT HOCKEY MASCULINO, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-a6296dfb346bd960bfc445f7-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-a6296dfb346bd960bfc445f7-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-e050bd6d1aac7494b1ab19b7-960.webp",
+          "alt": "SHORT HOCKEY MASCULINO, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-e050bd6d1aac7494b1ab19b7-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-e050bd6d1aac7494b1ab19b7-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bermuda-c-corte-new-line",
+      "slug": "bermuda-c-corte-new-line",
+      "name": "BERMUDA C_CORTE NEW LINE",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-1cce1dc1f6986020e2f2beec-960.webp",
+        "alt": "BERMUDA C_CORTE NEW LINE, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-1cce1dc1f6986020e2f2beec-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-1cce1dc1f6986020e2f2beec-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-1cce1dc1f6986020e2f2beec-960.webp",
+          "alt": "BERMUDA C_CORTE NEW LINE, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-1cce1dc1f6986020e2f2beec-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-1cce1dc1f6986020e2f2beec-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-6acd9f7d426e8466b6210eb6-960.webp",
+          "alt": "BERMUDA C_CORTE NEW LINE, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-6acd9f7d426e8466b6210eb6-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-6acd9f7d426e8466b6210eb6-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-f0db8f559973da1ad3fab3f0-960.webp",
+          "alt": "BERMUDA C_CORTE NEW LINE, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-f0db8f559973da1ad3fab3f0-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-f0db8f559973da1ad3fab3f0-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bermunda-heat-rustica",
+      "slug": "bermunda-heat-rustica",
+      "name": "BERMUNDA HEAT RUSTICA",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-ca0b59d39942aa53f49bbd44-960.webp",
+        "alt": "BERMUNDA HEAT RUSTICA, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-ca0b59d39942aa53f49bbd44-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-ca0b59d39942aa53f49bbd44-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-ca0b59d39942aa53f49bbd44-960.webp",
+          "alt": "BERMUNDA HEAT RUSTICA, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-ca0b59d39942aa53f49bbd44-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-ca0b59d39942aa53f49bbd44-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-f33bb3d3d4d713e76a196111-960.webp",
+          "alt": "BERMUNDA HEAT RUSTICA, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-f33bb3d3d4d713e76a196111-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-f33bb3d3d4d713e76a196111-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-8db01fde686293be53a7f072-960.webp",
+          "alt": "BERMUNDA HEAT RUSTICA, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-8db01fde686293be53a7f072-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-8db01fde686293be53a7f072-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-36a627749d90cb35bd8e22f8-960.webp",
+          "alt": "BERMUNDA HEAT RUSTICA, fotografía 4",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-36a627749d90cb35bd8e22f8-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-36a627749d90cb35bd8e22f8-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "buzo-canguro-basic",
+      "slug": "buzo-canguro-basic",
+      "name": "BUZO CANGURO BASIC",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-31a711dd53feab22f13b76f6-960.webp",
+        "alt": "BUZO CANGURO BASIC, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-31a711dd53feab22f13b76f6-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-31a711dd53feab22f13b76f6-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-31a711dd53feab22f13b76f6-960.webp",
+          "alt": "BUZO CANGURO BASIC, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-31a711dd53feab22f13b76f6-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-31a711dd53feab22f13b76f6-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-56953530f6f4a4fad7acc765-960.webp",
+          "alt": "BUZO CANGURO BASIC, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-56953530f6f4a4fad7acc765-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-56953530f6f4a4fad7acc765-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-6ef41ce3b0ab582d1696cf98-960.webp",
+          "alt": "BUZO CANGURO BASIC, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-6ef41ce3b0ab582d1696cf98-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-6ef41ce3b0ab582d1696cf98-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "buzo-canguro-reglan-air",
+      "slug": "buzo-canguro-reglan-air",
+      "name": "BUZO CANGURO REGLAN AIR",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-fd886e063689bb5bb452ee75-960.webp",
+        "alt": "BUZO CANGURO REGLAN AIR, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-fd886e063689bb5bb452ee75-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-fd886e063689bb5bb452ee75-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-fd886e063689bb5bb452ee75-960.webp",
+          "alt": "BUZO CANGURO REGLAN AIR, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-fd886e063689bb5bb452ee75-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-fd886e063689bb5bb452ee75-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-4bc9791bdd7d3dd967d9b7eb-960.webp",
+          "alt": "BUZO CANGURO REGLAN AIR, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-4bc9791bdd7d3dd967d9b7eb-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-4bc9791bdd7d3dd967d9b7eb-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-1a7f812a8c19c298c327de58-960.webp",
+          "alt": "BUZO CANGURO REGLAN AIR, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-1a7f812a8c19c298c327de58-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-1a7f812a8c19c298c327de58-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "buzo-manga-ralgan-essential",
+      "slug": "buzo-manga-ralgan-essential",
+      "name": "BUZO MANGA RALGAN ESSENTIAL",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-281d0d5a96f72e348efc78dd-960.webp",
+        "alt": "BUZO MANGA RALGAN ESSENTIAL, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-281d0d5a96f72e348efc78dd-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-281d0d5a96f72e348efc78dd-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-281d0d5a96f72e348efc78dd-960.webp",
+          "alt": "BUZO MANGA RALGAN ESSENTIAL, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-281d0d5a96f72e348efc78dd-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-281d0d5a96f72e348efc78dd-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-3c75fdddb0c8feaadb9f5384-960.webp",
+          "alt": "BUZO MANGA RALGAN ESSENTIAL, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-3c75fdddb0c8feaadb9f5384-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-3c75fdddb0c8feaadb9f5384-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-2292c21fe588863ed35e1dfa-960.webp",
+          "alt": "BUZO MANGA RALGAN ESSENTIAL, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-2292c21fe588863ed35e1dfa-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-2292c21fe588863ed35e1dfa-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-f0c89c53215a0484b3face31-960.webp",
+          "alt": "BUZO MANGA RALGAN ESSENTIAL, fotografía 4",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-f0c89c53215a0484b3face31-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-f0c89c53215a0484b3face31-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "calza-larga-ionex",
+      "slug": "calza-larga-ionex",
+      "name": "CALZA LARGA IONEX",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-8db7112d9d5edb9633271446-960.webp",
+        "alt": "CALZA LARGA IONEX, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-8db7112d9d5edb9633271446-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-8db7112d9d5edb9633271446-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-8db7112d9d5edb9633271446-960.webp",
+          "alt": "CALZA LARGA IONEX, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-8db7112d9d5edb9633271446-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-8db7112d9d5edb9633271446-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-9dd7db40dd760bf0cbee201e-960.webp",
+          "alt": "CALZA LARGA IONEX, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-9dd7db40dd760bf0cbee201e-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-9dd7db40dd760bf0cbee201e-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-9505a2d2c0032583c2e282fc-960.webp",
+          "alt": "CALZA LARGA IONEX, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-9505a2d2c0032583c2e282fc-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-9505a2d2c0032583c2e282fc-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camiseta-de-hockey-dama-cool",
+      "slug": "camiseta-de-hockey-dama-cool",
+      "name": "CAMISETA DE HOCKEY DAMA COOL",
+      "categoryIds": [
+        "hockey-femenino"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-6e223a1028678062d18c035d-960.webp",
+        "alt": "CAMISETA DE HOCKEY DAMA COOL, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-6e223a1028678062d18c035d-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-6e223a1028678062d18c035d-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-6e223a1028678062d18c035d-960.webp",
+          "alt": "CAMISETA DE HOCKEY DAMA COOL, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-6e223a1028678062d18c035d-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-6e223a1028678062d18c035d-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-d85c13290d02370bd7b12c8a-960.webp",
+          "alt": "CAMISETA DE HOCKEY DAMA COOL, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-d85c13290d02370bd7b12c8a-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-d85c13290d02370bd7b12c8a-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-b5a9bc7ff41a06a6e84e70ef-960.webp",
+          "alt": "CAMISETA DE HOCKEY DAMA COOL, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-b5a9bc7ff41a06a6e84e70ef-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-b5a9bc7ff41a06a6e84e70ef-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "campera-c-capucha-softshell-hombre",
+      "slug": "campera-c-capucha-softshell-hombre",
+      "name": "CAMPERA C_CAPUCHA SOFTSHELL HOMBRE",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-a75f73d1cd1d44b4448ac71e-960.webp",
+        "alt": "CAMPERA C_CAPUCHA SOFTSHELL HOMBRE, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-a75f73d1cd1d44b4448ac71e-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-a75f73d1cd1d44b4448ac71e-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-a75f73d1cd1d44b4448ac71e-960.webp",
+          "alt": "CAMPERA C_CAPUCHA SOFTSHELL HOMBRE, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-a75f73d1cd1d44b4448ac71e-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-a75f73d1cd1d44b4448ac71e-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-bac53536a681dcc379c3f83a-960.webp",
+          "alt": "CAMPERA C_CAPUCHA SOFTSHELL HOMBRE, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-bac53536a681dcc379c3f83a-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-bac53536a681dcc379c3f83a-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-13536fc6c5d2f6ee053a65fd-960.webp",
+          "alt": "CAMPERA C_CAPUCHA SOFTSHELL HOMBRE, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-13536fc6c5d2f6ee053a65fd-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-13536fc6c5d2f6ee053a65fd-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "campera-sofshell",
+      "slug": "campera-sofshell",
+      "name": "CAMPERA SOFSHELL",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-c8e0f60baaa54b159cfb79de-960.webp",
+        "alt": "CAMPERA SOFSHELL, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-c8e0f60baaa54b159cfb79de-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-c8e0f60baaa54b159cfb79de-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-c8e0f60baaa54b159cfb79de-960.webp",
+          "alt": "CAMPERA SOFSHELL, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-c8e0f60baaa54b159cfb79de-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-c8e0f60baaa54b159cfb79de-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-1c0d0b2cb35d3a7e10ad5213-960.webp",
+          "alt": "CAMPERA SOFSHELL, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-1c0d0b2cb35d3a7e10ad5213-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-1c0d0b2cb35d3a7e10ad5213-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-c283a5ea18af2878f5ef59d4-960.webp",
+          "alt": "CAMPERA SOFSHELL, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-c283a5ea18af2878f5ef59d4-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-c283a5ea18af2878f5ef59d4-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-bce593162019b54656e72c38-960.webp",
+          "alt": "CAMPERA SOFSHELL, fotografía 4",
+          "width": 960,
+          "height": 960,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-bce593162019b54656e72c38-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-bce593162019b54656e72c38-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-c3da124f9f23ff3819c322b5-960.webp",
+          "alt": "CAMPERA SOFSHELL, fotografía 5",
+          "width": 960,
+          "height": 960,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-c3da124f9f23ff3819c322b5-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-c3da124f9f23ff3819c322b5-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chupin-fitness",
+      "slug": "chupin-fitness",
+      "name": "CHUPIN FITNESS",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-5b66255a14b534f00bbc29e4-960.webp",
+        "alt": "CHUPIN FITNESS, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-5b66255a14b534f00bbc29e4-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-5b66255a14b534f00bbc29e4-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-5b66255a14b534f00bbc29e4-960.webp",
+          "alt": "CHUPIN FITNESS, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-5b66255a14b534f00bbc29e4-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-5b66255a14b534f00bbc29e4-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-b5a24cddb6f8836dbdaae896-960.webp",
+          "alt": "CHUPIN FITNESS, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-b5a24cddb6f8836dbdaae896-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-b5a24cddb6f8836dbdaae896-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-f4b1da5105578691e6db1b21-960.webp",
+          "alt": "CHUPIN FITNESS, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-f4b1da5105578691e6db1b21-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-f4b1da5105578691e6db1b21-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chupin-gianlu-mujer",
+      "slug": "chupin-gianlu-mujer",
+      "name": "CHUPIN GIANLU MUJER",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-35956bc1facbfe52fcb17ab5-960.webp",
+        "alt": "CHUPIN GIANLU MUJER, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-35956bc1facbfe52fcb17ab5-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-35956bc1facbfe52fcb17ab5-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-35956bc1facbfe52fcb17ab5-960.webp",
+          "alt": "CHUPIN GIANLU MUJER, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-35956bc1facbfe52fcb17ab5-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-35956bc1facbfe52fcb17ab5-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-786a328efadf0e443bd7f079-960.webp",
+          "alt": "CHUPIN GIANLU MUJER, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-786a328efadf0e443bd7f079-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-786a328efadf0e443bd7f079-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-bc0f77c7a471cede86148a29-960.webp",
+          "alt": "CHUPIN GIANLU MUJER, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-bc0f77c7a471cede86148a29-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-bc0f77c7a471cede86148a29-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chupin-new-line-hombre",
+      "slug": "chupin-new-line-hombre",
+      "name": "CHUPIN NEW LINE HOMBRE",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-50064fe1a00f19d3444a08c4-896.webp",
+        "alt": "CHUPIN NEW LINE HOMBRE, fotografía 1",
+        "width": 896,
+        "height": 1200,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-50064fe1a00f19d3444a08c4-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-50064fe1a00f19d3444a08c4-896.webp",
+            "width": 896
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-50064fe1a00f19d3444a08c4-896.webp",
+          "alt": "CHUPIN NEW LINE HOMBRE, fotografía 1",
+          "width": 896,
+          "height": 1200,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-50064fe1a00f19d3444a08c4-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-50064fe1a00f19d3444a08c4-896.webp",
+              "width": 896
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-43ac94c8c754092507c0aa5a-960.webp",
+          "alt": "CHUPIN NEW LINE HOMBRE, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-43ac94c8c754092507c0aa5a-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-43ac94c8c754092507c0aa5a-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-ef623037b1d3015ed6640fda-960.webp",
+          "alt": "CHUPIN NEW LINE HOMBRE, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-ef623037b1d3015ed6640fda-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-ef623037b1d3015ed6640fda-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jogging-basic",
+      "slug": "jogging-basic",
+      "name": "JOGGING BASIC",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-9b9985d90fd88cc6568a7990-960.webp",
+        "alt": "JOGGING BASIC, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-9b9985d90fd88cc6568a7990-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-9b9985d90fd88cc6568a7990-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-9b9985d90fd88cc6568a7990-960.webp",
+          "alt": "JOGGING BASIC, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-9b9985d90fd88cc6568a7990-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-9b9985d90fd88cc6568a7990-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-6ee1f41e70cdd6c367873a50-960.webp",
+          "alt": "JOGGING BASIC, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-6ee1f41e70cdd6c367873a50-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-6ee1f41e70cdd6c367873a50-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-5c795ecb237ee31ef23a04c2-960.webp",
+          "alt": "JOGGING BASIC, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-5c795ecb237ee31ef23a04c2-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-5c795ecb237ee31ef23a04c2-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mochila-trial",
+      "slug": "mochila-trial",
+      "name": "MOCHILA TRIAL",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-a371fe352421cb42f52ca8cf-960.webp",
+        "alt": "MOCHILA TRIAL, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-a371fe352421cb42f52ca8cf-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-a371fe352421cb42f52ca8cf-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-a371fe352421cb42f52ca8cf-960.webp",
+          "alt": "MOCHILA TRIAL, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-a371fe352421cb42f52ca8cf-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-a371fe352421cb42f52ca8cf-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-c49fbb571ea22646bfd3d74a-960.webp",
+          "alt": "MOCHILA TRIAL, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-c49fbb571ea22646bfd3d74a-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-c49fbb571ea22646bfd3d74a-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-c77afb55a80dedaff5c18998-960.webp",
+          "alt": "MOCHILA TRIAL, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-c77afb55a80dedaff5c18998-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-c77afb55a80dedaff5c18998-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "musculosa-jersey-hombre",
+      "slug": "musculosa-jersey-hombre",
+      "name": "MUSCULOSA JERSEY HOMBRE",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-d008e911d13b94f713a8cf78-960.webp",
+        "alt": "MUSCULOSA JERSEY HOMBRE, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-d008e911d13b94f713a8cf78-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-d008e911d13b94f713a8cf78-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-d008e911d13b94f713a8cf78-960.webp",
+          "alt": "MUSCULOSA JERSEY HOMBRE, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-d008e911d13b94f713a8cf78-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-d008e911d13b94f713a8cf78-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-6f631108433898c96c6ef2cc-960.webp",
+          "alt": "MUSCULOSA JERSEY HOMBRE, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-6f631108433898c96c6ef2cc-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-6f631108433898c96c6ef2cc-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-4542548d985c37f7acf1c9d0-960.webp",
+          "alt": "MUSCULOSA JERSEY HOMBRE, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-4542548d985c37f7acf1c9d0-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-4542548d985c37f7acf1c9d0-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "musculosa-sublimada-hombre",
+      "slug": "musculosa-sublimada-hombre",
+      "name": "MUSCULOSA SUBLIMADA HOMBRE",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-1212b0be16a80bbae0d2792a-960.webp",
+        "alt": "MUSCULOSA SUBLIMADA HOMBRE, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-1212b0be16a80bbae0d2792a-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-1212b0be16a80bbae0d2792a-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-1212b0be16a80bbae0d2792a-960.webp",
+          "alt": "MUSCULOSA SUBLIMADA HOMBRE, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-1212b0be16a80bbae0d2792a-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-1212b0be16a80bbae0d2792a-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-f550d70167ceb89b371c2521-960.webp",
+          "alt": "MUSCULOSA SUBLIMADA HOMBRE, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-f550d70167ceb89b371c2521-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-f550d70167ceb89b371c2521-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-59a2dfd8189cc74c5792de47-960.webp",
+          "alt": "MUSCULOSA SUBLIMADA HOMBRE, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-59a2dfd8189cc74c5792de47-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-59a2dfd8189cc74c5792de47-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantalon-cargo-gabardina",
+      "slug": "pantalon-cargo-gabardina",
+      "name": "PANTALON CARGO GABARDINA",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-d720a4d4e418e391027d680f-960.webp",
+        "alt": "PANTALON CARGO GABARDINA, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-d720a4d4e418e391027d680f-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-d720a4d4e418e391027d680f-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-d720a4d4e418e391027d680f-960.webp",
+          "alt": "PANTALON CARGO GABARDINA, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-d720a4d4e418e391027d680f-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-d720a4d4e418e391027d680f-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-3474c6dab209daa9b2927305-960.webp",
+          "alt": "PANTALON CARGO GABARDINA, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-3474c6dab209daa9b2927305-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-3474c6dab209daa9b2927305-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-39d6c61fb1bbf98dfee5afe4-960.webp",
+          "alt": "PANTALON CARGO GABARDINA, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-39d6c61fb1bbf98dfee5afe4-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-39d6c61fb1bbf98dfee5afe4-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pantalon-cozy-mujer",
+      "slug": "pantalon-cozy-mujer",
+      "name": "PANTALON COZY MUJER",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-212bb0c754ceb20549fa531a-960.webp",
+        "alt": "PANTALON COZY MUJER, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-212bb0c754ceb20549fa531a-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-212bb0c754ceb20549fa531a-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-212bb0c754ceb20549fa531a-960.webp",
+          "alt": "PANTALON COZY MUJER, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-212bb0c754ceb20549fa531a-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-212bb0c754ceb20549fa531a-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-445185f01246014046e06e32-960.webp",
+          "alt": "PANTALON COZY MUJER, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-445185f01246014046e06e32-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-445185f01246014046e06e32-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-0d3ae5ef8b543aeb274ab7e9-960.webp",
+          "alt": "PANTALON COZY MUJER, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-0d3ae5ef8b543aeb274ab7e9-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-0d3ae5ef8b543aeb274ab7e9-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remera-basic",
+      "slug": "remera-basic",
+      "name": "REMERA BASIC",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-bfb7097afd9820dc2ad181fc-960.webp",
+        "alt": "REMERA BASIC, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-bfb7097afd9820dc2ad181fc-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-bfb7097afd9820dc2ad181fc-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-bfb7097afd9820dc2ad181fc-960.webp",
+          "alt": "REMERA BASIC, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-bfb7097afd9820dc2ad181fc-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-bfb7097afd9820dc2ad181fc-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-c6b4f5eec60073c584aee0a2-960.webp",
+          "alt": "REMERA BASIC, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-c6b4f5eec60073c584aee0a2-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-c6b4f5eec60073c584aee0a2-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-09bb8e69a700d5f9ebe99ddb-960.webp",
+          "alt": "REMERA BASIC, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-09bb8e69a700d5f9ebe99ddb-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-09bb8e69a700d5f9ebe99ddb-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remera-basic-dry-fit",
+      "slug": "remera-basic-dry-fit",
+      "name": "REMERA BASIC DRY FIT",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-1df7d9f411bbe4e67ea9a2c5-960.webp",
+        "alt": "REMERA BASIC DRY FIT, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-1df7d9f411bbe4e67ea9a2c5-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-1df7d9f411bbe4e67ea9a2c5-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-1df7d9f411bbe4e67ea9a2c5-960.webp",
+          "alt": "REMERA BASIC DRY FIT, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-1df7d9f411bbe4e67ea9a2c5-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-1df7d9f411bbe4e67ea9a2c5-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-74c3fca8ec6f89ede45c2980-960.webp",
+          "alt": "REMERA BASIC DRY FIT, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-74c3fca8ec6f89ede45c2980-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-74c3fca8ec6f89ede45c2980-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-57ae3bf7c870f3f4671d45d5-960.webp",
+          "alt": "REMERA BASIC DRY FIT, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-57ae3bf7c870f3f4671d45d5-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-57ae3bf7c870f3f4671d45d5-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-3d8bb1f9fe648288d70813d1-960.webp",
+          "alt": "REMERA BASIC DRY FIT, fotografía 4",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-3d8bb1f9fe648288d70813d1-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-3d8bb1f9fe648288d70813d1-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remera-c-corte-raglan-dry-fit",
+      "slug": "remera-c-corte-raglan-dry-fit",
+      "name": "REMERA C_CORTE RAGLAN DRY-FIT",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-8831dbbae6d417ca66275742-960.webp",
+        "alt": "REMERA C_CORTE RAGLAN DRY-FIT, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-8831dbbae6d417ca66275742-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-8831dbbae6d417ca66275742-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-8831dbbae6d417ca66275742-960.webp",
+          "alt": "REMERA C_CORTE RAGLAN DRY-FIT, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-8831dbbae6d417ca66275742-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-8831dbbae6d417ca66275742-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-e5c99a054a11a41bc01af4f2-960.webp",
+          "alt": "REMERA C_CORTE RAGLAN DRY-FIT, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-e5c99a054a11a41bc01af4f2-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-e5c99a054a11a41bc01af4f2-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-eb37c10669860719a89118b4-960.webp",
+          "alt": "REMERA C_CORTE RAGLAN DRY-FIT, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-eb37c10669860719a89118b4-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-eb37c10669860719a89118b4-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remera-c-cortte-jersey-hombre",
+      "slug": "remera-c-cortte-jersey-hombre",
+      "name": "REMERA C_CORTTE JERSEY HOMBRE",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-db0c88505ff17a335956afef-960.webp",
+        "alt": "REMERA C_CORTTE JERSEY HOMBRE, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-db0c88505ff17a335956afef-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-db0c88505ff17a335956afef-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-db0c88505ff17a335956afef-960.webp",
+          "alt": "REMERA C_CORTTE JERSEY HOMBRE, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-db0c88505ff17a335956afef-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-db0c88505ff17a335956afef-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-a3b73e92c8d303f53c8026f4-960.webp",
+          "alt": "REMERA C_CORTTE JERSEY HOMBRE, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-a3b73e92c8d303f53c8026f4-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-a3b73e92c8d303f53c8026f4-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-50d653aadeb4e25667f6e084-960.webp",
+          "alt": "REMERA C_CORTTE JERSEY HOMBRE, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-50d653aadeb4e25667f6e084-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-50d653aadeb4e25667f6e084-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remera-oslo",
+      "slug": "remera-oslo",
+      "name": "REMERA OSLO",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-aed2f5c53b1d4e93202d7940-960.webp",
+        "alt": "REMERA OSLO, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-aed2f5c53b1d4e93202d7940-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-aed2f5c53b1d4e93202d7940-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-aed2f5c53b1d4e93202d7940-960.webp",
+          "alt": "REMERA OSLO, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-aed2f5c53b1d4e93202d7940-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-aed2f5c53b1d4e93202d7940-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-5158dd927a1299f70397f687-960.webp",
+          "alt": "REMERA OSLO, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-5158dd927a1299f70397f687-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-5158dd927a1299f70397f687-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-26dad78210d8919077d81f43-960.webp",
+          "alt": "REMERA OSLO, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-26dad78210d8919077d81f43-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-26dad78210d8919077d81f43-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remera-oversize",
+      "slug": "remera-oversize",
+      "name": "REMERA OVERSIZE",
+      "categoryIds": [
+        "urban"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-bbb13810dd671b4321863dd6-960.webp",
+        "alt": "REMERA OVERSIZE, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-bbb13810dd671b4321863dd6-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-bbb13810dd671b4321863dd6-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-bbb13810dd671b4321863dd6-960.webp",
+          "alt": "REMERA OVERSIZE, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-bbb13810dd671b4321863dd6-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-bbb13810dd671b4321863dd6-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-74293e72d169e9257616b400-960.webp",
+          "alt": "REMERA OVERSIZE, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-74293e72d169e9257616b400-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-74293e72d169e9257616b400-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-eec8c6aff9196c62e180f7c7-960.webp",
+          "alt": "REMERA OVERSIZE, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-eec8c6aff9196c62e180f7c7-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-eec8c6aff9196c62e180f7c7-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remera-sin-manga",
+      "slug": "remera-sin-manga",
+      "name": "REMERA SIN MANGA",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-43730fec557bfc3310c1ce86-960.webp",
+        "alt": "REMERA SIN MANGA, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-43730fec557bfc3310c1ce86-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-43730fec557bfc3310c1ce86-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-43730fec557bfc3310c1ce86-960.webp",
+          "alt": "REMERA SIN MANGA, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-43730fec557bfc3310c1ce86-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-43730fec557bfc3310c1ce86-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-ddd0762b88d121fefa270d91-960.webp",
+          "alt": "REMERA SIN MANGA, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-ddd0762b88d121fefa270d91-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-ddd0762b88d121fefa270d91-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-4e7e7d26417dcab9175a900f-960.webp",
+          "alt": "REMERA SIN MANGA, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-4e7e7d26417dcab9175a900f-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-4e7e7d26417dcab9175a900f-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-d53a0bd3a685fac0b292cb51-960.webp",
+          "alt": "REMERA SIN MANGA, fotografía 4",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-d53a0bd3a685fac0b292cb51-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-d53a0bd3a685fac0b292cb51-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rompeviento-glasgow-c-capucha",
+      "slug": "rompeviento-glasgow-c-capucha",
+      "name": "ROMPEVIENTO GLASGOW C_CAPUCHA",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-d95fd6deab33453c9e90cb18-960.webp",
+        "alt": "ROMPEVIENTO GLASGOW C_CAPUCHA, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-d95fd6deab33453c9e90cb18-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-d95fd6deab33453c9e90cb18-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-d95fd6deab33453c9e90cb18-960.webp",
+          "alt": "ROMPEVIENTO GLASGOW C_CAPUCHA, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-d95fd6deab33453c9e90cb18-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-d95fd6deab33453c9e90cb18-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-c706a6fa6ca61e55070b3337-960.webp",
+          "alt": "ROMPEVIENTO GLASGOW C_CAPUCHA, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-c706a6fa6ca61e55070b3337-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-c706a6fa6ca61e55070b3337-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-e3bd19ef0eb5b1af2dc88b48-960.webp",
+          "alt": "ROMPEVIENTO GLASGOW C_CAPUCHA, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-e3bd19ef0eb5b1af2dc88b48-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-e3bd19ef0eb5b1af2dc88b48-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-c-corte-wave",
+      "slug": "short-c-corte-wave",
+      "name": "SHORT C_CORTE WAVE",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-a32dc5deb11f58bcc3efd296-960.webp",
+        "alt": "SHORT C_CORTE WAVE, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-a32dc5deb11f58bcc3efd296-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-a32dc5deb11f58bcc3efd296-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-a32dc5deb11f58bcc3efd296-960.webp",
+          "alt": "SHORT C_CORTE WAVE, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-a32dc5deb11f58bcc3efd296-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-a32dc5deb11f58bcc3efd296-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-2a9933a966f99f4effb5e697-960.webp",
+          "alt": "SHORT C_CORTE WAVE, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-2a9933a966f99f4effb5e697-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-2a9933a966f99f4effb5e697-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-d2a93cd41fe1c579f15b0677-960.webp",
+          "alt": "SHORT C_CORTE WAVE, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-d2a93cd41fe1c579f15b0677-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-d2a93cd41fe1c579f15b0677-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-fitness-c-calza-mujer",
+      "slug": "short-fitness-c-calza-mujer",
+      "name": "SHORT FITNESS C_CALZA MUJER",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-7146fa802af17c499bb8895c-960.webp",
+        "alt": "SHORT FITNESS C_CALZA MUJER, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-7146fa802af17c499bb8895c-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-7146fa802af17c499bb8895c-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-7146fa802af17c499bb8895c-960.webp",
+          "alt": "SHORT FITNESS C_CALZA MUJER, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-7146fa802af17c499bb8895c-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-7146fa802af17c499bb8895c-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-f66c0850564d139e856a0401-960.webp",
+          "alt": "SHORT FITNESS C_CALZA MUJER, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-f66c0850564d139e856a0401-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-f66c0850564d139e856a0401-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-57bc78108dc9d00bca1b26ca-960.webp",
+          "alt": "SHORT FITNESS C_CALZA MUJER, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-57bc78108dc9d00bca1b26ca-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-57bc78108dc9d00bca1b26ca-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-60bd15f97cbd6eec90e76ad0-960.webp",
+          "alt": "SHORT FITNESS C_CALZA MUJER, fotografía 4",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-60bd15f97cbd6eec90e76ad0-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-60bd15f97cbd6eec90e76ad0-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "termica-hombre",
+      "slug": "termica-hombre",
+      "name": "TERMICA HOMBRE",
+      "categoryIds": [
+        "training"
+      ],
+      "image": {
+        "src": "images/productos/catalogo-c5c2a626a61bcaccadc53fdf-960.webp",
+        "alt": "TERMICA HOMBRE, fotografía 1",
+        "width": 960,
+        "height": 1286,
+        "variants": [
+          {
+            "src": "images/productos/catalogo-c5c2a626a61bcaccadc53fdf-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/productos/catalogo-c5c2a626a61bcaccadc53fdf-960.webp",
+            "width": 960
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "images/productos/catalogo-c5c2a626a61bcaccadc53fdf-960.webp",
+          "alt": "TERMICA HOMBRE, fotografía 1",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-c5c2a626a61bcaccadc53fdf-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-c5c2a626a61bcaccadc53fdf-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-f97e875f1a80598899e54ea7-960.webp",
+          "alt": "TERMICA HOMBRE, fotografía 2",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-f97e875f1a80598899e54ea7-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-f97e875f1a80598899e54ea7-960.webp",
+              "width": 960
+            }
+          ]
+        },
+        {
+          "src": "images/productos/catalogo-84195ae298f8a4987c1d2920-960.webp",
+          "alt": "TERMICA HOMBRE, fotografía 3",
+          "width": 960,
+          "height": 1286,
+          "variants": [
+            {
+              "src": "images/productos/catalogo-84195ae298f8a4987c1d2920-480.webp",
+              "width": 480
+            },
+            {
+              "src": "images/productos/catalogo-84195ae298f8a4987c1d2920-960.webp",
+              "width": 960
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -5,6 +5,14 @@
 .tira-portadas::-webkit-scrollbar { display: none; }
 .categoria-portada { position: relative; min-width: 0; aspect-ratio: 706 / 1136; scroll-snap-align: start; color: white; background: #111; }
 .categoria-portada > img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
+.ventana-deportes { position: absolute; inset: 0; overflow: hidden; }
+.fotos-deportes { display: flex; height: 100%; transition: transform 400ms ease; }
+.foto-deporte { flex: 0 0 100%; min-width: 0; height: 100%; }
+.foto-deporte img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
+.indicadores-rotacion { position: absolute; bottom: 8px; left: 50%; transform: translateX(-50%); display: flex; }
+.indicadores-rotacion button { width: 24px; height: 32px; border: 0; padding: 8px; background: transparent; color: white; cursor: pointer; }
+.indicadores-rotacion span { display: block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff40; border: 1px solid #ffffff60; }
+.indicadores-rotacion button[aria-pressed="true"] span { background: white; }
 .texto-portada { position: absolute; inset: 61% 8px auto; text-align: center; }
 .texto-portada h2 { font-size: clamp(18px, 1.6vw, 24px); font-weight: 400; line-height: 1.15; text-transform: uppercase; margin: 0; }
 .texto-portada p { margin: 8px 0 0; font-size: clamp(13px, 1.1vw, 16px); line-height: 1.25; }
@@ -42,9 +50,23 @@
   .tira-destacados { grid-auto-columns: calc(100% - 32px); gap: 8px; padding-right: 16px; }
   .tarjeta-destacado h3 { margin-top: 12px; }
   .presentacion-equipo { padding-block: 32px 44px; }
+  .pagina-inicio .destacados-inicio { padding-bottom: 16px; }
+  .pagina-inicio .presentacion-equipo { padding-top: 16px; }
   .presentacion-oscura { padding-block: 36px 56px; }
   .imagen-institucional-movil { display: block; }
   .imagen-institucional-movil img { display: block; width: 100%; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .fotos-deportes { transition: none; }
+}
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .texto-portada { top: 56%; }
+  .pagina-categoria .portada-inicio .texto-portada { top: 58%; }
+  .accion-portada { margin-top: 20px; }
+}
+@media (min-width: 600px) and (max-width: 1023px) {
+  .pagina-inicio .texto-portada { top: 56%; }
+  .pagina-inicio .accion-portada { margin-top: 28px; }
 }
 @media (min-width: 600px) and (max-width: 1023px) {
   .tira-portadas { grid-auto-columns: calc((100% - 6px) / 2); }

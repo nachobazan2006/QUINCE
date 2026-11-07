@@ -16,8 +16,7 @@ function ElementoNavegacion({ item, onNavigate }) {
     <div className="fila-navegacion">
       {item.href ? <NavLink to={item.href} end={hijos.length === 0} onClick={() => {
         setAbierto(false); onNavigate?.();
-      }}>{item.label}</NavLink> : <span aria-disabled="true" className="enlace-pendiente"
-        title="Destino pendiente de confirmación">{item.label}</span>}
+      }}>{item.label}</NavLink> : <span aria-disabled="true" className="enlace-pendiente">{item.label}</span>}
       {hijos.length > 0 && <button type="button" className="abrir-submenu" aria-expanded={abierto}
         aria-controls={id} aria-label={`Subcategorías de ${item.label}`} onClick={() => setAbierto(!abierto)}>
         <span aria-hidden="true">⌄</span>

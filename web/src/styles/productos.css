@@ -1,7 +1,7 @@
 .tarjeta-producto { min-width: 0; scroll-snap-align: start; }
 .tarjeta-producto > a { display: block; color: inherit; text-decoration: none; }
 .tarjeta-producto img { display: block; width: 100%; aspect-ratio: 1792 / 2400; height: auto; object-fit: cover; }
-.tarjeta-producto h2, .tarjeta-producto h3 { font-weight: 400; font-size: 15px; line-height: 1.25; margin: 16px 0 6px; }
+.tarjeta-producto h2, .tarjeta-producto h3 { font-weight: 600; font-size: 15px; line-height: 1.25; margin: 16px 0 6px; }
 .tarjeta-producto p { color: #737373; font-size: 14px; margin: 0; }
 .grilla-productos { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 48px 40px; max-width: 1600px; margin-inline: auto; padding: 0 40px 96px; }
 .estado-coleccion { margin: 0 auto; padding: 0 40px 80px; max-width: 1600px; }
@@ -13,7 +13,7 @@
   .pagina-listado .cabecera-categoria { margin-bottom: 4px; }
   .pagina-listado .cabecera-categoria a { min-width: 16px; }
   .tarjeta-producto h2, .tarjeta-producto h3 { margin-top: 12px; }
-  .grilla-productos h2 { font-size: 15px; margin: 8px 0 4px; }
+  .grilla-productos h2 { font-size: 14px; margin: 8px 0 4px; }
   .grilla-productos .tarjeta-producto p { font-size: 14px; line-height: 1.25; }
   .estado-coleccion { padding-inline: 16px; }
 }

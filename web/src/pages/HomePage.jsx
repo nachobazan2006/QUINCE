@@ -15,7 +15,7 @@ export default function PaginaInicio() {
     <div className="pagina-inicio">
       <h1 className="solo-lectores">{datos.title}</h1>
       {datos.sections.map(seccion => seccion.type === 'categories'
-        ? <PortadaInicio key={seccion.id} principal categorias={seccion.categoryIds
+        ? <PortadaInicio key={seccion.id} principal rotacion={seccion.carousel} catalogo={catalogo.categories} categorias={seccion.categoryIds
           .map(id => catalogo.categories.find(categoria => categoria.id === id)).filter(Boolean)} />
         : ['institutional', 'contact'].includes(seccion.type) ? <PresentacionMarca key={seccion.id} datos={seccion} />
           : seccion.type === 'featured' ? <DataState key={seccion.id} state={productos}>{prendas => (

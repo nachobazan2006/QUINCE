@@ -1,0 +1,9 @@
+CATALOGO PENDIENTE - ESTADO ACTUAL
+
+Se conservan las 104 copias de fotos de la revision anterior en sus mismas ubicaciones.
+Luego de tus indicaciones se cargaron 20 fichas nuevas: ahora hay 73 productos en la web.
+Solo quedan 49 archivos originales sin publicar; algunas copias de esta carpeta ya estan cargadas.
+
+ESTADO-ACTUAL.md: clasificaciones y carga realizada.
+MOTIVOS-PENDIENTES.md: dudas actuales y tomas excluidas.
+No se movieron, eliminaron ni modificaron fotografias originales.
