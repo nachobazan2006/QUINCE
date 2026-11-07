@@ -1,0 +1,8 @@
+* { box-sizing: border-box; }
+/* Arial es un fallback provisional: no se entregó la fuente del diseñador. */
+body { margin: 0; font-family: Arial, sans-serif; line-height: 1.5; color: #111; background: #fff; }
+button { font: inherit; }
+.app-layout { min-height: 100svh; display: flex; flex-direction: column; }
+.contenido-provisional { flex: 1; padding-block: 32px 64px; overflow-wrap: anywhere; }
+img { max-width: 100%; height: auto; }
+:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }

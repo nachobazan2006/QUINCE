@@ -1,0 +1,71 @@
+{
+  "marca": {
+    "label": "QUINCE",
+    "image": {
+      "src": "images/logos/quince-provisional.png",
+      "width": 256,
+      "height": 171
+    }
+  },
+  "grupos": [
+    {
+      "id": "explora",
+      "label": "Explorá",
+      "items": [
+        {
+          "id": "sports",
+          "label": "Deportes",
+          "href": "/deportes"
+        },
+        {
+          "id": "fitness",
+          "label": "Fitness",
+          "href": null
+        },
+        {
+          "id": "urban",
+          "label": "Urbano",
+          "href": "/urbano"
+        },
+        {
+          "id": "institutions",
+          "label": "Instituciones",
+          "href": "/instituciones"
+        }
+      ]
+    },
+    {
+      "id": "quince",
+      "label": "Quince",
+      "items": [
+        {
+          "id": "about",
+          "label": "Nosotros",
+          "href": "/nosotros"
+        },
+        {
+          "id": "contact",
+          "label": "Contacto",
+          "href": null
+        }
+      ]
+    }
+  ],
+  "tituloRedes": "Seguinos",
+  "redes": [
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "href": null
+    },
+    {
+      "id": "facebook",
+      "label": "Facebook",
+      "href": null
+    }
+  ],
+  "copyright": [
+    "©2026 Quince",
+    "Todos los derechos reservados"
+  ]
+}

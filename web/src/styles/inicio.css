@@ -1,0 +1,57 @@
+.contenido-provisional:has(> .pagina-inicio), .contenido-provisional:has(> .pagina-categoria) { max-width: none; padding: 0; }
+.solo-lectores { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.portada-inicio { position: relative; max-width: 1600px; margin-inline: auto; }
+.tira-portadas { position: relative; display: grid; grid-auto-flow: column; grid-auto-columns: calc((100% - 18px) / 4); gap: 6px; padding-inline: 40px; overflow-x: auto; scrollbar-width: none; scroll-snap-type: x mandatory; scroll-padding-inline: 40px; }
+.tira-portadas::-webkit-scrollbar { display: none; }
+.categoria-portada { position: relative; min-width: 0; aspect-ratio: 706 / 1136; scroll-snap-align: start; color: white; background: #111; }
+.categoria-portada > img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
+.texto-portada { position: absolute; inset: 61% 8px auto; text-align: center; }
+.texto-portada h2 { font-size: clamp(18px, 1.6vw, 24px); font-weight: 400; line-height: 1.15; text-transform: uppercase; margin: 0; }
+.texto-portada p { margin: 8px 0 0; font-size: clamp(13px, 1.1vw, 16px); line-height: 1.25; }
+.enlace-accion { display: inline-flex; justify-content: center; align-items: center; padding: 10px 16px; min-height: 44px; border-radius: 999px; background: #000; color: #fff; text-decoration: none; font-size: 16px; line-height: 1.25; text-align: center; }
+.accion-portada { background: #ffffff1a; border: 1px solid #ffffff80; margin-top: 40px; font-size: 15px; }
+.accion-pendiente { cursor: default; }
+.indicadores-portada, .indicadores-escritorio { display: flex; justify-content: center; }
+.indicadores-portada { display: none; position: absolute; bottom: 8px; left: 16px; width: calc(100% - 48px); }
+.indicadores-portada button { width: 24px; height: 32px; border: 0; background: transparent; padding: 8px; color: white; cursor: pointer; }
+.indicadores-portada button span, .indicadores-escritorio span { display: block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff40; border: 1px solid #ffffff30; }
+.indicadores-portada button[aria-current] span, .indicadores-escritorio .actual { background: #fff; }
+.indicadores-escritorio { position: absolute; bottom: 16px; width: 100%; gap: 8px; }
+.presentacion-marca { background: #e6e6e6; text-align: center; padding: 64px 40px 76px; }
+.presentacion-marca h2 { margin: 0 0 12px; font: 400 22px/1.2 Impact, 'Arial Narrow', Arial, sans-serif; text-transform: uppercase; }
+.presentacion-marca p { margin: 0 auto 24px; max-width: 900px; font-size: 16px; line-height: 1.25; }
+.destacados-inicio { max-width: 1600px; margin-inline: auto; padding: 48px 40px 64px; }
+.destacados-inicio > h2 { font: 400 22px/1.2 Impact, 'Arial Narrow', Arial, sans-serif; text-transform: uppercase; margin: 0 0 20px; }
+.tira-destacados { display: grid; grid-auto-flow: column; grid-auto-columns: calc((100% - 72px) / 4); gap: 24px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
+.tira-destacados::-webkit-scrollbar { display: none; }
+.tarjeta-destacado { min-width: 0; scroll-snap-align: start; }
+.tarjeta-destacado img { display: block; width: 100%; aspect-ratio: 1792 / 2400; height: auto; object-fit: cover; }
+.tarjeta-destacado h3 { font-weight: 400; font-size: 15px; line-height: 1.25; margin: 16px 0 6px; }
+.tarjeta-destacado p { color: #777; font-size: 14px; margin: 0; }
+.presentacion-equipo { background: white; padding-block: 80px 132px; }
+.presentacion-oscura { background: black; color: white; padding-block: 80px 100px; }
+.presentacion-oscura .enlace-accion { background: white; color: black; }
+.imagen-institucional-movil { display: none; }
+@media (max-width: 1023px) {
+  .tira-portadas { grid-auto-columns: calc(100% - 16px); padding-inline: 16px; scroll-padding-inline: 16px; }
+  .indicadores-portada { display: flex; }
+  .indicadores-escritorio { display: none; }
+  .texto-portada h2 { font-size: 24px; }
+  .texto-portada p { font-size: 16px; }
+  .presentacion-marca { text-align: left; padding: 36px 16px; }
+  .presentacion-marca h2 { font-size: 20px; margin-bottom: 8px; }
+  .presentacion-marca p { margin: 0 0 16px; }
+  .destacados-inicio { padding: 44px 0 32px 16px; }
+  .destacados-inicio > h2 { font-size: 20px; }
+  .tira-destacados { grid-auto-columns: calc(100% - 32px); gap: 8px; padding-right: 16px; }
+  .tarjeta-destacado h3 { margin-top: 12px; }
+  .presentacion-equipo { padding-block: 32px 44px; }
+  .presentacion-oscura { padding-block: 36px 56px; }
+  .imagen-institucional-movil { display: block; }
+  .imagen-institucional-movil img { display: block; width: 100%; }
+}
+@media (min-width: 600px) and (max-width: 1023px) {
+  .tira-portadas { grid-auto-columns: calc((100% - 6px) / 2); }
+  .indicadores-portada { width: calc((100% - 38px) / 2); }
+  .tira-destacados { grid-auto-columns: calc((100% - 24px) / 2); }
+}

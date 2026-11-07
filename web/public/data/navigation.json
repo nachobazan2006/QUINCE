@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "id": "home",
+      "label": "Inicio",
+      "href": "/",
+      "children": []
+    },
+    {
+      "id": "sports",
+      "label": "Deportes",
+      "href": "/deportes",
+      "children": [
+        {
+          "id": "rugby",
+          "label": "Rugby-codexgay",
+          "href": "/deportes/rugby",
+          "children": []
+        },
+        {
+          "id": "hockey-femenino",
+          "label": "Hockey femenino",
+          "href": "/deportes/hockey-femenino",
+          "children": []
+        },
+        {
+          "id": "hockey-masculino",
+          "label": "Hockey masculino",
+          "href": "/deportes/hockey-masculino",
+          "children": []
+        },
+        {
+          "id": "futbol",
+          "label": "Fútbol",
+          "href": "/deportes/futbol",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "training",
+      "label": "Training",
+      "href": "/training",
+      "children": []
+    },
+    {
+      "id": "urban",
+      "label": "Urbano",
+      "href": "/urbano",
+      "children": []
+    },
+    {
+      "id": "institutions",
+      "label": "Instituciones",
+      "href": "/instituciones",
+      "children": []
+    },
+    {
+      "id": "about",
+      "label": "Nosotros",
+      "href": "/nosotros",
+      "children": []
+    }
+  ]
+}

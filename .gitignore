@@ -1,0 +1,9 @@
+# los originales se conservan localmente; el sitio usa las copias optimizadas
+/*.zip
+**/node_modules/
+**/dist/
+**/.DS_Store
+*.log
+.env
+.env.*
+!.env.example

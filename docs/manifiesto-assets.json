@@ -1,0 +1,738 @@
+{
+  "version": 1,
+  "herramienta": {
+    "sharp": "0.35.5",
+    "calidad": 84,
+    "esfuerzo": 6
+  },
+  "archivosOriginalesSha256": {
+    "pagina-web.quince.zip": "1e523ce80ea761f5040a029a9c9d952d783efa4f4b709864f695f95ec76bae96",
+    "fotos-finales-quince.zip": "70c83f6409ceffe5e70a69e18c39640a5f8d1e8e8961e83de73943c733bc2c8e"
+  },
+  "resumen": {
+    "seleccionadas": 21,
+    "variantes": 45,
+    "bytesOriginales": 29381794,
+    "bytesOptimizados": 1842988,
+    "reduccionPorcentaje": 93.73
+  },
+  "recursos": [
+    {
+      "id": "r017",
+      "rutaOriginal": "pagina-web.quince.zip::PAGINA WEB QUINCE/PORTADAS QUINCE/DEPORTES.jpg",
+      "tipo": "portadas",
+      "seccion": "Home",
+      "estadoIdentificacion": "alto",
+      "clave": "4dc3ce03c7b9ab49bdbd2c5611bf35036b3a25f44125a595053418e0b1d6d5cc",
+      "original": {
+        "ancho": 706,
+        "alto": 1136,
+        "formato": "jpeg",
+        "bytes": 617345,
+        "sha256": "cbd3cfcc21856bfb1cec39890cb1c1a16ccfaa5e312522bed631b500a96d914f"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/portadas/deportes-480.webp",
+          "ancho": 480,
+          "alto": 772,
+          "formato": "webp",
+          "bytes": 39190,
+          "sha256": "b600c793b239f99197dc6bf269107e09a69dc56af09f4546c06c072e9b84d66d"
+        },
+        {
+          "rutaPublica": "images/portadas/deportes-706.webp",
+          "ancho": 706,
+          "alto": 1136,
+          "formato": "webp",
+          "bytes": 66012,
+          "sha256": "f82465eb3ea1bdbb081c72a86f7dd379286c5a90fdc8ca06929112f681ef48f7"
+        }
+      ]
+    },
+    {
+      "id": "r029",
+      "rutaOriginal": "pagina-web.quince.zip::PAGINA WEB QUINCE/PORTADAS QUINCE/TRAINING.jpg",
+      "tipo": "portadas",
+      "seccion": "Home desktop",
+      "estadoIdentificacion": "alto",
+      "clave": "5b0afe523b40f17abcdb8c1951fb49eea7b3ac6a1de77d4924de0b6165b07fd6",
+      "original": {
+        "ancho": 703,
+        "alto": 1136,
+        "formato": "jpeg",
+        "bytes": 384796,
+        "sha256": "d82ac3eccce24905776b2b9406acf3a1804f46c60448a346b725aaff03a5693a"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/portadas/training-480.webp",
+          "ancho": 480,
+          "alto": 776,
+          "formato": "webp",
+          "bytes": 15700,
+          "sha256": "8e8b291cdb22975760eab057482998c29e968822ce22c0b491fa0378893c4d05"
+        },
+        {
+          "rutaPublica": "images/portadas/training-703.webp",
+          "ancho": 703,
+          "alto": 1136,
+          "formato": "webp",
+          "bytes": 25790,
+          "sha256": "5c21f74472ffb79bc79aa02ea23a4d8de21079faeec5e2878ab58979c74e06ed"
+        }
+      ]
+    },
+    {
+      "id": "r031",
+      "rutaOriginal": "pagina-web.quince.zip::PAGINA WEB QUINCE/PORTADAS QUINCE/URBANO.jpg",
+      "tipo": "portadas",
+      "seccion": "Home desktop",
+      "estadoIdentificacion": "alto",
+      "clave": "f4fb6bb4b915b7decb8ac37e2edf258a894452a96f6748da47be8d2dddacc3de",
+      "original": {
+        "ancho": 703,
+        "alto": 1136,
+        "formato": "jpeg",
+        "bytes": 529299,
+        "sha256": "b02c9205b049fb67ed49fc456d4ef8e935243dde3b715df470fe0ce110375b9d"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/portadas/urbano-480.webp",
+          "ancho": 480,
+          "alto": 776,
+          "formato": "webp",
+          "bytes": 16056,
+          "sha256": "a63ca44642b880e44ef500622f5aab7d499f3be7b2155898e10f4e772ab118f6"
+        },
+        {
+          "rutaPublica": "images/portadas/urbano-703.webp",
+          "ancho": 703,
+          "alto": 1136,
+          "formato": "webp",
+          "bytes": 30488,
+          "sha256": "6ba2b9a64f4da578fda760716ef9433aee05cff80cae5b05ac03097638891fd9"
+        }
+      ]
+    },
+    {
+      "id": "r023",
+      "rutaOriginal": "pagina-web.quince.zip::PAGINA WEB QUINCE/PORTADAS QUINCE/INTITUCIONES.jpg",
+      "tipo": "portadas",
+      "seccion": "Home desktop",
+      "estadoIdentificacion": "alto",
+      "clave": "5482746b8ba61c1995e1ebb3689024f9d861de17dd6f17e18689e04d2bdee856",
+      "original": {
+        "ancho": 705,
+        "alto": 1136,
+        "formato": "jpeg",
+        "bytes": 421241,
+        "sha256": "6f175fde6c0745ee3a5df06c0def7761d06a15e312c1e5f73d5cfe0ab35649f1"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/portadas/instituciones-480.webp",
+          "ancho": 480,
+          "alto": 773,
+          "formato": "webp",
+          "bytes": 15646,
+          "sha256": "4c940b22acd73621e115e69465c0d65af5b889814777230388685052f6276efc"
+        },
+        {
+          "rutaPublica": "images/portadas/instituciones-705.webp",
+          "ancho": 705,
+          "alto": 1136,
+          "formato": "webp",
+          "bytes": 29396,
+          "sha256": "e5aa0b3f452df10223d84c8a865d9e912c01d754ec9e0affe1df6412befac6e2"
+        }
+      ]
+    },
+    {
+      "id": "r026",
+      "rutaOriginal": "pagina-web.quince.zip::PAGINA WEB QUINCE/PORTADAS QUINCE/RUGBY.jpg",
+      "tipo": "categorias",
+      "seccion": "Deportes",
+      "estadoIdentificacion": "alto",
+      "clave": "3e8f72d66d751ddd0aeecc90f1263c72aa7dd1cb61a007f8cb4b57ca54be4e3c",
+      "original": {
+        "ancho": 638,
+        "alto": 1028,
+        "formato": "jpeg",
+        "bytes": 419140,
+        "sha256": "f6596060f0bc2d1b7e1009ed33a8ad7be9b807f32ef8ca08477f57dcef40ea4b"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/categorias/rugby-480.webp",
+          "ancho": 480,
+          "alto": 773,
+          "formato": "webp",
+          "bytes": 22756,
+          "sha256": "a1d7a7ea3f14eb52d23f1374dff8cdd28134419e75699611be4c791258ab470e"
+        },
+        {
+          "rutaPublica": "images/categorias/rugby-638.webp",
+          "ancho": 638,
+          "alto": 1028,
+          "formato": "webp",
+          "bytes": 33512,
+          "sha256": "612f1c1b19b6d5be8c6fb2af8eedcf6631fde0a42f3a741b42d9b8c51f9362ce"
+        }
+      ]
+    },
+    {
+      "id": "r021",
+      "rutaOriginal": "pagina-web.quince.zip::PAGINA WEB QUINCE/PORTADAS QUINCE/HOCKE FEM.jpg",
+      "tipo": "categorias",
+      "seccion": "Deportes desktop",
+      "estadoIdentificacion": "alto",
+      "clave": "aa687e2ceec5916ccd4365658aa1f6bea740f874e844c6291726ed62e22f2ed0",
+      "original": {
+        "ancho": 638,
+        "alto": 1028,
+        "formato": "jpeg",
+        "bytes": 451864,
+        "sha256": "40d385b798be5baff29e4aa3d595352242e025c2d1511fc0d96cd0e3abde2135"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/categorias/hockey-femenino-480.webp",
+          "ancho": 480,
+          "alto": 773,
+          "formato": "webp",
+          "bytes": 24608,
+          "sha256": "22204a67001d9942da7d33f986ef00c9fc797da025e345c2965ac2602df94b6d"
+        },
+        {
+          "rutaPublica": "images/categorias/hockey-femenino-638.webp",
+          "ancho": 638,
+          "alto": 1028,
+          "formato": "webp",
+          "bytes": 35772,
+          "sha256": "f0aacadc20ad57986fa53a5e5560ef0b9fedc92d2fdb88a27f157bbb852fe4bd"
+        }
+      ]
+    },
+    {
+      "id": "r022",
+      "rutaOriginal": "pagina-web.quince.zip::PAGINA WEB QUINCE/PORTADAS QUINCE/HOCKEY MASC.jpg",
+      "tipo": "categorias",
+      "seccion": "Deportes desktop",
+      "estadoIdentificacion": "alto",
+      "clave": "2cb5e18e34f87302f15580042e3dca518067bde7ed9e340b2d0af9ca3ecdd94c",
+      "original": {
+        "ancho": 638,
+        "alto": 1028,
+        "formato": "jpeg",
+        "bytes": 415077,
+        "sha256": "a46cc8770a1e54e0967baa2614a4ab996c4ab24570187572b03fa2e79f5d210e"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/categorias/hockey-masculino-480.webp",
+          "ancho": 480,
+          "alto": 773,
+          "formato": "webp",
+          "bytes": 22446,
+          "sha256": "57b1ae3ad5de13288f334debc51a3dd64a78ecab5b47ffe4e4d93fcb87d14af1"
+        },
+        {
+          "rutaPublica": "images/categorias/hockey-masculino-638.webp",
+          "ancho": 638,
+          "alto": 1028,
+          "formato": "webp",
+          "bytes": 33054,
+          "sha256": "ac50a327f0f27bac9dc65ec28b7e2d8e616ad2eb1c07015db5b1b2aa1b527c89"
+        }
+      ]
+    },
+    {
+      "id": "r019",
+      "rutaOriginal": "pagina-web.quince.zip::PAGINA WEB QUINCE/PORTADAS QUINCE/FUTBOL.jpg",
+      "tipo": "categorias",
+      "seccion": "Deportes desktop",
+      "estadoIdentificacion": "alto",
+      "clave": "3be9186dccebb06d8fb62882fb51a3231343b2eeb7ee8874bd343267be7b0d06",
+      "original": {
+        "ancho": 636,
+        "alto": 1028,
+        "formato": "jpeg",
+        "bytes": 402795,
+        "sha256": "5ec6b052ba431e818b59f7c75c0c25441937f6bfaad4fc4d99ebf08a3222554a"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/categorias/futbol-480.webp",
+          "ancho": 480,
+          "alto": 776,
+          "formato": "webp",
+          "bytes": 21208,
+          "sha256": "172b7d8b9aec84e613ceec071ba1b6bb8275f979235607fc4f68ca6cd10dad7a"
+        },
+        {
+          "rutaPublica": "images/categorias/futbol-636.webp",
+          "ancho": 636,
+          "alto": 1028,
+          "formato": "webp",
+          "bytes": 31530,
+          "sha256": "755158d836a9f21898186c70bba2c7eca3ba1655ef4aef0aca7193f02f62e59a"
+        }
+      ]
+    },
+    {
+      "id": "r028",
+      "rutaOriginal": "pagina-web.quince.zip::PAGINA WEB QUINCE/PORTADAS QUINCE/Sportswear_product_macro_photograph_2K_20260914164545 1.jpg",
+      "tipo": "institucional",
+      "seccion": "Home mobile",
+      "estadoIdentificacion": "alto",
+      "clave": "2d9ae116b70056b4e3590522acf38950b555e1a0d113f9cba2095ff5787819ec",
+      "original": {
+        "ancho": 786,
+        "alto": 542,
+        "formato": "jpeg",
+        "bytes": 522093,
+        "sha256": "65beb3537ad9d035bdcbdc197537b533c2910839c93baf84c60065c610d7402a"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/institucional/chomba-macro-480.webp",
+          "ancho": 480,
+          "alto": 331,
+          "formato": "webp",
+          "bytes": 29298,
+          "sha256": "a447023434c2baaab22e217528e58243c2f6b5a280da8fff5a8332b1b77df8d8"
+        },
+        {
+          "rutaPublica": "images/institucional/chomba-macro-786.webp",
+          "ancho": 786,
+          "alto": 542,
+          "formato": "webp",
+          "bytes": 91890,
+          "sha256": "44c8f3dc2af36e87882cd822f11c019b9b8fae085555438d75560843e9fda9ab"
+        }
+      ]
+    },
+    {
+      "id": "p062",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA FUTBOL AIR FIT/Create_a_highly_photorealistic_professional_2K_20260911154014.jpeg",
+      "tipo": "productos",
+      "seccion": "Destacados",
+      "estadoIdentificacion": "alto",
+      "clave": "5b23e2519b5ffcf333d53db1f1ad80d31fd3216eff5207b05da4627569b8e985",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 2206023,
+        "sha256": "0a73aac92899ddab5305b18c925bc144e4c40617257127347491c008eed1c734"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/camiseta-futbol-roja-frente-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 25350,
+          "sha256": "e69676dad367208a70dd554b96ff50007a624f3663b1309bae66ca9d219dedbd"
+        },
+        {
+          "rutaPublica": "images/productos/camiseta-futbol-roja-frente-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 70660,
+          "sha256": "6f853e3ba74b3d7302fe6fe65ecfd3462b3fb03a17f3d4ae2030e8b38ab88c53"
+        }
+      ]
+    },
+    {
+      "id": "p002",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/BERMUDA C_ CORTE URBAN/Man_wearing_athletic_shorts_2K_20260914162017.jpeg",
+      "tipo": "productos",
+      "seccion": "Destacados",
+      "estadoIdentificacion": "alto",
+      "clave": "4fdbc5b857444a0e8f294eaa5361e2a069005a26cc8dc992e6260f1c4a442a7f",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 2139384,
+        "sha256": "6b98f4020ff080f68ad6ae4aafd3d3dfafc39d0526b560f8b1a59052a39ef63e"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/bermuda-gris-frente-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 14986,
+          "sha256": "4a70a07f6f70dc414284bd6dc6eec708aa3f8edd187e0a79bd81c5ca65e3c7d7"
+        },
+        {
+          "rutaPublica": "images/productos/bermuda-gris-frente-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 49782,
+          "sha256": "9a614238920e39971fe7cea1ccc1ad8af215c09b301119f4cf526a94fb92853c"
+        }
+      ]
+    },
+    {
+      "id": "p098",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY OLDIES/Model_wearing_product_in_studio_2K_20260911153024.jpeg",
+      "tipo": "productos",
+      "seccion": "Detalle y Rugby",
+      "estadoIdentificacion": "alto",
+      "clave": "9633646760aaba4749aabee9d84b7159afaa43e9fe190f16111c903f5d992177",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 1981963,
+        "sha256": "05b8393450cc39aed7cb7b7022da97504aec0c3154b32ed197c7a0c91b665070"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/camiseta-celeste-frente-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 21600,
+          "sha256": "7671373dcdaa4f41869b392413b767b7f72b8a387cf22acf35f9ca43b039b98a"
+        },
+        {
+          "rutaPublica": "images/productos/camiseta-celeste-frente-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 56614,
+          "sha256": "5ee2cf8e96bfd8111a32267621631376496feddc8cccb96746e725a1c114f408"
+        },
+        {
+          "rutaPublica": "images/productos/camiseta-celeste-frente-1600.webp",
+          "ancho": 1600,
+          "alto": 2143,
+          "formato": "webp",
+          "bytes": 115660,
+          "sha256": "2f7ac6f4cd72c8cc71ea9e93f8464e76764ba5c5d4a740645c977f2a79f55d29"
+        }
+      ]
+    },
+    {
+      "id": "p092",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY BODY/Create_a_highly_photorealistic_professional_2K_20260911152842.jpeg",
+      "tipo": "productos",
+      "seccion": "Rugby",
+      "estadoIdentificacion": "alto",
+      "clave": "3cefc2e4da3093ebf1a4d937961e9861f60cfae09a9bab963678120682f037de",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 2253554,
+        "sha256": "a5443edbc025d314ed05fab740a786abb1d3dbf5376319a26d74dfa36d64dcd7"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/camiseta-verde-frente-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 23074,
+          "sha256": "b3fec2d0b3003bbe09b7f619a8ac745bad9aa299b49df5ab50b51c2e1ee99bf5"
+        },
+        {
+          "rutaPublica": "images/productos/camiseta-verde-frente-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 67538,
+          "sha256": "befef261dd3eda41c0196ade1057eea45e6d283d41e63552c301f2b22ec67b51"
+        }
+      ]
+    },
+    {
+      "id": "p276",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/SHORT RUGBY SHANE/Man_wearing_athletic_shorts_2K_20260911160012.jpeg",
+      "tipo": "productos",
+      "seccion": "Rugby",
+      "estadoIdentificacion": "alto",
+      "clave": "6a8ac932454575093dd986429b4e7498001ed8e6ecc03da1c3120e54e264d7ed",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 1925318,
+        "sha256": "f4b30e719289b80e420d56ca3d6b8ecd14f123d07e1a348e7fde2065ee057989"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/short-blanco-frente-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 14382,
+          "sha256": "4b19073f14c7f50914577f5a2ec65ae83389fa709ac73c99adbe10fadb184ceb"
+        },
+        {
+          "rutaPublica": "images/productos/short-blanco-frente-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 40878,
+          "sha256": "51f7607313405b2c6d9472bd2dbe77e15344c6c846be29036eeb5f1febd52910"
+        }
+      ]
+    },
+    {
+      "id": "p272",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/SHORT RUGBY DURBAN/E-commerce_photography_of_athlet…_2K_20260914154413.jpeg",
+      "tipo": "productos",
+      "seccion": "Rugby",
+      "estadoIdentificacion": "alto",
+      "clave": "ec463a39460dfb5f11afd8cb108b1b04ad166749297a61697de3698657c05db4",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 1888824,
+        "sha256": "00c0dd86a3440990dbb0c1e666a7c8163bfc156686a07c6f37f11f2e285614e8"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/short-negro-frente-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 12670,
+          "sha256": "bfacfa23088423d1b8e82fe226cee54917f7e9e59ac41daa5ff4fa85ea84a5cc"
+        },
+        {
+          "rutaPublica": "images/productos/short-negro-frente-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 36850,
+          "sha256": "cfe72790fc415ddbdaad914a23fd4a4e462c0f811a56a035692b979298a443b8"
+        }
+      ]
+    },
+    {
+      "id": "p277",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/SHORT RUGBY WAVE/Man_modeling_athletic_shorts_2K_20260911155856.jpeg",
+      "tipo": "productos",
+      "seccion": "Rugby",
+      "estadoIdentificacion": "alto",
+      "clave": "3dbeec6413849d2714eeaa792ba31c98896b6cece384124957848a5702f46488",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 2085533,
+        "sha256": "66d89c7cc8f31993bb11e587e94399fc283fa8cd7c8352dde40c1694c47f23b3"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/short-azul-frente-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 15980,
+          "sha256": "25a4dc2ceb3ae7e0fd2fc568328677c178c2b1ccf34b77c63f84f0ebf76b355f"
+        },
+        {
+          "rutaPublica": "images/productos/short-azul-frente-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 44184,
+          "sha256": "a7edd21692dfb72029db6a8ad1e806bcab8975fd6178e53f24d6c6700b2c8fcf"
+        }
+      ]
+    },
+    {
+      "id": "p163",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/MEDIAS LARGAS/Athlete_wearing_football_socks_2K_20260917102631.jpeg",
+      "tipo": "productos",
+      "seccion": "Rugby",
+      "estadoIdentificacion": "alto",
+      "clave": "04fc7ae89797e727786c2e7429f964d245b4e2c4ebb039414384c4f806d51d9d",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 2405821,
+        "sha256": "f25ea13945d94fda2dab3ef60add124c55f915fcda14e880860b4013b5c0e132"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/medias-negras-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 13694,
+          "sha256": "cf80a011ece28e3a745bdd20913d15885aff4a0267bc8fe9919b0b6b721db2aa"
+        },
+        {
+          "rutaPublica": "images/productos/medias-negras-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 83952,
+          "sha256": "1889aa1324f668c75892e13b99fdfcab7e100c83208dd09d75ad7bc3419fecc2"
+        }
+      ]
+    },
+    {
+      "id": "p097",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY OLDIES/Male_model_wearing_garment_back_2K_20260911153017.jpeg",
+      "tipo": "productos",
+      "seccion": "Detalle desktop",
+      "estadoIdentificacion": "alto",
+      "clave": "820bfed69890bd54ace86c1224ec909bb208167cc1285766144799ca8288795a",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 2231813,
+        "sha256": "88badfb7ca1f41c114b0426f656a7f49c4c5351d748cf8c9361c8062ff9ed577"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/camiseta-celeste-dorso-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 23010,
+          "sha256": "93405fef12832ed36fc2a8d1dfcb102ba60fb71acc6e8e0f0969f4a018bc0160"
+        },
+        {
+          "rutaPublica": "images/productos/camiseta-celeste-dorso-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 63708,
+          "sha256": "640faef0ca6276ce8cfa3d848b00ea5287b4c87844ce8a2be138cb32c1fcf2bf"
+        },
+        {
+          "rutaPublica": "images/productos/camiseta-celeste-dorso-1600.webp",
+          "ancho": 1600,
+          "alto": 2143,
+          "formato": "webp",
+          "bytes": 157636,
+          "sha256": "67d33368c5c54d7772bafd08c3e68928eba7587244ab6fdcddfd2990306dae72"
+        }
+      ]
+    },
+    {
+      "id": "p096",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY OLDIES/Garment_product_presentation_gen…_2K_20260911153029.jpeg",
+      "tipo": "productos",
+      "seccion": "Detalle desktop",
+      "estadoIdentificacion": "alto",
+      "clave": "0aa9732fb08d44b1dc45342bbf6e7d503f87f1060daebeab8458134722c6e7f3",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 1965879,
+        "sha256": "c2119c9dfd53f2f0abbf174039dd3305f448132da3b9a982d156974013189f18"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/camiseta-celeste-sin-modelo-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 17098,
+          "sha256": "3ae983bbc09ecc56c36cb093024882fb604018bd35127a95df556c4174c4338c"
+        },
+        {
+          "rutaPublica": "images/productos/camiseta-celeste-sin-modelo-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 43104,
+          "sha256": "18c834191e1bd9abf580b6ef500f8fc44179a001bea8ed8420ab3ca315e436f3"
+        },
+        {
+          "rutaPublica": "images/productos/camiseta-celeste-sin-modelo-1600.webp",
+          "ancho": 1600,
+          "alto": 2143,
+          "formato": "webp",
+          "bytes": 90750,
+          "sha256": "823241a988c0f6388c207fa390203de3cf2293f86e6a3bd5bc2ab85f8c1f47e5"
+        }
+      ]
+    },
+    {
+      "id": "p086",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA FORCE/Woman_wearing_sportswear_garment…_2K_20260911165831.jpeg",
+      "tipo": "productos",
+      "seccion": "Destacados Home y Deportes",
+      "estadoIdentificacion": "alto",
+      "clave": "b4cd5d2f7afddb29960002e5ad8a952615c51b9f2e820b7d13511b7c18308173",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 1914577,
+        "sha256": "3c9aaaf341567499b2eb7ecf8d094dad20e137b08494320d4331d05938750da1"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/camiseta-hockey-force-frente-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 20204,
+          "sha256": "dcebb3407792218b467e05bf19201075fefaea24af98edafd96bd9a4ca6b8f0d"
+        },
+        {
+          "rutaPublica": "images/productos/camiseta-hockey-force-frente-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 58070,
+          "sha256": "91deacf256fe364dc6273dadf703e99c7c0267536a6e6372a3ea4296d5bed199"
+        }
+      ]
+    },
+    {
+      "id": "p198",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE/Modelo_levantando_pollera_y_most…_2K_20260911170912.jpeg",
+      "tipo": "productos",
+      "seccion": "Destacados Home y Deportes",
+      "estadoIdentificacion": "alto",
+      "clave": "8b962fea15cf24fa19e19c42aae3ac01d05661090932475ebae40c0654dd0735",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 2219455,
+        "sha256": "f76851dcfb6838403b2232b393ab2a12a88c2899ed8f966188e595be72a76faf"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/pollera-roja-con-calza-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 18726,
+          "sha256": "1107d13fe91c1c62e6f1a8de9e79d0eecd7229828cfdf77a571ce92d333c5d2c"
+        },
+        {
+          "rutaPublica": "images/productos/pollera-roja-con-calza-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 58476,
+          "sha256": "043581907addfea3dfac5275631eb21ca13e2ec0f107f877bf807c7074627b68"
+        }
+      ]
+    }
+  ]
+}

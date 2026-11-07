@@ -1,0 +1,159 @@
+{
+  "title": "QUINCE",
+  "sections": [
+    {
+      "id": "portada",
+      "type": "categories",
+      "categoryIds": [
+        "sports",
+        "training",
+        "urban",
+        "institutions"
+      ]
+    },
+    {
+      "id": "presentacion",
+      "type": "institutional",
+      "heading": "TU EQUIPO. TU INDUMENTARIA",
+      "body": "Diseñamos prendas personalizadas para acompañarte dentro y fuera de la cancha.",
+      "action": {
+        "label": "Conocé Quince",
+        "href": "/nosotros"
+      }
+    },
+    {
+      "id": "destacados",
+      "type": "featured",
+      "heading": "DESTACADOS",
+      "items": [
+        {
+          "id": "destacado-air-fit",
+          "name": "Camiseta Fútbol Air Fit",
+          "categoryId": "sports",
+          "image": {
+            "src": "images/productos/camiseta-futbol-roja-frente-960.webp",
+            "alt": "Modelo con camiseta roja de fútbol Air Fit",
+            "width": 960,
+            "height": 1286,
+            "variants": [
+              {
+                "src": "images/productos/camiseta-futbol-roja-frente-480.webp",
+                "width": 480
+              },
+              {
+                "src": "images/productos/camiseta-futbol-roja-frente-960.webp",
+                "width": 960
+              }
+            ]
+          }
+        },
+        {
+          "id": "destacado-force",
+          "name": "Camiseta Hockey Force",
+          "categoryId": "sports",
+          "image": {
+            "src": "images/productos/camiseta-hockey-force-frente-960.webp",
+            "alt": "Modelo de frente con camiseta Hockey Force blanca y azul",
+            "width": 960,
+            "height": 1286,
+            "variants": [
+              {
+                "src": "images/productos/camiseta-hockey-force-frente-480.webp",
+                "width": 480
+              },
+              {
+                "src": "images/productos/camiseta-hockey-force-frente-960.webp",
+                "width": 960
+              }
+            ]
+          }
+        },
+        {
+          "id": "destacado-pollera",
+          "name": "Pollera Hockey con Calza",
+          "categoryId": "sports",
+          "image": {
+            "src": "images/productos/pollera-roja-con-calza-960.webp",
+            "alt": "Pollera roja de hockey levantada para mostrar la calza",
+            "width": 960,
+            "height": 1286,
+            "variants": [
+              {
+                "src": "images/productos/pollera-roja-con-calza-480.webp",
+                "width": 480
+              },
+              {
+                "src": "images/productos/pollera-roja-con-calza-960.webp",
+                "width": 960
+              }
+            ]
+          }
+        },
+        {
+          "id": "destacado-bermuda",
+          "name": "Bermuda c/corte Urban",
+          "categoryId": "urban",
+          "image": {
+            "src": "images/productos/bermuda-gris-frente-960.webp",
+            "alt": "Bermuda gris Urban con cordón blanco",
+            "width": 960,
+            "height": 1286,
+            "variants": [
+              {
+                "src": "images/productos/bermuda-gris-frente-480.webp",
+                "width": 480
+              },
+              {
+                "src": "images/productos/bermuda-gris-frente-960.webp",
+                "width": 960
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "equipo",
+      "type": "institutional",
+      "heading": "HACEMOS TU EQUIPO",
+      "body": "Diseñamos indumentaria personalizada para clubes, colegios, empresas e instituciones.",
+      "action": {
+        "label": "Cotizar mi equipo",
+        "href": null
+      }
+    },
+    {
+      "id": "macro",
+      "type": "image",
+      "image": {
+        "src": "images/institucional/chomba-macro-786.webp",
+        "alt": "Detalle de chomba blanca con bordado QUINCE y puma rojo",
+        "width": 786,
+        "height": 542,
+        "variants": [
+          {
+            "src": "images/institucional/chomba-macro-480.webp",
+            "width": 480
+          },
+          {
+            "src": "images/institucional/chomba-macro-786.webp",
+            "width": 786
+          }
+        ]
+      },
+      "visibility": "mobile"
+    },
+    {
+      "id": "contacto",
+      "type": "contact",
+      "variant": "dark",
+      "heading": "CONTANOS QUÉ NECESITÁS",
+      "body": "Diseñamos una propuesta a medida para vos.",
+      "action": {
+        "label": "Hablemos",
+        "href": null
+      }
+    }
+  ],
+  "featuredProductIds": []
+}
