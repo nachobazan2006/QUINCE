@@ -24,93 +24,7 @@
     {
       "id": "destacados",
       "type": "featured",
-      "heading": "DESTACADOS",
-      "items": [
-        {
-          "id": "destacado-air-fit",
-          "name": "Camiseta Fútbol Air Fit",
-          "categoryId": "sports",
-          "image": {
-            "src": "images/productos/camiseta-futbol-roja-frente-960.webp",
-            "alt": "Modelo con camiseta roja de fútbol Air Fit",
-            "width": 960,
-            "height": 1286,
-            "variants": [
-              {
-                "src": "images/productos/camiseta-futbol-roja-frente-480.webp",
-                "width": 480
-              },
-              {
-                "src": "images/productos/camiseta-futbol-roja-frente-960.webp",
-                "width": 960
-              }
-            ]
-          }
-        },
-        {
-          "id": "destacado-force",
-          "name": "Camiseta Hockey Force",
-          "categoryId": "sports",
-          "image": {
-            "src": "images/productos/camiseta-hockey-force-frente-960.webp",
-            "alt": "Modelo de frente con camiseta Hockey Force blanca y azul",
-            "width": 960,
-            "height": 1286,
-            "variants": [
-              {
-                "src": "images/productos/camiseta-hockey-force-frente-480.webp",
-                "width": 480
-              },
-              {
-                "src": "images/productos/camiseta-hockey-force-frente-960.webp",
-                "width": 960
-              }
-            ]
-          }
-        },
-        {
-          "id": "destacado-pollera",
-          "name": "Pollera Hockey con Calza",
-          "categoryId": "sports",
-          "image": {
-            "src": "images/productos/pollera-roja-con-calza-960.webp",
-            "alt": "Pollera roja de hockey levantada para mostrar la calza",
-            "width": 960,
-            "height": 1286,
-            "variants": [
-              {
-                "src": "images/productos/pollera-roja-con-calza-480.webp",
-                "width": 480
-              },
-              {
-                "src": "images/productos/pollera-roja-con-calza-960.webp",
-                "width": 960
-              }
-            ]
-          }
-        },
-        {
-          "id": "destacado-bermuda",
-          "name": "Bermuda c/corte Urban",
-          "categoryId": "urban",
-          "image": {
-            "src": "images/productos/bermuda-gris-frente-960.webp",
-            "alt": "Bermuda gris Urban con cordón blanco",
-            "width": 960,
-            "height": 1286,
-            "variants": [
-              {
-                "src": "images/productos/bermuda-gris-frente-480.webp",
-                "width": 480
-              },
-              {
-                "src": "images/productos/bermuda-gris-frente-960.webp",
-                "width": 960
-              }
-            ]
-          }
-        }
-      ]
+      "heading": "DESTACADOS"
     },
     {
       "id": "equipo",
@@ -155,5 +69,10 @@
       }
     }
   ],
-  "featuredProductIds": []
+  "featuredProductIds": [
+    "camiseta-futbol-air-fit",
+    "camiseta-hockey-force",
+    "pollera-hockey-con-calza",
+    "bermuda-c-corte-urban"
+  ]
 }

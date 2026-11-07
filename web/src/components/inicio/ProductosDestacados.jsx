@@ -1,7 +1,8 @@
 import { useRef } from 'react';
-import ImagenAdaptable from '../common/ImagenAdaptable.jsx';
+import TarjetaProducto from '../productos/TarjetaProducto.jsx';
+import { obtenerCategoriaPrincipal } from '../../services/catalogo.js';
 
-export default function ProductosDestacados({ datos, categorias }) {
+export default function ProductosDestacados({ datos, categorias, productos, ids }) {
   const lista = useRef(null);
   function avanzar(direccion) {
     // avanzamos una tarjeta, sin duplicar productos ni armar un carrusel infinito
@@ -16,11 +17,10 @@ export default function ProductosDestacados({ datos, categorias }) {
       if (event.target !== event.currentTarget || !['ArrowRight', 'ArrowLeft'].includes(event.key)) return;
       event.preventDefault(); avanzar(event.key === 'ArrowRight' ? 1 : -1);
     }}>
-      {datos.items.map(item => <article className="tarjeta-destacado" key={item.id}>
-        <ImagenAdaptable imagen={item.image} sizes="(min-width: 1024px) 25vw, (min-width: 600px) 50vw, 90vw" />
-        <h3>{item.name}</h3>
-        <p>{categorias.find(categoria => categoria.id === item.categoryId)?.name}</p>
-      </article>)}
+      {ids.map(id => productos.find(producto => producto.id === id)).filter(Boolean).map(producto => (
+        <TarjetaProducto key={producto.id} producto={producto} categoria={obtenerCategoriaPrincipal(producto, categorias)}
+          className="tarjeta-destacado" sizes="(min-width: 1024px) 25vw, (min-width: 600px) 50vw, 90vw" />
+      ))}
     </div>
   </section>;
 }

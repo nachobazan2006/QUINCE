@@ -1,5 +1,7 @@
 # QUINCE — Optimización de imágenes (Prompt 3)
 
+Actualización Prompt 8: el proceso reproducible se amplió a 25 fuentes/53 WebP tras verificar cuatro tomas de Rugby; los originales y la estrategia de tamaños no cambiaron. Se añadieron ocho variantes y se reutilizaron las 45 previas. Ver el manifiesto vigente y [listados-productos.md](listados-productos.md). El resto de este documento registra las mediciones originales del Prompt 3.
+
 ## Alcance y selección
 
 El inventario de Fase 1 examinó 304 imágenes: 274 fotografías de catálogo, 19 portadas verticales, una macro horizontal y 10 capturas de pantallas. Los originales siguen dentro de los dos ZIP de la raíz; no hay una carpeta fotográfica extraída independiente. Se consultaron las referencias, el inventario y el mapeo; se volvieron a visualizar las referencias/portadas y una muestra de las copias preparadas.

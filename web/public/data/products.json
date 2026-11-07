@@ -1,1 +1,375 @@
-{ "products": [] }
+{
+    "products":  [
+                     {
+                         "id":  "camiseta-rugby-oldies",
+                         "slug":  "camiseta-rugby-oldies",
+                         "name":  "Camiseta Rugby Oldies",
+                         "categoryIds":  [
+                                             "rugby"
+                                         ],
+                         "image":  {
+                                       "src":  "images/productos/camiseta-celeste-listado-960.webp",
+                                       "alt":  "Modelo de frente con camiseta celeste Rugby XV",
+                                       "width":  960,
+                                       "height":  1286,
+                                       "variants":  [
+                                                        {
+                                                            "src":  "images/productos/camiseta-celeste-listado-480.webp",
+                                                            "width":  480
+                                                        },
+                                                        {
+                                                            "src":  "images/productos/camiseta-celeste-listado-960.webp",
+                                                            "width":  960
+                                                        }
+                                                    ]
+                                   },
+                         "gallery":  [
+                                         {
+                                             "src":  "images/productos/camiseta-celeste-frente-960.webp",
+                                             "alt":  "Modelo de frente con camiseta celeste Rugby XV",
+                                             "width":  960,
+                                             "height":  1286,
+                                             "variants":  [
+                                                              {
+                                                                  "src":  "images/productos/camiseta-celeste-frente-480.webp",
+                                                                  "width":  480
+                                                              },
+                                                              {
+                                                                  "src":  "images/productos/camiseta-celeste-frente-960.webp",
+                                                                  "width":  960
+                                                              }
+                                                          ]
+                                         },
+                                         {
+                                             "src":  "images/productos/camiseta-celeste-dorso-960.webp",
+                                             "alt":  "Espalda de camiseta celeste Rugby XV con número 13",
+                                             "width":  960,
+                                             "height":  1286,
+                                             "variants":  [
+                                                              {
+                                                                  "src":  "images/productos/camiseta-celeste-dorso-480.webp",
+                                                                  "width":  480
+                                                              },
+                                                              {
+                                                                  "src":  "images/productos/camiseta-celeste-dorso-960.webp",
+                                                                  "width":  960
+                                                              }
+                                                          ]
+                                         },
+                                         {
+                                             "src":  "images/productos/camiseta-celeste-sin-modelo-960.webp",
+                                             "alt":  "Camiseta celeste Rugby XV sin modelo",
+                                             "width":  960,
+                                             "height":  1286,
+                                             "variants":  [
+                                                              {
+                                                                  "src":  "images/productos/camiseta-celeste-sin-modelo-480.webp",
+                                                                  "width":  480
+                                                              },
+                                                              {
+                                                                  "src":  "images/productos/camiseta-celeste-sin-modelo-960.webp",
+                                                                  "width":  960
+                                                              }
+                                                          ]
+                                         }
+                                     ]
+                     },
+                     {
+                         "id":  "camiseta-rugby-body",
+                         "slug":  "camiseta-rugby-body",
+                         "name":  "Camiseta Rugby Body",
+                         "categoryIds":  [
+                                             "rugby"
+                                         ],
+                         "image":  {
+                                       "src":  "images/productos/camiseta-verde-frente-960.webp",
+                                       "alt":  "Modelo de frente con camiseta verde de rugby con franjas blancas",
+                                       "width":  960,
+                                       "height":  1286,
+                                       "variants":  [
+                                                        {
+                                                            "src":  "images/productos/camiseta-verde-frente-480.webp",
+                                                            "width":  480
+                                                        },
+                                                        {
+                                                            "src":  "images/productos/camiseta-verde-frente-960.webp",
+                                                            "width":  960
+                                                        }
+                                                    ]
+                                   },
+                         "gallery":  [
+
+                                     ]
+                     },
+                     {
+                         "id":  "camiseta-rugby-ultrabooks",
+                         "slug":  "camiseta-rugby-ultrabooks",
+                         "name":  "Camiseta Rugby Ultrabooks",
+                         "categoryIds":  [
+                                             "rugby"
+                                         ],
+                         "image":  {
+                                       "src":  "images/productos/camiseta-rugby-ultrabooks-frente-960.webp",
+                                       "alt":  "Modelo de frente con camiseta rosa de rugby LIM Burger",
+                                       "width":  960,
+                                       "height":  1286,
+                                       "variants":  [
+                                                        {
+                                                            "src":  "images/productos/camiseta-rugby-ultrabooks-frente-480.webp",
+                                                            "width":  480
+                                                        },
+                                                        {
+                                                            "src":  "images/productos/camiseta-rugby-ultrabooks-frente-960.webp",
+                                                            "width":  960
+                                                        }
+                                                    ]
+                                   },
+                         "gallery":  [
+
+                                     ]
+                     },
+                     {
+                         "id":  "camiseta-rugby-london",
+                         "slug":  "camiseta-rugby-london",
+                         "name":  "Camiseta Rugby London",
+                         "categoryIds":  [
+                                             "rugby"
+                                         ],
+                         "image":  {
+                                       "src":  "images/productos/camiseta-rugby-london-frente-960.webp",
+                                       "alt":  "Modelo de frente con camiseta Rugby London negra y blanca",
+                                       "width":  960,
+                                       "height":  1286,
+                                       "variants":  [
+                                                        {
+                                                            "src":  "images/productos/camiseta-rugby-london-frente-480.webp",
+                                                            "width":  480
+                                                        },
+                                                        {
+                                                            "src":  "images/productos/camiseta-rugby-london-frente-960.webp",
+                                                            "width":  960
+                                                        }
+                                                    ]
+                                   },
+                         "gallery":  [
+
+                                     ]
+                     },
+                     {
+                         "id":  "short-rugby-shane",
+                         "slug":  "short-rugby-shane",
+                         "name":  "Short Rugby Shane",
+                         "categoryIds":  [
+                                             "rugby"
+                                         ],
+                         "image":  {
+                                       "src":  "images/productos/short-blanco-frente-960.webp",
+                                       "alt":  "Short blanco Rugby Shane con escudo verde circular",
+                                       "width":  960,
+                                       "height":  1286,
+                                       "variants":  [
+                                                        {
+                                                            "src":  "images/productos/short-blanco-frente-480.webp",
+                                                            "width":  480
+                                                        },
+                                                        {
+                                                            "src":  "images/productos/short-blanco-frente-960.webp",
+                                                            "width":  960
+                                                        }
+                                                    ]
+                                   },
+                         "gallery":  [
+
+                                     ]
+                     },
+                     {
+                         "id":  "short-rugby-durban",
+                         "slug":  "short-rugby-durban",
+                         "name":  "Short Rugby Durban",
+                         "categoryIds":  [
+                                             "rugby"
+                                         ],
+                         "image":  {
+                                       "src":  "images/productos/short-negro-listado-960.webp",
+                                       "alt":  "Short negro Rugby Durban de frente",
+                                       "width":  960,
+                                       "height":  1286,
+                                       "variants":  [
+                                                        {
+                                                            "src":  "images/productos/short-negro-listado-480.webp",
+                                                            "width":  480
+                                                        },
+                                                        {
+                                                            "src":  "images/productos/short-negro-listado-960.webp",
+                                                            "width":  960
+                                                        }
+                                                    ]
+                                   },
+                         "gallery":  [
+
+                                     ]
+                     },
+                     {
+                         "id":  "short-rugby-wave",
+                         "slug":  "short-rugby-wave",
+                         "name":  "Short Rugby Wave",
+                         "categoryIds":  [
+                                             "rugby"
+                                         ],
+                         "image":  {
+                                       "src":  "images/productos/short-azul-frente-960.webp",
+                                       "alt":  "Short azul Rugby Wave con escudo rosa",
+                                       "width":  960,
+                                       "height":  1286,
+                                       "variants":  [
+                                                        {
+                                                            "src":  "images/productos/short-azul-frente-480.webp",
+                                                            "width":  480
+                                                        },
+                                                        {
+                                                            "src":  "images/productos/short-azul-frente-960.webp",
+                                                            "width":  960
+                                                        }
+                                                    ]
+                                   },
+                         "gallery":  [
+
+                                     ]
+                     },
+                     {
+                         "id":  "medias-largas",
+                         "slug":  "medias-largas",
+                         "name":  "Medias Largas",
+                         "categoryIds":  [
+                                             "rugby"
+                                         ],
+                         "image":  {
+                                       "src":  "images/productos/medias-negras-960.webp",
+                                       "alt":  "Medias negras largas QUINCE sobre las piernas de un modelo",
+                                       "width":  960,
+                                       "height":  1286,
+                                       "variants":  [
+                                                        {
+                                                            "src":  "images/productos/medias-negras-480.webp",
+                                                            "width":  480
+                                                        },
+                                                        {
+                                                            "src":  "images/productos/medias-negras-960.webp",
+                                                            "width":  960
+                                                        }
+                                                    ]
+                                   },
+                         "gallery":  [
+
+                                     ]
+                     },
+                     {
+                         "id":  "camiseta-futbol-air-fit",
+                         "slug":  "camiseta-futbol-air-fit",
+                         "name":  "Camiseta Fútbol Air Fit",
+                         "categoryIds":  [
+                                             "futbol"
+                                         ],
+                         "image":  {
+                                       "src":  "images/productos/camiseta-futbol-roja-frente-960.webp",
+                                       "alt":  "Modelo con camiseta roja de fútbol Air Fit",
+                                       "width":  960,
+                                       "height":  1286,
+                                       "variants":  [
+                                                        {
+                                                            "src":  "images/productos/camiseta-futbol-roja-frente-480.webp",
+                                                            "width":  480
+                                                        },
+                                                        {
+                                                            "src":  "images/productos/camiseta-futbol-roja-frente-960.webp",
+                                                            "width":  960
+                                                        }
+                                                    ]
+                                   },
+                         "gallery":  [
+
+                                     ]
+                     },
+                     {
+                         "id":  "camiseta-hockey-force",
+                         "slug":  "camiseta-hockey-force",
+                         "name":  "Camiseta Hockey Force",
+                         "categoryIds":  [
+                                             "hockey-femenino"
+                                         ],
+                         "image":  {
+                                       "src":  "images/productos/camiseta-hockey-force-frente-960.webp",
+                                       "alt":  "Modelo de frente con camiseta Hockey Force blanca y azul",
+                                       "width":  960,
+                                       "height":  1286,
+                                       "variants":  [
+                                                        {
+                                                            "src":  "images/productos/camiseta-hockey-force-frente-480.webp",
+                                                            "width":  480
+                                                        },
+                                                        {
+                                                            "src":  "images/productos/camiseta-hockey-force-frente-960.webp",
+                                                            "width":  960
+                                                        }
+                                                    ]
+                                   },
+                         "gallery":  [
+
+                                     ]
+                     },
+                     {
+                         "id":  "pollera-hockey-con-calza",
+                         "slug":  "pollera-hockey-con-calza",
+                         "name":  "Pollera Hockey con Calza",
+                         "categoryIds":  [
+                                             "hockey-femenino"
+                                         ],
+                         "image":  {
+                                       "src":  "images/productos/pollera-roja-con-calza-960.webp",
+                                       "alt":  "Pollera roja de hockey levantada para mostrar la calza",
+                                       "width":  960,
+                                       "height":  1286,
+                                       "variants":  [
+                                                        {
+                                                            "src":  "images/productos/pollera-roja-con-calza-480.webp",
+                                                            "width":  480
+                                                        },
+                                                        {
+                                                            "src":  "images/productos/pollera-roja-con-calza-960.webp",
+                                                            "width":  960
+                                                        }
+                                                    ]
+                                   },
+                         "gallery":  [
+
+                                     ]
+                     },
+                     {
+                         "id":  "bermuda-c-corte-urban",
+                         "slug":  "bermuda-c-corte-urban",
+                         "name":  "Bermuda c/corte Urban",
+                         "categoryIds":  [
+                                             "urban"
+                                         ],
+                         "image":  {
+                                       "src":  "images/productos/bermuda-gris-frente-960.webp",
+                                       "alt":  "Bermuda gris Urban con cordón blanco",
+                                       "width":  960,
+                                       "height":  1286,
+                                       "variants":  [
+                                                        {
+                                                            "src":  "images/productos/bermuda-gris-frente-480.webp",
+                                                            "width":  480
+                                                        },
+                                                        {
+                                                            "src":  "images/productos/bermuda-gris-frente-960.webp",
+                                                            "width":  960
+                                                        }
+                                                    ]
+                                   },
+                         "gallery":  [
+
+                                     ]
+                     }
+                 ]
+}

@@ -1,5 +1,7 @@
 # QUINCE — Mapeo de imágenes
 
+**Para la implementación actual del listado, usar la revisión del Prompt 8 al final de este documento.** Las tablas iniciales conservan el estado de la auditoría y fueron refinadas al comparar las tomas ampliadas; no deben prevalecer sobre las correcciones P099/P273 para tarjetas.
+
 ## Método y lectura
 
 Se compararon visualmente todas las pantallas con las veinte portadas y hojas de contacto de las 274 fotos. **Alto** indica correspondencia visual clara de recurso, prenda y pose; no igualdad binaria con los píxeles de una captura. **Medio** identifica la prenda y candidatos locales, pero no confirma la toma exacta. **Bajo/pendiente** se reserva para elementos sin archivo utilizable identificado.
@@ -89,3 +91,24 @@ Se resolvieron dos identificaciones que en la auditoría inicial eran medias. Fo
 Los originales exactos y las copias `productos/camiseta-hockey-force-frente-{480,960}.webp` y `productos/pollera-roja-con-calza-{480,960}.webp` figuran en el manifiesto actualizado. No se modificaron originales. Las cifras históricas anteriores se conservan como registro: ahora hay 21/23 motivos con confianza alta y solo London/Ultrabooks continúan con confianza media.
 
 Home usa R017/R029/R031/R023 en la portada; P062/P086/P198/P002 en destacados; R028 en la macro mobile. Deportes usa R026/R021/R022/R019 y los mismos destacados. Training, Urbano e Instituciones tienen portada identificada, pero sus páginas interiores carecen de mockup y permanecen pendientes de diseño.
+
+## Revisión vigente — Prompt 8: tarjetas de catálogo
+
+Se verificaron las tomas contra recortes del listado original: London P058 y Ultrabooks P100 tienen correspondencia visual clara; la tarjeta Oldies usa P099 (P098 queda para el detalle) y Durban usa P273 con torso descubierto (P272 es otra toma con remera). Esta revisión reemplaza las asociaciones de tarjetas del cuadro inicial. No se editó ninguna foto para simular una pose diferente. Los nombres se toman del listado mobile y carpetas consistentes; las contradicciones comerciales se detallan en [listados-productos.md](listados-productos.md).
+
+| Producto | ID de auditoría | Ruta original verificada | Copia principal pública |
+| --- | --- | --- | --- |
+| Camiseta Rugby Oldies | P099 | `fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY OLDIES/Model_wearing_rugby_jersey_2K_20260911153008.jpeg` | `images/productos/camiseta-celeste-listado-960.webp` |
+| Camiseta Rugby Body | P092 | `fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY BODY/Create_a_highly_photorealistic_professional_2K_20260911152842.jpeg` | `images/productos/camiseta-verde-frente-960.webp` |
+| Camiseta Rugby Ultrabooks | P100 | `fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY ULTRABOOKS/Male_model_wearing_rugby_jersey_2K_20260911153129.jpeg` | `images/productos/camiseta-rugby-ultrabooks-frente-960.webp` |
+| Camiseta Rugby London | P058 | `fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA DE RUGBY LONDON/Create_a_highly_photorealistic_professional_2K_20260911153325.jpeg` | `images/productos/camiseta-rugby-london-frente-960.webp` |
+| Short Rugby Shane | P276 | `fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/SHORT RUGBY SHANE/Man_wearing_athletic_shorts_2K_20260911160012.jpeg` | `images/productos/short-blanco-frente-960.webp` |
+| Short Rugby Durban | P273 | `fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/SHORT RUGBY DURBAN/Man_wearing_athletic_shorts_2K_20260914154411.jpeg` | `images/productos/short-negro-listado-960.webp` |
+| Short Rugby Wave | P277 | `fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/SHORT RUGBY WAVE/Man_modeling_athletic_shorts_2K_20260911155856.jpeg` | `images/productos/short-azul-frente-960.webp` |
+| Medias Largas | P163 | `fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/MEDIAS LARGAS/Athlete_wearing_football_socks_2K_20260917102631.jpeg` | `images/productos/medias-negras-960.webp` |
+| Camiseta Fútbol Air Fit | P062 | `fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA FUTBOL AIR FIT/Create_a_highly_photorealistic_professional_2K_20260911154014.jpeg` | `images/productos/camiseta-futbol-roja-frente-960.webp` |
+| Camiseta Hockey Force | P086 | `fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA HOCKEY DAMA FORCE/Woman_wearing_sportswear_garment…_2K_20260911165831.jpeg` | `images/productos/camiseta-hockey-force-frente-960.webp` |
+| Pollera Hockey con Calza | P198 | `fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/POLLERA CON CALZA WAVE/Modelo_levantando_pollera_y_most…_2K_20260911170912.jpeg` | `images/productos/pollera-roja-con-calza-960.webp` |
+| Bermuda c/corte Urban | P002 | `fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/BERMUDA C_ CORTE URBAN/Man_wearing_athletic_shorts_2K_20260914162017.jpeg` | `images/productos/bermuda-gris-frente-960.webp` |
+
+Las fotos principales no se repiten entre productos. London y Ultrabooks dejan de estar pendientes de selección para este listado; quedan pendientes la validación final de nombres, galerías no incorporadas y restantes asociaciones del catálogo completo. El manifiesto conserva dimensiones, variantes y hashes actuales.

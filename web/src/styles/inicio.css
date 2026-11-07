@@ -24,10 +24,6 @@
 .destacados-inicio > h2 { font: 400 22px/1.2 Impact, 'Arial Narrow', Arial, sans-serif; text-transform: uppercase; margin: 0 0 20px; }
 .tira-destacados { display: grid; grid-auto-flow: column; grid-auto-columns: calc((100% - 72px) / 4); gap: 24px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
 .tira-destacados::-webkit-scrollbar { display: none; }
-.tarjeta-destacado { min-width: 0; scroll-snap-align: start; }
-.tarjeta-destacado img { display: block; width: 100%; aspect-ratio: 1792 / 2400; height: auto; object-fit: cover; }
-.tarjeta-destacado h3 { font-weight: 400; font-size: 15px; line-height: 1.25; margin: 16px 0 6px; }
-.tarjeta-destacado p { color: #777; font-size: 14px; margin: 0; }
 .presentacion-equipo { background: white; padding-block: 80px 132px; }
 .presentacion-oscura { background: black; color: white; padding-block: 80px 100px; }
 .presentacion-oscura .enlace-accion { background: white; color: black; }

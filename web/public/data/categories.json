@@ -60,7 +60,9 @@
         "label": "Ver colección",
         "href": "/deportes/rugby"
       },
-      "pendingMessage": "Listado de Rugby pendiente de implementación en la siguiente etapa."
+      "pendingMessage": "Listado de Rugby pendiente de implementación en la siguiente etapa.",
+      "view": "collection",
+      "designStatus": "ready"
     },
     {
       "id": "training",
@@ -89,7 +91,8 @@
         "href": "/training"
       },
       "designStatus": "pending",
-      "pendingMessage": "Diseño interior pendiente: se entregó la portada, pero falta una referencia de esta página."
+      "pendingMessage": "Diseño interior pendiente: se entregó la portada, pero falta una referencia de esta página.",
+      "view": "collection"
     },
     {
       "id": "urban",
@@ -118,7 +121,8 @@
         "href": "/urbano"
       },
       "designStatus": "pending",
-      "pendingMessage": "Diseño interior pendiente: se entregó la portada, pero falta una referencia de esta página."
+      "pendingMessage": "Diseño interior pendiente: se entregó la portada, pero falta una referencia de esta página.",
+      "view": "collection"
     },
     {
       "id": "institutions",
@@ -147,7 +151,8 @@
         "href": "/instituciones"
       },
       "designStatus": "pending",
-      "pendingMessage": "Diseño interior pendiente: se entregó la portada, pero falta una referencia de esta página."
+      "pendingMessage": "Diseño interior pendiente: se entregó la portada, pero falta una referencia de esta página.",
+      "view": "collection"
     },
     {
       "id": "hockey-femenino",
@@ -175,7 +180,8 @@
         "href": "/deportes/hockey-femenino"
       },
       "designStatus": "pending",
-      "pendingMessage": "Listado de esta disciplina pendiente de implementación."
+      "pendingMessage": "Listado de esta disciplina pendiente de implementación.",
+      "view": "collection"
     },
     {
       "id": "hockey-masculino",
@@ -203,7 +209,8 @@
         "href": "/deportes/hockey-masculino"
       },
       "designStatus": "pending",
-      "pendingMessage": "Listado de esta disciplina pendiente de implementación."
+      "pendingMessage": "Listado de esta disciplina pendiente de implementación.",
+      "view": "collection"
     },
     {
       "id": "futbol",
@@ -231,7 +238,8 @@
         "href": "/deportes/futbol"
       },
       "designStatus": "pending",
-      "pendingMessage": "Listado de esta disciplina pendiente de implementación."
+      "pendingMessage": "Listado de esta disciplina pendiente de implementación.",
+      "view": "collection"
     }
   ]
 }

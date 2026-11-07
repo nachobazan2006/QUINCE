@@ -253,5 +253,53 @@
                        960
                    ],
         "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p058",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA DE RUGBY LONDON/Create_a_highly_photorealistic_professional_2K_20260911153325.jpeg",
+        "nombre":  "productos/camiseta-rugby-london-frente",
+        "seccion":  "Listado Rugby desktop y mobile",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p100",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY ULTRABOOKS/Male_model_wearing_rugby_jersey_2K_20260911153129.jpeg",
+        "nombre":  "productos/camiseta-rugby-ultrabooks-frente",
+        "seccion":  "Listado Rugby desktop y mobile",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p099",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY OLDIES/Model_wearing_rugby_jersey_2K_20260911153008.jpeg",
+        "nombre":  "productos/camiseta-celeste-listado",
+        "seccion":  "Toma exacta de tarjeta en Listado Rugby",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
+    },
+    {
+        "id":  "p273",
+        "archivoZip":  "fotos-finales-quince.zip",
+        "rutaOriginal":  "FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/SHORT RUGBY DURBAN/Man_wearing_athletic_shorts_2K_20260914154411.jpeg",
+        "nombre":  "productos/short-negro-listado",
+        "seccion":  "Toma exacta de tarjeta en Listado Rugby",
+        "anchos":  [
+                       480,
+                       960
+                   ],
+        "estadoIdentificacion":  "alto"
     }
 ]

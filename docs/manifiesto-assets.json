@@ -10,11 +10,11 @@
     "fotos-finales-quince.zip": "70c83f6409ceffe5e70a69e18c39640a5f8d1e8e8961e83de73943c733bc2c8e"
   },
   "resumen": {
-    "seleccionadas": 21,
-    "variantes": 45,
-    "bytesOriginales": 29381794,
-    "bytesOptimizados": 1842988,
-    "reduccionPorcentaje": 93.73
+    "seleccionadas": 25,
+    "variantes": 53,
+    "bytesOriginales": 38157584,
+    "bytesOptimizados": 2224912,
+    "reduccionPorcentaje": 94.17
   },
   "recursos": [
     {
@@ -731,6 +731,138 @@
           "formato": "webp",
           "bytes": 58476,
           "sha256": "043581907addfea3dfac5275631eb21ca13e2ec0f107f877bf807c7074627b68"
+        }
+      ]
+    },
+    {
+      "id": "p058",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA DE RUGBY LONDON/Create_a_highly_photorealistic_professional_2K_20260911153325.jpeg",
+      "tipo": "productos",
+      "seccion": "Listado Rugby desktop y mobile",
+      "estadoIdentificacion": "alto",
+      "clave": "de125d0887ddbce03bdfba21d4054427d3fa73d72ef467e764effd2d1c68a6d8",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 2137406,
+        "sha256": "4fb318f86f4859f97bb6adb7d4124622136a63d977e185884ef55f169257e057"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/camiseta-rugby-london-frente-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 20924,
+          "sha256": "b347b3a72335178c14fad39569cc2232e2a47f919ae87262f3ca56388de0200d"
+        },
+        {
+          "rutaPublica": "images/productos/camiseta-rugby-london-frente-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 68038,
+          "sha256": "0f56d56b114513341a4dcaa3fe7f6196f4c75f19d4c957b6fb6770eab0abcb27"
+        }
+      ]
+    },
+    {
+      "id": "p100",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY ULTRABOOKS/Male_model_wearing_rugby_jersey_2K_20260911153129.jpeg",
+      "tipo": "productos",
+      "seccion": "Listado Rugby desktop y mobile",
+      "estadoIdentificacion": "alto",
+      "clave": "7f680453ee64d16ce7d9af4ed45d3ad7469f723be2b04fe187e0f1aa91959d18",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 2483374,
+        "sha256": "14ff2ce9ecf07069c1853ac31c34cf11e7e6188f1e22e2658cfa7dbeac8318a6"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/camiseta-rugby-ultrabooks-frente-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 37762,
+          "sha256": "4d3b22ed17f4966e31fdb7267b648b5ab682317429c7f468b47c1c9ca2798014"
+        },
+        {
+          "rutaPublica": "images/productos/camiseta-rugby-ultrabooks-frente-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 111320,
+          "sha256": "1b41c765b8afe3b06f8df0628140e6bd56ab3962a990934d365956485daba7c3"
+        }
+      ]
+    },
+    {
+      "id": "p099",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/CAMISETA RUGBY OLDIES/Model_wearing_rugby_jersey_2K_20260911153008.jpeg",
+      "tipo": "productos",
+      "seccion": "Toma exacta de tarjeta en Listado Rugby",
+      "estadoIdentificacion": "alto",
+      "clave": "6533f5567224e30290ebcc95c4b8d6d3d9387021aa97ee482aa5ba88cf02bca5",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 2213453,
+        "sha256": "19950799525c153d13e33638920cd82c7d0b341531f13269cfaa9c62845e2776"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/camiseta-celeste-listado-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 23588,
+          "sha256": "2d374367a795cf6b5ddd096960b7524430255a963a83a63099762a73906d9755"
+        },
+        {
+          "rutaPublica": "images/productos/camiseta-celeste-listado-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 66642,
+          "sha256": "ea423a73c34d2ab1ae93ff35fe385a790efd2176263549b34463386054379c96"
+        }
+      ]
+    },
+    {
+      "id": "p273",
+      "rutaOriginal": "fotos-finales-quince.zip::FOTOS FINALES QUINCE-20261030T212131Z-1-001/FOTOS FINALES QUINCE/SHORT RUGBY DURBAN/Man_wearing_athletic_shorts_2K_20260914154411.jpeg",
+      "tipo": "productos",
+      "seccion": "Toma exacta de tarjeta en Listado Rugby",
+      "estadoIdentificacion": "alto",
+      "clave": "1dde760e680b5bdd1564ae1b018c26fd957287bb94ed94eb70bfe211da24e19b",
+      "original": {
+        "ancho": 1792,
+        "alto": 2400,
+        "formato": "jpeg",
+        "bytes": 1941557,
+        "sha256": "84ba07209fd3c2df22b6e1a44305655a6286c579dd3db9451a9554a0145c0519"
+      },
+      "variantes": [
+        {
+          "rutaPublica": "images/productos/short-negro-listado-480.webp",
+          "ancho": 480,
+          "alto": 643,
+          "formato": "webp",
+          "bytes": 13766,
+          "sha256": "244377d720c3af003f314f84bf74980ef243eca12080f8d2d6594c3f05dfebda"
+        },
+        {
+          "rutaPublica": "images/productos/short-negro-listado-960.webp",
+          "ancho": 960,
+          "alto": 1286,
+          "formato": "webp",
+          "bytes": 39884,
+          "sha256": "865bd56203b3b035b842309ca5c33d31b1bcd66cd0ea022e4b8d201df830bf93"
         }
       ]
     }

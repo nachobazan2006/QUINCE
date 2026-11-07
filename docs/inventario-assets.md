@@ -1,5 +1,7 @@
 # QUINCE — Inventario de assets
 
+**Actualización vigente del Prompt 8:** el manifiesto contiene 25 fuentes y 53 variantes WebP. Se incorporaron ocho copias para London (P058), Ultrabooks (P100), la tarjeta Oldies (P099) y Durban (P273), sin alterar originales. Peso de las fuentes seleccionadas: 38.157.584 bytes; peso total de variantes: 2.224.912 bytes (94,17 % menos). Las cifras posteriores describen etapas históricas. Las rutas vigentes están en manifiesto-assets.json y [listados-productos.md](listados-productos.md).
+
 ## Alcance, método y ubicación
 
 Inventario del 6 de noviembre de 2026. Se recorrió una vez la lista de entradas de cada ZIP: lectura de bytes, SHA-256 de cada imagen, dimensiones mediante System.Drawing y miniaturas temporales. Se revisaron visualmente diez pantallas, veinte portadas y diez hojas de contacto que abarcan todas las fotografías. Sin Python disponible, se utilizaron bibliotecas integradas de Windows/.NET; no se instalaron dependencias.

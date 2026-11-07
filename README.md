@@ -8,9 +8,12 @@ Sitio oficial de QUINCE en desarrollo con React, Vite, React Router, CSS y datos
 - Header, navegación responsive y footer implementados.
 - Home superior/inferior y página Deportes implementadas, pendientes de aprobación visual.
 - Training, Urbano e Instituciones tienen rutas/datos preparados; sus interiores esperan referencias del diseñador.
-- Faltan cuatro pasos del plan de implementación. No se desarrollaron fichas individuales, filtros ni compra.
+- Prompt 8: listados dinámicos con 12 productos reales, tarjeta compartida con destacados y estados de carga/error/vacío. Rugby tiene ocho artículos, Fútbol uno, Hockey femenino dos y Urbano uno.
+- Las fichas individuales siguen siendo provisionales; no se desarrollaron su diseño completo, filtros ni compra. Quedan tres pasos del plan de implementación informado al iniciar el Prompt 8.
 
 Ver [informe de etapas 5–7](docs/etapas-5-6-7.md), [guía de datos](docs/modelos-datos.md) y [documentación de la aplicación](web/README.md).
+
+Informe vigente de listados, capturas y aprendizaje: [Prompt 8](docs/listados-productos.md). Verificación de catálogo: desde web, `node scripts/verificar-catalogo.mjs`. Las pruebas de navegador reproducibles y sus requisitos están documentados en ese informe.
 
 ## Ejecutar localmente
 

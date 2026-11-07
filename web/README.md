@@ -1,5 +1,7 @@
 # QUINCE — Base React
 
+Actualización Prompt 8: productos y listados dinámicos implementados, con tarjeta compartida entre grillas y destacados. Consultar el [informe vigente](../docs/listados-productos.md), el contrato de datos y sus capturas antes de usar las descripciones históricas de infraestructura que siguen. Pruebas sin dependencias adicionales: `node scripts/verificar-catalogo.mjs` y `node scripts/comprobar-listados.cjs` (requiere navegador/servidores indicados en el informe). En esta etapa se inició desarrollo en 5176; el puerto habitual puede seguir usándose si está libre.
+
 Actualización etapas 5–7: Home superior/inferior y Deportes ya tienen implementación visual; las páginas internas de Training/Urbano/Instituciones están bloqueadas por falta de diseño. Ver el [informe vigente](../docs/etapas-5-6-7.md), sus capturas y la lista de aprobaciones. Las descripciones de infraestructura siguientes conservan el estado histórico del Prompt 2. El servidor de revisión de estas etapas se inició en http://127.0.0.1:5175/; preview en 4173.
 
 Infraestructura del Prompt 2. Pantallas mínimas de navegación; el diseño final y el catálogo siguen pendientes. Se preservaron `AGENTS.md`, la auditoría y ambos ZIP en la raíz. No se crearon directorios vacíos de referencias ni se copiaron los 551 MiB a `public/`.
