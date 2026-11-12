@@ -1,4 +1,5 @@
-import { Link, useParams } from 'react-router';
+import { Link, useLocation, useParams } from 'react-router';
+import { useEffect } from 'react';
 import useProductos from '../hooks/useProductos.js';
 import useData from '../hooks/useData.js';
 import DataState from '../components/common/DataState.jsx';
@@ -10,6 +11,8 @@ import '../styles/detalle-producto.css';
 
 export default function PaginaDetalleProducto() {
   const { slug } = useParams();
+  const location = useLocation();
+  useEffect(() => { window.scrollTo({ top: 0, behavior: 'instant' }); }, [location.pathname]);
   const productos = useProductos();
   const categorias = useData('categories');
   return <div className="pagina-detalle-producto">

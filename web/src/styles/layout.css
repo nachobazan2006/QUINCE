@@ -110,6 +110,9 @@
   overflow-wrap: anywhere;
 }
 
+.fila-navegacion > a:hover,
+.fila-navegacion > .abrir-submenu:hover { color: #666; }
+
 .fila-navegacion > a[aria-current],
 .categoria-activa .etiqueta-submenu {
   text-decoration: underline;
