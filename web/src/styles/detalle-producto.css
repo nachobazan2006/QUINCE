@@ -48,7 +48,9 @@
   border: 0;
   background: #f5f5f5;
   cursor: pointer;
+  transition: opacity 160ms ease;
 }
+.miniaturas-producto button:hover { opacity: .78; }
 
 .miniaturas-producto button[aria-pressed="true"] {
   outline: 1px solid #999;
@@ -102,6 +104,13 @@
 
 .modal-zoom-producto img { max-width: 94vw; max-height: 92vh; object-fit: contain; }
 .cerrar-zoom-producto { position: absolute; top: 16px; right: 16px; width: 44px; height: 44px; border: 0; border-radius: 50%; background: white; font-size: 30px; cursor: pointer; }
+.controles-zoom { position: fixed; top: 50%; right: 24px; bottom: auto; }
+.controles-zoom button:first-child { position: fixed; left: 24px; }
+.foto-principal-producto button:hover, .controles-galeria button:hover { background: #e8e8e8; }
+.controles-galeria button:focus-visible { outline: 2px solid #111; outline-offset: 3px; }
+.controles-galeria button:active, .boton-zoom-producto:active { transform: scale(.96); }
+
+@media (prefers-reduced-motion: reduce) { .miniaturas-producto button { transition: none; } }
 
 .foto-principal-producto img {
   display: block;
@@ -137,13 +146,6 @@
   box-shadow: 0 1px 4px #0001;
 }
 
-.estado-galeria {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  clip-path: inset(50%);
-}
 
 .informacion-producto h1 {
   margin: 0;

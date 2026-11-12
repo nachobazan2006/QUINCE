@@ -15,6 +15,7 @@ function esContenidoInstitucionalValido(datos) {
 
 export default function PaginaNosotros() {
   const estado = useData('about');
+  useEffect(() => { window.scrollTo({ top: 0, behavior: 'instant' }); }, []);
   return <div className="pagina-nosotros">
     <DataState state={estado}>{datos => {
       if (!esContenidoInstitucionalValido(datos)) return <p role="alert">El contenido institucional no tiene un formato válido.</p>;
@@ -27,3 +28,4 @@ export default function PaginaNosotros() {
     }}</DataState>
   </div>;
 }
+import { useEffect } from 'react';

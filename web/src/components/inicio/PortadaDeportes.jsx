@@ -89,7 +89,7 @@ export default function PortadaDeportes({ categoria, disciplinas, intervalo }) {
         aria-controls={idFotos} aria-pressed={activa === indice} onClick={() => elegirFoto(indice)}><span aria-hidden="true" /></button>)}
     </div>
     <p className="solo-lectores" aria-live={conFoco || conMouse || movimientoReducido ? 'polite' : 'off'} aria-atomic="true">
-      Fotografía {activa + 1} de {fotos.length}: {fotos[activa].name}.
+      {fotos[activa].name}.
     </p>
   </article>;
 }

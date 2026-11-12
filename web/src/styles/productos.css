@@ -21,6 +21,9 @@
 
 .tarjeta-producto > a { overflow: hidden; }
 .tarjeta-producto > a:hover img { transform: scale(1.035); }
+.tarjeta-producto h2, .tarjeta-producto h3 { transition: color 160ms ease; }
+.tarjeta-producto > a:hover h2, .tarjeta-producto > a:hover h3 { color: #555; }
+.tarjeta-producto > a:active img { transform: scale(1.015); }
 @media (prefers-reduced-motion: reduce) { .tarjeta-producto img { transition: none; } }
 
 .tarjeta-producto h2,

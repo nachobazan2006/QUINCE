@@ -10,7 +10,10 @@ function ElementoNavegacion({ item, onNavigate }) {
   const navegar = () => {
     setAbierto(false); onNavigate?.();
   };
-  return <li className="elemento-navegacion" onBlur={event => {
+  return <li className={`elemento-navegacion${item.id === 'sports' ? ' menu-productos' : ''}`}
+    onMouseEnter={() => { if (item.id === 'sports' && window.matchMedia('(min-width: 1024px)').matches) setAbierto(true); }}
+    onMouseLeave={() => { if (item.id === 'sports' && window.matchMedia('(min-width: 1024px)').matches) setAbierto(false); }}
+    onBlur={event => {
     if (!event.currentTarget.contains(event.relatedTarget)) setAbierto(false);
   }} onKeyDown={event => {
     if (event.key === 'Escape' && abierto) {

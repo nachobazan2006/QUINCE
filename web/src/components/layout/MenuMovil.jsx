@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react';
 import Marca from './Marca.jsx';
 import Navegacion from './Navegacion.jsx';
 
-export default function MenuMovil({ abierto, cerrar, marca, items }) {
+export default function MenuMovil({ abierto, cerrar, marca, items, botonAbrir }) {
   const dialogo = useRef(null);
   useEffect(() => {
     const elemento = dialogo.current;
@@ -11,7 +11,11 @@ export default function MenuMovil({ abierto, cerrar, marca, items }) {
     elemento.querySelector('.cerrar-menu').focus();
     const anterior = document.body.style.overflow;
     document.body.style.overflow = 'hidden';
-    return () => { document.body.style.overflow = anterior; if (elemento.open) elemento.close(); };
+    return () => {
+      document.body.style.overflow = anterior;
+      if (elemento.open) elemento.close();
+      if (botonAbrir.current?.getClientRects().length) botonAbrir.current.focus();
+    };
   }, [abierto]);
   return <dialog ref={dialogo} id="menu-movil" className="menu-movil" aria-label="Menú principal"
     onKeyDown={event => {

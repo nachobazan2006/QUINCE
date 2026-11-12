@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Poppins Quince';
+  src: url('../assets/fonts/poppins-regular-latin.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+.presentacion-marca .enlace-presentacion-marca {
+  font-family: 'Poppins Quince', Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  font-synthesis: none;
+  letter-spacing: 0;
+  line-height: 24px;
+  padding: 10px 12px;
+  min-height: 44px;
+  border-radius: 999px;
+  background: #000;
+  color: #fff;
+  transition: background-color 180ms ease, color 180ms ease, transform 180ms ease;
+}
+
+.presentacion-marca .enlace-presentacion-marca:hover {
+  background: #333;
+  transform: translateY(-1px);
+}
+
+.presentacion-marca .enlace-presentacion-marca:active { transform: translateY(0); }
+.presentacion-marca .enlace-presentacion-marca:focus-visible { outline: 2px solid #111; outline-offset: 3px; }
+
+.presentacion-oscura .enlace-presentacion-marca { background: #fff; color: #000; }
+.presentacion-oscura .enlace-presentacion-marca[href]:hover { background: #a6a6a6; color: #fff; }
+.presentacion-oscura .enlace-presentacion-marca[href]:focus-visible { outline-color: #fff; }
+
+@media (prefers-reduced-motion: reduce) {
+  .presentacion-marca .enlace-presentacion-marca { transition: none; }
+}
+
+@media (max-width: 1023px) {
+  .presentacion-marca .enlace-presentacion-marca { font-size: 17px; }
+}

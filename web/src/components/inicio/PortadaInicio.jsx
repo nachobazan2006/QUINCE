@@ -51,5 +51,8 @@ export default function PortadaInicio({ categorias, etiqueta = 'Colecciones', pr
         aria-label={`Ver ${categoria.name}`} aria-current={activa === indice ? 'true' : undefined}
         aria-controls={id} onClick={() => irA(indice)}><span /></button>)}
     </div>}
+    {!rotacion && categorias.length > 1 && <p className="solo-lectores" role="status" aria-live="polite">
+      Categoría {activa + 1} de {categorias.length}: {categorias[activa]?.name}.
+    </p>}
   </section>;
 }

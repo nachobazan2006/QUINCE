@@ -1,4 +1,5 @@
-import { Outlet } from 'react-router';
+import { Outlet, useLocation } from 'react-router';
+import { useEffect } from 'react';
 import useData from '../../hooks/useData.js';
 import DataState from '../common/DataState.jsx';
 import Encabezado from './Encabezado.jsx';
@@ -6,6 +7,10 @@ import PiePagina from './PiePagina.jsx';
 import '../../styles/layout.css';
 
 export default function Layout() {
+  const location = useLocation();
+  useEffect(() => {
+    if (!location.hash) window.scrollTo({ top: 0, behavior: 'instant' });
+  }, [location.pathname, location.hash]);
   const navigation = useData('navigation');
   const pie = useData('footer');
   return (

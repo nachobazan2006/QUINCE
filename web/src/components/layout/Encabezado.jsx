@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import { useLocation } from 'react-router';
 import Marca from './Marca.jsx';
 import RedesSociales from './RedesSociales.jsx';
@@ -7,6 +7,7 @@ import MenuMovil from './MenuMovil.jsx';
 
 export default function Encabezado({ items, marca, redes }) {
   const [abierto, setAbierto] = useState(false);
+  const botonAbrir = useRef(null);
   const ubicacion = useLocation();
   const cerrar = useCallback(() => setAbierto(false), []);
   useEffect(cerrar, [ubicacion, cerrar]);
@@ -21,11 +22,11 @@ export default function Encabezado({ items, marca, redes }) {
     <div className="cabecera-principal contenedor-layout">
       <Marca marca={marca} />
       <div className="navegacion-escritorio"><Navegacion key={ubicacion.key} items={items} /></div>
-      <button type="button" className="boton-menu abrir-menu" aria-label="Abrir menú"
+      <button ref={botonAbrir} type="button" className="boton-menu abrir-menu" aria-label="Abrir menú"
         aria-expanded={abierto} aria-controls="menu-movil" onClick={() => setAbierto(true)}>
         <span aria-hidden="true" />
       </button>
     </div>
-    <MenuMovil abierto={abierto} cerrar={cerrar} marca={marca} items={items} />
+    <MenuMovil abierto={abierto} cerrar={cerrar} marca={marca} items={items} botonAbrir={botonAbrir} />
   </header>;
 }

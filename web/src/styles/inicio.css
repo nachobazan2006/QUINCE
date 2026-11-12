@@ -179,7 +179,14 @@
   font-size: 16px;
   line-height: 1.25;
   text-align: center;
+  transition: background-color 180ms ease, transform 180ms ease;
 }
+
+.enlace-accion[href]:hover { background: #333; transform: translateY(-1px); }
+.enlace-accion[href]:active { transform: translateY(0); }
+.enlace-accion[href]:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+
+@media (prefers-reduced-motion: reduce) { .enlace-accion { transition: none; } }
 
 .accion-portada {
   background: #ffffff1a;
@@ -230,6 +237,12 @@
 .indicadores-escritorio .actual {
   background: #fff;
 }
+
+.indicadores-portada button:hover span,
+.indicadores-rotacion button:hover span { background: #fff; }
+.indicadores-portada button:focus-visible,
+.indicadores-rotacion button:focus-visible,
+.control-foto-deportes:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
 
 .indicadores-escritorio {
   position: absolute;
@@ -292,11 +305,6 @@
   background: black;
   color: white;
   padding-block: 80px 100px;
-}
-
-.presentacion-oscura .enlace-accion {
-  background: white;
-  color: black;
 }
 
 .imagen-institucional-movil {
