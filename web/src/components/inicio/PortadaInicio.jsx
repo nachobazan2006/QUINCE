@@ -1,4 +1,4 @@
-import { useId, useRef, useState } from 'react';
+import { useEffect, useId, useRef, useState } from 'react';
 import ImagenAdaptable from '../common/ImagenAdaptable.jsx';
 import EnlaceAccion from '../common/EnlaceAccion.jsx';
 import PortadaDeportes from './PortadaDeportes.jsx';
@@ -6,8 +6,33 @@ import PortadaDeportes from './PortadaDeportes.jsx';
 export default function PortadaInicio({ categorias, etiqueta = 'Colecciones', principal = false, indicadoresEnTodas = false,
   rotacion, catalogo = [] }) {
   const [activa, setActiva] = useState(0);
+  const [indiceEnFoco, setIndiceEnFoco] = useState(null);
   const tira = useRef(null);
   const id = useId();
+
+  useEffect(() => {
+    const elemento = tira.current;
+    if (!elemento) return;
+    if (!('IntersectionObserver' in window)) {
+      setIndiceEnFoco(0);
+      return;
+    }
+
+    const proporcionesVisibles = new Map();
+    const observador = new IntersectionObserver(entradas => {
+      entradas.forEach(entrada => {
+        if (entrada.isIntersecting) proporcionesVisibles.set(entrada.target, entrada.intersectionRatio);
+        else proporcionesVisibles.delete(entrada.target);
+      });
+      const tarjetaEnFoco = [...proporcionesVisibles.entries()]
+        .sort((a, b) => b[1] - a[1])[0]?.[0];
+      setIndiceEnFoco(tarjetaEnFoco ? [...elemento.children].indexOf(tarjetaEnFoco) : null);
+    }, { threshold: [0.35, 0.55, 0.75] });
+
+    [...elemento.children].forEach(tarjeta => observador.observe(tarjeta));
+    return () => observador.disconnect();
+  }, [categorias.length, rotacion?.categoryId]);
+
   function irA(indice) {
     const elemento = tira.current;
     const destino = elemento.children[indice];
@@ -32,8 +57,9 @@ export default function PortadaInicio({ categorias, etiqueta = 'Colecciones', pr
       {categorias.map((categoria, indice) => rotacion?.categoryId === categoria.id
         ? <PortadaDeportes key={categoria.id} categoria={categoria}
           disciplinas={(categoria.childIds || []).map(id => catalogo.find(item => item.id === id)).filter(item => item?.image)}
-          intervalo={Number.isFinite(rotacion.intervalMs) && rotacion.intervalMs >= 5000 ? rotacion.intervalMs : 5000} />
-        : <article className="categoria-portada" key={categoria.id}>
+          intervalo={Number.isFinite(rotacion.intervalMs) && rotacion.intervalMs >= 5000 ? rotacion.intervalMs : 5000}
+          enFocoMovil={indiceEnFoco === indice} />
+        : <article className={`categoria-portada${indiceEnFoco === indice ? ' portada-en-foco' : ''}`} key={categoria.id}>
         <ImagenAdaptable imagen={categoria.image} prioritaria={principal && indice === 0}
           sizes="(min-width: 1024px) 25vw, (min-width: 600px) 50vw, 90vw" />
         <div className="texto-portada">

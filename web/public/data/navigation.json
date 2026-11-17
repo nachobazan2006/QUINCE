@@ -7,6 +7,12 @@
       "children": []
     },
     {
+      "id": "catalogo",
+      "label": "Catálogo",
+      "href": "/catalogo",
+      "children": []
+    },
+    {
       "id": "sports",
       "label": "Deportes",
       "href": "/deportes",

@@ -56,6 +56,51 @@
   object-position: center;
 }
 
+.pagina-inicio .categoria-portada > img,
+.pagina-inicio .foto-deporte img {
+  transition: filter 700ms ease;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .pagina-inicio .categoria-portada > img,
+  .pagina-inicio .foto-deporte img {
+    filter: grayscale(1);
+  }
+
+  .pagina-inicio .categoria-portada:hover > img,
+  .pagina-inicio .categoria-portada:focus-within > img,
+  .pagina-inicio .categoria-portada:hover .foto-deporte img,
+  .pagina-inicio .categoria-portada:focus-within .foto-deporte img {
+    filter: grayscale(0);
+  }
+
+  .pagina-inicio .tira-portadas .categoria-portada .accion-portada {
+    opacity: 0;
+    transform: translateY(12px);
+    transition: opacity 400ms ease, transform 400ms ease;
+    pointer-events: none;
+  }
+
+  .pagina-inicio .tira-portadas .categoria-portada:hover .accion-portada,
+  .pagina-inicio .tira-portadas .categoria-portada:focus-within .accion-portada {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+}
+
+@media (hover: none), (pointer: coarse) {
+  .pagina-inicio .categoria-portada > img,
+  .pagina-inicio .foto-deporte img {
+    filter: grayscale(1);
+  }
+
+  .pagina-inicio .categoria-portada.portada-en-foco > img,
+  .pagina-inicio .categoria-portada.portada-en-foco .foto-deporte img {
+    filter: grayscale(0);
+  }
+}
+
 .ventana-deportes {
   position: absolute;
   inset: 0;
@@ -186,7 +231,9 @@
 .enlace-accion[href]:active { transform: translateY(0); }
 .enlace-accion[href]:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
 
-@media (prefers-reduced-motion: reduce) { .enlace-accion { transition: none; } }
+@media (prefers-reduced-motion: reduce) {
+  .enlace-accion { transition: none; }
+}
 
 .accion-portada {
   background: #ffffff1a;
@@ -393,7 +440,10 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .fotos-deportes {
+  .fotos-deportes,
+  .pagina-inicio .categoria-portada > img,
+  .pagina-inicio .foto-deporte img,
+  .pagina-inicio .tira-portadas .categoria-portada .accion-portada {
     transition: none;
   }
 }

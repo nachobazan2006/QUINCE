@@ -2,7 +2,7 @@ import { useEffect, useId, useRef, useState } from 'react';
 import ImagenAdaptable from '../common/ImagenAdaptable.jsx';
 import EnlaceAccion from '../common/EnlaceAccion.jsx';
 
-export default function PortadaDeportes({ categoria, disciplinas, intervalo }) {
+export default function PortadaDeportes({ categoria, disciplinas, intervalo, enFocoMovil = false }) {
   const fotos = [categoria, ...disciplinas];
   const [activa, cambiarActiva] = useState(0);
   const [cargadas, cambiarCargadas] = useState([0]);
@@ -46,7 +46,7 @@ export default function PortadaDeportes({ categoria, disciplinas, intervalo }) {
     return () => window.clearTimeout(temporizador);
   }, [activa, intervalo, conMouse, conFoco, movimientoReducido, enPantalla, pestanaVisible, fotos.length]);
 
-  return <article className="categoria-portada portada-deportes-rotativa" ref={tarjeta}
+  return <article className={`categoria-portada portada-deportes-rotativa${enFocoMovil ? ' portada-en-foco' : ''}`} ref={tarjeta}
     aria-label="Deportes" aria-roledescription="carrusel"
     onPointerEnter={evento => { if (evento.pointerType === 'mouse') cambiarMouse(true); }}
     onPointerLeave={() => cambiarMouse(false)}
