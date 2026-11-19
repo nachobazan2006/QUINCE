@@ -1,7 +1,7 @@
-import { useEffect, useRef, useState } from 'react';
+﻿import { useEffect, useRef, useState } from 'react';
 import ImagenAdaptable from '../common/ImagenAdaptable.jsx';
 
-export default function GaleriaProducto({ imagenes, nombre }) {
+export default function GaleriaProducto({ imagenes, nombre, normalizarEncuadre = false }) {
   const [indiceActivo, cambiarIndice] = useState(0);
   const [imagenFallida, cambiarImagenFallida] = useState(null);
   const [zoomAbierto, cambiarZoomAbierto] = useState(false);
@@ -10,15 +10,17 @@ export default function GaleriaProducto({ imagenes, nombre }) {
   const modalZoom = useRef(null);
   const variasImagenes = imagenes.length > 1;
   const imagen = imagenes[indiceActivo];
+
   function recorrerGaleria(paso) {
     cambiarIndice(indice => (indice + paso + imagenes.length) % imagenes.length);
   }
+
   function manejarTeclado(evento) {
-    if (zoomAbierto) return;
-    if (!variasImagenes || !['ArrowLeft', 'ArrowRight'].includes(evento.key)) return;
+    if (zoomAbierto || !variasImagenes || !['ArrowLeft', 'ArrowRight'].includes(evento.key)) return;
     evento.preventDefault();
     recorrerGaleria(evento.key === 'ArrowRight' ? 1 : -1);
   }
+
   useEffect(() => {
     if (!zoomAbierto) return;
     botonCerrarZoom.current?.focus();
@@ -33,7 +35,8 @@ export default function GaleriaProducto({ imagenes, nombre }) {
       botonZoom.current?.focus();
     };
   }, [zoomAbierto, variasImagenes, imagenes.length]);
-  return <section className={`galeria-producto ${variasImagenes ? 'galeria-multiple' : ''}`}
+
+  return <section className={`galeria-producto ${variasImagenes ? 'galeria-multiple' : ''} ${normalizarEncuadre ? 'galeria-encuadre-comun' : ''}`}
     aria-label={`Fotografías de ${nombre}`} onKeyDown={manejarTeclado}>
     {variasImagenes && <div className="miniaturas-producto" aria-label="Elegir fotografía">
       {imagenes.map((foto, indice) => <button key={foto.src} type="button"
@@ -43,11 +46,15 @@ export default function GaleriaProducto({ imagenes, nombre }) {
       </button>)}
     </div>}
     <div className="foto-principal-producto">
-      {!imagen || imagenFallida === imagen.src ? <p className="foto-detalle-pendiente" role="status">Fotografía no disponible.</p>
+      {!imagen || imagenFallida === imagen.src
+        ? <p className="foto-detalle-pendiente" role="status">Fotografía no disponible.</p>
         : <div className="envoltorio-foto-producto">
-          <ImagenAdaptable imagen={{ ...imagen, alt: imagen.alt || nombre }} prioritaria onError={() => cambiarImagenFallida(imagen.src)}
+          <ImagenAdaptable key={imagen.src} className="imagen-principal-galeria"
+            imagen={{ ...imagen, alt: imagen.alt || nombre }} prioritaria
+            onError={() => cambiarImagenFallida(imagen.src)}
             sizes="(min-width: 1680px) 592px, (min-width: 1024px) 37vw, (min-width: 600px) 568px, calc(100vw - 32px)" />
-          <button ref={botonZoom} className="boton-zoom-producto" type="button" aria-label={`Ampliar imagen de ${nombre}`} onClick={() => cambiarZoomAbierto(true)}>
+          <button ref={botonZoom} className="boton-zoom-producto" type="button"
+            aria-label={`Ampliar imagen de ${nombre}`} onClick={() => cambiarZoomAbierto(true)}>
             <span aria-hidden="true">⌕</span>
           </button>
         </div>}
@@ -55,16 +62,21 @@ export default function GaleriaProducto({ imagenes, nombre }) {
         <button type="button" aria-label="Ver imagen anterior" onClick={() => recorrerGaleria(-1)}>‹</button>
         <button type="button" aria-label="Ver siguiente imagen" onClick={() => recorrerGaleria(1)}>›</button>
       </div>}
+      <p className="estado-galeria" aria-live="polite" aria-atomic="true">Imagen {indiceActivo + 1} de {imagenes.length}</p>
     </div>
-    {zoomAbierto && <div ref={modalZoom} className="modal-zoom-producto" role="dialog" aria-modal="true" aria-label={`Imagen ampliada de ${nombre}`} onClick={evento => { if (evento.target === evento.currentTarget) cambiarZoomAbierto(false); }} onKeyDown={evento => {
-      if (evento.key !== 'Tab') return;
-      const botones = [...modalZoom.current.querySelectorAll('button')];
-      const primero = botones[0];
-      const ultimo = botones.at(-1);
-      if (evento.shiftKey && document.activeElement === primero) { evento.preventDefault(); ultimo.focus(); }
-      else if (!evento.shiftKey && document.activeElement === ultimo) { evento.preventDefault(); primero.focus(); }
-    }}>
-      <button ref={botonCerrarZoom} type="button" className="cerrar-zoom-producto" aria-label="Cerrar imagen ampliada" onClick={() => cambiarZoomAbierto(false)}>×</button>
+    {zoomAbierto && <div ref={modalZoom} className="modal-zoom-producto" role="dialog" aria-modal="true"
+      aria-label={`Imagen ampliada de ${nombre}`}
+      onClick={evento => { if (evento.target === evento.currentTarget) cambiarZoomAbierto(false); }}
+      onKeyDown={evento => {
+        if (evento.key !== 'Tab') return;
+        const botones = [...modalZoom.current.querySelectorAll('button')];
+        const primero = botones[0];
+        const ultimo = botones.at(-1);
+        if (evento.shiftKey && document.activeElement === primero) { evento.preventDefault(); ultimo.focus(); }
+        else if (!evento.shiftKey && document.activeElement === ultimo) { evento.preventDefault(); primero.focus(); }
+      }}>
+      <button ref={botonCerrarZoom} type="button" className="cerrar-zoom-producto"
+        aria-label="Cerrar imagen ampliada" onClick={() => cambiarZoomAbierto(false)}>×</button>
       {variasImagenes && <div className="controles-galeria controles-zoom">
         <button type="button" aria-label="Ver imagen anterior" onClick={() => recorrerGaleria(-1)}>‹</button>
         <button type="button" aria-label="Ver siguiente imagen" onClick={() => recorrerGaleria(1)}>›</button>

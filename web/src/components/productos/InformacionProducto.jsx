@@ -1,6 +1,7 @@
 import { resourceUrl } from '../../services/data.js';
+import SelectorVarianteProducto from './SelectorVarianteProducto.jsx';
 
-export default function InformacionProducto({ producto, categoria }) {
+export default function InformacionProducto({ producto, categoria, variantes, varianteActiva, alSeleccionarVariante }) {
   const guia = typeof producto.sizeGuide === 'string' ? producto.sizeGuide.trim() : '';
   const guiaValida = guia && !guia.includes('#') && (/^https?:\/\//i.test(guia) || /^(?![a-z]+:|\/\/)[^\s]+$/i.test(guia));
   const caracteristicas = producto.characteristics || [];
@@ -8,6 +9,8 @@ export default function InformacionProducto({ producto, categoria }) {
   return <div className="informacion-producto">
     <h1>{producto.name}</h1>
     <p className="categoria-detalle">{categoria?.name}</p>
+    <SelectorVarianteProducto variantes={variantes} varianteActiva={varianteActiva}
+      alSeleccionar={alSeleccionarVariante} />
     {(guiaValida || tieneDescripcion) && <hr />}
     {guiaValida && <div className="guia-talles">
       <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor">

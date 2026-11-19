@@ -40,17 +40,27 @@ assert(obtenerProductosColeccion(productos, categorias, 'training').length > 0);
 assert.equal(obtenerProductosColeccion(productos, categorias, 'sports').length,
   productos.filter(p => p.categoryIds.some(id => categorias.some(c => c.id === id && c.parentId === 'sports'))).length);
 const base = JSON.parse(await fs.readFile(path.resolve(web, '../docs/catalogo-importacion/respaldo-inicial/products.json'), 'utf8'));
+const polleraConVariantes = productos.find(producto => producto.id === 'pollera-hockey-con-calza');
+assert.deepEqual(polleraConVariantes?.colorVariants?.map(variante => variante.id), ['roja', 'blanca-camuflada']);
+assert.equal(polleraConVariantes.colorVariants[1].gallery.length, 3);
+for (const producto of productos.filter(item => item.id !== 'pollera-hockey-con-calza')) {
+  assert.equal(producto.colorVariants, undefined, `No se agregan variantes a ${producto.id}`);
+}
 for (const [indice, producto] of base.products.entries()) {
   const { gallery, ...antes } = producto;
-  const { gallery: actual, ...despues } = productos[indice];
+  const { gallery: actual, colorVariants, ...despues } = productos[indice];
   assert.deepEqual(despues, antes, 'No deben cambiar datos ni orden de los productos originales');
   if (producto.id === 'camiseta-rugby-oldies') assert.deepEqual(productos[indice], producto);
 }
 const continuacion = JSON.parse(await fs.readFile(path.resolve(web, '../docs/catalogo-continuacion/respaldo-inicial/products.json'), 'utf8'));
-assert.deepEqual(productos.slice(0, continuacion.products.length), continuacion.products,
+const continuacionActual = productos.slice(0, continuacion.products.length)
+  .map(({ colorVariants, ...producto }) => producto);
+assert.deepEqual(continuacionActual, continuacion.products,
   'Los 24 registros anteriores deben conservar todos sus datos, galerías y orden');
 const clasificacionManual = JSON.parse(await fs.readFile(path.resolve(web, '../docs/catalogo-clasificacion-manual/respaldo-inicial/products.json'), 'utf8'));
-assert.deepEqual(productos.slice(0, clasificacionManual.products.length), clasificacionManual.products,
+const clasificacionActual = productos.slice(0, clasificacionManual.products.length)
+  .map(({ colorVariants, ...producto }) => producto);
+assert.deepEqual(clasificacionActual, clasificacionManual.products,
   'Los 53 registros anteriores deben conservar todos sus datos, galerías y orden');
 // invertimos una copia para comprobar que el filtro no impone un orden propio
 assert.equal(obtenerProductosColeccion([...productos].reverse(), categorias, 'rugby')[0].id, rugby.at(-1).id);

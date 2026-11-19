@@ -774,6 +774,51 @@
             }
           ]
         }
+      ],
+      "colorVariants": [
+        {
+          "id": "roja",
+          "label": "Roja",
+          "swatch": "#c92c38",
+          "gallerySource": "gallery"
+        },
+        {
+          "id": "blanca-camuflada",
+          "label": "Blanca",
+          "swatch": "#fff",
+          "gallery": [
+            {
+              "src": "images/productos/pollera-hockey-calza-blanca-frente-levantada-504.webp",
+              "alt": "Pollera blanca de hockey con detalles rojos y negros, vista tres cuartos con la calza interior visible",
+              "width": 504,
+              "height": 1017,
+              "variants": [
+                { "src": "images/productos/pollera-hockey-calza-blanca-frente-levantada-480.webp", "width": 480 },
+                { "src": "images/productos/pollera-hockey-calza-blanca-frente-levantada-504.webp", "width": 504 }
+              ]
+            },
+            {
+              "src": "images/productos/pollera-hockey-calza-blanca-lateral-504.webp",
+              "alt": "Pollera blanca de hockey con paneles laterales rojos y negros, vista lateral",
+              "width": 504,
+              "height": 1017,
+              "variants": [
+                { "src": "images/productos/pollera-hockey-calza-blanca-lateral-480.webp", "width": 480 },
+                { "src": "images/productos/pollera-hockey-calza-blanca-lateral-504.webp", "width": 504 }
+              ]
+            },
+            {
+              "src": "images/productos/pollera-hockey-calza-blanca-frente-504.webp",
+              "alt": "Pollera blanca de hockey con detalles rojos y negros, vista frontal",
+              "width": 504,
+              "height": 1017,
+              "variants": [
+                { "src": "images/productos/pollera-hockey-calza-blanca-frente-480.webp", "width": 480 },
+                { "src": "images/productos/pollera-hockey-calza-blanca-frente-504.webp", "width": 504 }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
